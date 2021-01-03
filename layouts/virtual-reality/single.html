@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<section class="blog-post topmost-section">
+  <div class="container">
+    {{ .Content | safeHTML }}
+    <div class="arrows">
+      {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" class="previous">{{ .Title }} -></a>
+      {{ end }}
+      {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" class="next"><- {{ .Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

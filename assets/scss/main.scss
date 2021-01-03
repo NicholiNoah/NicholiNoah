@@ -1,0 +1,122 @@
+@import '/bootstrap/bootstrap-grid.scss';
+
+@import 'constants';
+@import 'nav';
+
+body {
+  margin: 0;
+  background-color: $white-color;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, label, span, ul, ol, li, code, figcaption {
+  font-weight: normal;
+}
+
+h1, h2, h3, span, th, code, ul, ol, li, td, figcaption {
+  font-family: sans-serif;
+  color: $black-color;
+}
+
+label, a, p {
+  font-family: "Arial", sans-serif;
+  color: $black-color;
+}
+
+h2, h3 {
+  margin: 1.5rem 0 1.15rem;
+}
+
+.topmost-section {
+  padding-top: 4rem;
+}
+
+.index {
+  img {
+    width: 100%;
+    min-height: 40rem;
+    object-fit: cover;
+    }
+  h1, h2 {
+    text-align: left;
+  }
+  .center-container {
+    display: flex;
+    align-items: center;
+    .content-container {
+      padding-left: 4rem;
+    }
+  }
+}
+
+.blog {
+  background-color: $light-color;
+  min-height: 100vh;
+  .blog-posts {
+    .post {
+      margin-top: 2rem;
+      background-color: $white-color;
+      text-decoration: none;
+      .blog-list-image {
+        display: block;
+        width: 100%;
+      }
+      p {
+        text-transform: uppercase;
+        font-size: 0.75rem;
+        margin: 0;
+        font-weight: 700;
+        text-align: center;
+      }
+      .overlay {
+        opacity: 0;
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        align-items: center;
+        justify-content: center;
+        background-color: $light-transparent;
+        transition: 0.2s opacity linear;
+        text-decoration: none;
+        h2 {
+          color: $white-color;
+        }
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+.blog-post {
+  iframe, img {
+    display: block;
+    margin: 0.75rem auto;
+    width: 100%;
+    max-width: 450px;
+    min-height: 250px;
+    border: 0;
+  }
+}
+
+.arrows {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  .next {
+    float: left;
+    text-decoration: none;
+  }
+  .previous {
+    float: right;
+    text-decoration: none;
+
+  }
+}

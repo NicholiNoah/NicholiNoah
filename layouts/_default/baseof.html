@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base
+    href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+  <title>{{ .Params.title }} | {{ $.Site.Title }}</title>
+
+  <meta property="og:url" content="{{ .Permalink }}" />
+
+  {{ if .Params.metaDescription }}
+  <meta name="description" content="{{ .Params.metaDescription }}">
+  <meta property="og:description" content="{{ .Params.metaDescription }}">
+  {{ else }}
+  <meta name="description" content="{{ .Summary }}">
+  <meta property="og:description" content="{{ .Summary }}">
+  {{ end }}
+
+  <meta property="og:image" content="/images/CVRS3D_Banner600.jpg">
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  {{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16" />
+
+</head>
+
+<body>
+  
+  <header>
+    <nav>
+      <div class="container">
+        {{ range .Site.Menus.nav.ByWeight }}
+        <a href="{{.URL}}" class="nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+      </div>
+    </nav>
+  </header>
+
+  <main>
+
+    {{ block "main" . }}{{end}}
+
+  </main>
+
+  <script async src="/index.js"></script>
+</body>
+
+</html>

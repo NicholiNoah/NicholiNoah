@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<section class="blog topmost-section">
+  <div class="container">
+    <div class="row blog-posts">
+      {{ range .Data.Pages }}
+        <div class="col-md-4 post">
+          <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
+          <p>{{ .Params.description }}</p>
+          <a class="overlay" href="{{ .Permalink }}">
+            <h2>{{ .Params.title }}</h2>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

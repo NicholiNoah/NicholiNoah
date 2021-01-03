@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<section class="index topmost-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img class="blog-list-image" src="{{ .Params.banner }}">
+      </div>
+      <div class="col-md-6 center-container">
+        <div class="content-container">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

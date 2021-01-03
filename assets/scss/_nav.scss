@@ -1,0 +1,17 @@
+nav {
+  position: fixed;
+  background-color: $white-color;
+  width: 100%;
+  .nav-link {
+    display: inline-block;
+    padding: 1.5rem 0.5rem;
+    color: $dark-color;
+    text-decoration: none;
+    &.active {
+      color: $blue-color;
+    }
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+}
