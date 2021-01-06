@@ -33,11 +33,30 @@
   <header>
     <nav>
       <div class="container">
-        {{ range .Site.Menus.nav.ByWeight }}
-        <a href="{{.URL}}" class="nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">
-          {{ .Name }}
-        </a>
-        {{ end }}
+        <div class="nav-brand">
+          <a href="/" class="brand" aria-label="Front page">
+            <img src="/images/logo.png" alt="Logo">
+          </a>
+        </div>
+        <label class="menu" for="nav-check">
+          <img src="/images/menu.svg">
+        </label>
+        <input type="checkbox" id="nav-check">
+        <div class="nav-left collapse">
+          {{ range .Site.Menus.nav.ByWeight }}
+          <a href="{{.URL}}" class="nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">
+            {{ .Name }}
+          </a>
+          {{ end }}
+        </div>
+        <div class="nav-right collapse">
+          <a href="/" class="nav-image-link" aria-label="Send Email">
+            <img src="/images/envelope.svg">
+          </a>
+          <a href="/" class="nav-image-link" aria-label="Linkedin">
+            <img src="/images/linkedin-in.svg">
+          </a>
+        </div>
       </div>
     </nav>
   </header>

@@ -2,6 +2,7 @@
 title: This is about me
 metaDescription: CuriousVR is the most curious vr website this side of reality.
 banner: /images/placeholder-mountain.jpg
+bannerHeight: 75vh
 ---
 
 # This is about me

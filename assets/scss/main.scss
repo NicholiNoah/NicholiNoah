@@ -32,13 +32,12 @@ h2, h3 {
 }
 
 .topmost-section {
-  padding-top: 4rem;
+  padding-top: 8rem;
 }
 
 .index {
   img {
     width: 100%;
-    min-height: 40rem;
     object-fit: cover;
     }
   h1, h2 {
@@ -48,13 +47,13 @@ h2, h3 {
     display: flex;
     align-items: center;
     .content-container {
-      padding-left: 4rem;
+      padding-left: 2rem;
     }
   }
 }
 
 .blog {
-  background-color: $light-color;
+  background-color: $white-color;
   min-height: 100vh;
   .blog-posts {
     .post {
