@@ -27,5 +27,5 @@ summaryLength = 30
   [[menu.nav]]
     identifier = "blog"
     name = "Blog"
-    url = "/blog/"
+    url = "https://bravemetaverse.com/blog/"
     weight = 4
