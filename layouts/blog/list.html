@@ -1,16 +1,23 @@
 {{ define "main" }}
 
 <section class="blog topmost-section">
-  <div class="container">
-    <div class="row blog-posts">
-      {{ range .Data.Pages }}
-        <div class="col-md-4 post">
-          <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
-          <p>{{ .Params.description }}</p>
-          <a class="overlay" href="{{ .Permalink }}">
-            <h2>{{ .Params.title }}</h2>
-          </a>
-        </div>
+  <div class="blog-banner"
+      style="background-image:url('{{ .Params.bannerImage }}');height:{{ .Params.bannerHeight }};max-height:{{ .Params.maxBannerHeight }};"></div>
+  <div class="container small-container">
+    <div class="blog-cards">
+      {{ range (.Data.Pages).ByDate.Reverse }}
+        <a href="{{ .Permalink }}">
+          <div class="row blog-card">
+            <div class="col-md-6">
+              <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
+            </div>
+            <div class="col-md-6">
+                <h2>{{ .Params.title }}</h2>
+                <p>{{ .Params.date.Format "January 2, 2006" }}</p>
+                <p>{{ .Params.description }}</p>
+            </div>
+          </div>
+        </a>
       {{ end }}
     </div>
   </div>

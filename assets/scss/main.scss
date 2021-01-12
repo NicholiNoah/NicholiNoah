@@ -3,7 +3,7 @@
 @import 'constants';
 @import 'nav';
 
-body {
+body, html {
   margin: 0;
   background-color: $white-color;
 }
@@ -32,10 +32,11 @@ h2, h3 {
 }
 
 .topmost-section {
-  padding-top: 8rem;
+  padding-top: 4rem;
 }
 
 .index {
+  padding-top: 8rem;
   img {
     width: 100%;
     object-fit: cover;
@@ -48,6 +49,9 @@ h2, h3 {
     align-items: center;
     .content-container {
       padding-left: 2rem;
+      @media (max-width: 767px) {
+        padding: 0;
+      }
     }
   }
 }
@@ -96,6 +100,10 @@ h2, h3 {
 }
 
 .blog-post {
+  h1 {
+    font-weight: 700;
+    font-size: 2rem;
+  }
   iframe, img {
     display: block;
     margin: 0.75rem auto;
@@ -103,6 +111,7 @@ h2, h3 {
     max-width: 450px;
     min-height: 250px;
     border: 0;
+    object-fit: cover;
   }
 }
 
@@ -117,5 +126,34 @@ h2, h3 {
     float: right;
     text-decoration: none;
 
+  }
+}
+
+.small-container {
+  max-width: 512px;
+}
+
+.blog-banner {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.blog-cards {
+  a {
+    text-decoration: none;
+  }
+  .blog-card {
+    margin-top: 3rem;
+    &:hover {
+      opacity: 0.7;
+    }
+    img {
+      width: 100%;
+    }
+    h2 {
+      margin-top: 0;
+      text-align: left;
+    }
   }
 }

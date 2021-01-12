@@ -2,6 +2,7 @@
 
 <section class="blog-post topmost-section">
   <div class="container">
+    <h1>{{ .Params.title }}</h1>
     {{ .Content | safeHTML }}
     <div class="arrows">
       {{ with .PrevInSection }}
