@@ -5,7 +5,7 @@
 
 body, html {
   margin: 0;
-  background-color: $white-color;
+  background-color: #fffffd;
 }
 
 h1, h2, h3 {
@@ -57,12 +57,12 @@ h2, h3 {
 }
 
 .blog {
-  background-color: $white-color;
+  background-color: #fffffd;
   min-height: 100vh;
   .blog-posts {
     .post {
       margin-top: 2rem;
-      background-color: $white-color;
+      background-color: #fffffd;
       text-decoration: none;
       .blog-list-image {
         display: block;
@@ -70,7 +70,7 @@ h2, h3 {
       }
       p {
         text-transform: uppercase;
-        font-size: 0.75rem;
+        font-size: 0.65rem;
         margin: 0;
         font-weight: 700;
         text-align: center;
@@ -88,7 +88,7 @@ h2, h3 {
         background-color: $light-transparent;
         transition: 0.2s opacity linear;
         text-decoration: none;
-        h2 {
+        h3 {
           color: $white-color;
         }
         &:hover {
