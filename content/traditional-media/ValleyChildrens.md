@@ -3,6 +3,8 @@ title: Valley Children's Hospital
 metaDescription: CuriousVR is the most curious vr website this side of reality.
 thumbnail: https://lh3.googleusercontent.com/GLnp_bnCefUGWxfrGtaa5fYC9TOnv2okoJSwkNRRWUmTkwsEAT9GYnXumwQxN5CTzmCSssv2DvJ3E0smJNMKBsjBSC6bmoOjjzskasPrHEVi2niI9jJ-r4rEeNGwxrO7jr4itIE43w=w2400
 description: EDITOR / CO-WRITER / VFX - ** EMMY AWARD WINNER **
+alt: alt text
+rank: 7
 ---
 
 
