@@ -3,6 +3,8 @@ title: Cincinnati Children's Hospital
 metaDescription: A child’s battle with cancer impacts the entire family. What do you do if you can't afford the treatment she so desperately needs?
 thumbnail: https://lh3.googleusercontent.com/B-GMwrfxlfsmr6PZ4MlVEGw6IcMVxsauS2wGq0hggvp9aRAnJM8KWYNZU-5au246kj61d8dXJAFQfkFxcOWgrG3DBp52ZPYlHJ64wY9Wr7hVYIQ3LxyIfmkq8pFpX3mBntKrJIMcvg=w2400
 description: EDITOR / CO-WRITER / 2ND ASST DIR. - ** EMMY AWARD WINNER **
+alt: alt text
+rank: 3
 ---
 
 
