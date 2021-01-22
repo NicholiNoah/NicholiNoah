@@ -5,7 +5,7 @@
     
   </div>
   <div class="container">
-    <h1>{{ .Params.title }}</h1>
+    <h1>{{ .Params.title | safeHTML }}</h1>
     {{ .Content | safeHTML }}
     <div class="arrows">
       {{ with .PrevInSection }}

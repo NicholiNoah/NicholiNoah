@@ -1,10 +1,10 @@
 ---
-title: This is about me
-metaDescription: CuriousVR is the most curious vr website this side of reality.
-thumbnail: /images/eee.png
-description: writer / editor/ graphics
-alt: alt text
-rank: 12
+title: DBA Dreamhouse
+metaDescription: 
+thumbnail: https://lh3.googleusercontent.com/m1S3mhniIQETHRVHLtfP4IF4Bp4JRxHg6L9M6VE7z-bY8UNfZkNHhR1IsRB1bPexTgiC9CgZWGMEE2oNjOS0t89z-Tn_KYtimdADrxL4h6wg6gdgDiDfQ83OWkExf6cV4ez_Vqc6Rg=w2400
+description: director \ producer \ photographer \ lead editor
+alt: Young boys in India smiling and waving at the camera
+rank: 10
 ---
 
 

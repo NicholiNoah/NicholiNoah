@@ -8,7 +8,7 @@
           <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
           <p>{{ .Params.description | safeHTML }}</p>
           <a class="overlay" href="{{ .Permalink }}" aria-label="{{ .Params.title }}">
-            <h2>{{ .Params.title }}</h2>
+            <h2>{{ .Params.title | safeHTML }}</h2>
           </a>
         </div>
       {{ end }}

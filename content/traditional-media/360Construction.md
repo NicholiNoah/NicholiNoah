@@ -1,9 +1,9 @@
 ---
-title: 360VR Construction Management Training
-metaDescription: CuriousVR is the most curious vr website this side of reality.
+title: 360VR Construction <br> Management Training
+metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/voATB6lrwI2hX82jwGiBm3n-db1NGPZvAbQ8Og39ALXetIS_baLVg8Sa7vgOCcPZ-tcQO6MiLvRtR0bs3xyCalbmRVn6avjOLSBuNBEM2_WC5HAwq6sYGBDSgrByfqcSo5vDj5cpDQ=w2400
-description: Director / Producer
-alt: alt text
+description: Director \ Producer
+alt: Empty construction site with a crane and other equipment
 rank: 2
 ---
 

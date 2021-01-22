@@ -1,10 +1,10 @@
 ---
-title: This is about me
-metaDescription: CuriousVR is the most curious vr website this side of reality.
-thumbnail: /images/eee.png
-description: writer / editor/ graphics
-alt: alt text
-rank: 12
+title: Hungry Howies Pizza
+metaDescription: 
+thumbnail: https://lh3.googleusercontent.com/nsqI7PFXBsXIqgBrlVzEjdX_KHQ_zLe-zbuF_XW6wekEh-WOenCK29kIv4pO9-loI1Zso7esuwmqDsFabxEsM1CSSRZ6KY5oU6hFrjxuYw2zE5ieJSuZfzkoGxroa-GcI0sc-HQNcA=w2400
+description: director \ writer \ editor \ graphics \ vfx
+alt: Man wearing a pink motorcycle helmet looks up and gestures, expecting something to happen
+rank: 9
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: Immy Inc.
-metaDescription: CuriousVR is the most curious vr website this side of reality.
+metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/DSYL8pTDGa4IMhRmUUFVB6IRK5VFTRbA1aKqWt5hjCP_2o1b6o1qlymhvePhK1pLABNuzqZdVaicXxao1IRk2f3--lgeMOYiPZEg2jd2F5bDMLU4FYTPnz3hGapmE7hMQo7FAqWZsw=w2400
 description: director \ editor \ writer \ compositor
-alt: alt text
+alt: Immy 1 virtual reality headset
 rank: 4
 ---
 
