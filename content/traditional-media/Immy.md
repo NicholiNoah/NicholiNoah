@@ -8,7 +8,7 @@ rank: 4
 ---
 
 
-<iframe src="https://youtu.be/UM5S3PwyynA" class="youtube-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/PcV9-AdkhRQ" class="youtube-iframe"></iframe>
 
 **CHALLENGE:** Create a teaser video showcasing a prototype virtual reality headset. The prototype is not accessible, and no demo content exists. Must use 100% stock (or newly shot) footage and music, with a 4-day turnaround.
 
