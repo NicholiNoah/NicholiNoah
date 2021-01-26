@@ -9,11 +9,11 @@ rank: 7
 
 <div class="row">
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/8IUusTLghNY" class="youtube-iframe"></iframe>
   </div>
   <div class="col-md-6">
     <br>
-    those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy
+    that's me at 3:03 :)
   </div>
 </div>
 
@@ -23,6 +23,6 @@ rank: 7
     those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy
   </div>
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/sSHiwPls3mQ" class="youtube-iframe"></iframe>
   </div>
 </div>
