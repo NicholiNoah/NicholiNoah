@@ -1,5 +1,5 @@
 ---
-title: 360VR Construction <br> Management Training
+title: 360VR Construction<br>Management Training
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/voATB6lrwI2hX82jwGiBm3n-db1NGPZvAbQ8Og39ALXetIS_baLVg8Sa7vgOCcPZ-tcQO6MiLvRtR0bs3xyCalbmRVn6avjOLSBuNBEM2_WC5HAwq6sYGBDSgrByfqcSo5vDj5cpDQ=w2400
 description: Director \ Producer
