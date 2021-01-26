@@ -10,10 +10,10 @@ rank: 5
 
 <div class="row">
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/Oaux80e49FA" class="youtube-iframe"></iframe>
   </div>
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/w9YutHLfJL0" class="youtube-iframe"></iframe>
   </div>
 </div>
 
@@ -30,9 +30,9 @@ One applied to many.  Optimization without disruption.  A genuine portrait of th
 
 <div class="row">
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/fodp3jR5O3g" class="youtube-iframe"></iframe>
   </div>
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed//dOgyJjrgato" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/2EC7izafgWM" class="youtube-iframe"></iframe>
   </div>
 </div>
