@@ -1,14 +1,14 @@
 ---
 title: DBA Dreamhouse
 metaDescription: 
-thumbnail: https://lh3.googleusercontent.com/m1S3mhniIQETHRVHLtfP4IF4Bp4JRxHg6L9M6VE7z-bY8UNfZkNHhR1IsRB1bPexTgiC9CgZWGMEE2oNjOS0t89z-Tn_KYtimdADrxL4h6wg6gdgDiDfQ83OWkExf6cV4ez_Vqc6Rg=w2400
+thumbnail: https://lh3.googleusercontent.com/S8PuCNdXjSWxahafqx2FKHt_jYiz4xfqfucsbMB5pd3Hue4RuawNOtU0t16mLAN32luS0oCWcj0rNnwGIYw65a0506u9TyaFbl3_FsyRfvRKvrI1FsXdRLiQ_ZJmH_u8HqxB3SH9sA=w2400
 description: director \ producer \ photographer \ lead editor
 alt: Young boys in India smiling and waving at the camera
 rank: 10
 ---
 
 
-<iframe src="https://youtu.be/UM5S3PwyynA" class="youtube-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/CfRgwlouygc" class="youtube-iframe"></iframe>
 
 On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.
 

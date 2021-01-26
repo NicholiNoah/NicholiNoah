@@ -1,5 +1,5 @@
 ---
-title: Valley Children's <br> Hospital
+title: Valley Children's <br> Healthcare
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/GLnp_bnCefUGWxfrGtaa5fYC9TOnv2okoJSwkNRRWUmTkwsEAT9GYnXumwQxN5CTzmCSssv2DvJ3E0smJNMKBsjBSC6bmoOjjzskasPrHEVi2niI9jJ-r4rEeNGwxrO7jr4itIE43w=w2400
 description: EDITOR \ CO-WRITER \ VFX <br> ** EMMY AWARD WINNER **
@@ -8,7 +8,7 @@ rank: 3
 ---
 
 
-<iframe src="https://www.youtube.com/embed/cvzMeVozfVw" class="youtube-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/P-iOSfdtsDg" class="youtube-iframe"></iframe>
 
 **CHALLENGE:** Engineer an on-set, live compositing workflow that provides near instant playback of multiple video layers, each captured at varying speeds and framerates to save time and budget on an extremely complicated motion capture shoot.
 
@@ -17,9 +17,9 @@ This was a chance to prove myself by providing more value than just editing clip
 
 <div class="row">
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed/cvzMeVozfVw" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/sw3PFBV7qDQ" class="youtube-iframe"></iframe>
   </div>
   <div class="col-md-6">
-    <iframe src="https://www.youtube.com/embed/cvzMeVozfVw" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/oy61GdXiJo4" class="youtube-iframe"></iframe>
   </div>
 </div>

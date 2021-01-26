@@ -8,7 +8,7 @@ rank: 6
 ---
 
 
-<iframe src="https://www.youtube.com/embed/o1SAHRop7O8?start=6" class="youtube-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/xdoJt7lIbEo" class="youtube-iframe"></iframe>
 
 **CHALLENGE:** Edit one hard drive full of interview and b-roll footage into three profile pieces in eight days. Followed by a 10-day road trip shot guerilla style with eight additional artists destined to battle brush-to-brush live on stage at SXSW.
 
