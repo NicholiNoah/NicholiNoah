@@ -6,14 +6,6 @@
   <div class="container">
     <h1>{{ .Params.title | safeHTML }}</h1>
     {{ .Content | safeHTML }}
-    <div class="arrows">
-      {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}" class="previous">{{ .Title }} -></a>
-      {{ end }}
-      {{ with .NextInSection }}
-      <a href="{{ .Permalink }}" class="next"><- {{ .Title }}</a>
-      {{ end }}
-    </div>
   </div>
 </section>
 
