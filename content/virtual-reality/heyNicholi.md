@@ -1,13 +1,13 @@
 ---
 title: Hey, Nicholi<br>(ft. creative captions)
-metaDescription: 
+metaDescription: A curiously creative adventure of epic proportions on the tiniest of tiny planets
 thumbnail: https://lh3.googleusercontent.com/riQ2hh9QJVhYC3VKJXFXi8P2T14JsKx5HrUUfbFpSqA3mhkG9YzONTBbeVDt4H9DPAZ8o9pIfDU0-KOYuiaJPaJO2ugpXZhis4q1z8ZO1zMRPJJ5AEHD4fov2obpwSuig_W3xebmVw=w2400
-description: A curiously creative adventure<br>of epic proportions
-alt: alt text goes here
+description: Official selection of<br>deadCenter Film Festival 2020
+alt: A tiny planet with big yellow tree stands strong in the bright blue sky. Our hero, Nicholi, stands on the planet giving an enthusiastic thumbs up to a giant Nicholi watching over the planet, also with an enthusiastic thumbs up and big smile.
 rank: 1
 ---
 
-<iframe src="https://www.youtube.com/embed/ikTx-05dJ7M" class="youtube-iframe"></iframe> <br>
+<iframe src="https://www.youtube.com/embed/ikTx-05dJ7M" class="youtube-iframe"></iframe>
 
 
 **Synopsis**: A tiny planet glimpse into the future of stereo visual entertainment. Caught in a curious loop, our heroes once again blend the lines of virtual and reality. Motion of words speaks emotion of voice for those who hear through seeing.
@@ -37,10 +37,10 @@ VR180 is extremely challenging, and I love it. After the industry abandoned the 
 About 1/4 tank of gas from driving back and forth to the park a few times, plus $1 for the beach ball. 220 hours logged during 4 months of pre/post-production, plus twenty years of curious experimentation.
 
 **What's next?**
-More innovation. I'm developing a mixed reality capture system for producing even more immersive content. Stay tuned to NicholiNoah.com for updates and teasers of cutting edge creative.
+More innovation. I'm developing a mixed reality capture system for producing even more immersive content. Stay tuned to [NicholiNoah.com](https://nicholinoah.com/virtual-reality) for updates and teasers of cutting edge creative.
 
 **What is the logo on your shirt?**
-Nicholi3D CuriousVR is my online portfolio and personal brand. It's my way of showcasing innovative virtual and mixed reality tech while telling fun stories and sharing my own growth all at the same time.
+[CuriousVR](https://curiousvr.tv) is my online portfolio and personal brand. It's my way of showcasing innovative virtual and mixed reality tech while telling fun stories and sharing my own growth all at the same time.
 
 **If you had to do it again, what would you do differently?**
 For the first time in my life, I am 100% happy with the finished piece and wouldn't change a thing. That's a lot to say for an artist, and testament to how much I poured every bit of myself into this sci-fi self-portrait with a smile big enough to prove it.
