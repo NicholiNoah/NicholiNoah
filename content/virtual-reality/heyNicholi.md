@@ -18,7 +18,46 @@ rank: 1
 
 
 ## **Creative Process & Storyboards**
-This is where I'll put lots of sketches and mockup designs showing my thought process and all the steps it took to get from concept to completion. Coming soon...
+This is where the magic happens...
+<div class="row">
+  <div class="col-md-3">
+    <img src="https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400" alt="Mockup design with tiny planet and two Nicholis"></img>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Early concept photo mockup</p>
+  </div>
+  <div class="col-md-3">
+    <img src="https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400" alt="Hand-drawn storyboard concept: story arc"></img>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Story Arc</p>
+  </div>
+  <div class="col-md-3">
+    <img src="https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400" alt="Hand-drawn storyboard concept: dialogue"></img>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Dialogue</p>
+  </div>
+  <div class="col-md-3">
+    <img src="https://lh3.googleusercontent.com/JHii8NgANCSCSxcD-TYD_vrPEjMZFxEsUm_zEQMioLFXbTocETwGkoyOzst1NoaCcf2xiXdnIg4prmRj70Mo_y3YGud0mKQY84yllhqr81btSbsUybJl0-mO7tnwkA3lmFZnW-Wvrw=w2400" alt="Hand-drawn stereoscopic workflow sketch"></img>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Mono to stereo tiny planet workflow</p>
+  </div>
+</div>
+
+Beginning with a mockup photo shot on a cellphone, I had a crazy quest to stretch my skills and imagination beyond known limits. Producing the first (that I know of) stereoscopic tiny planet while showing the world what virtual reality feels like, and the future will soon be. Two dimensions of myself collaborating on the most beautiful day of the year.\
+\
+That was early October. The trees were starting to turn. I knew I had to get all my ducks in a row to capture autumn's peak sometime in early November. The below sketches are samples of the creative process I went through to test concepts, scout locations, develop a workflow, and ultimately gain the confidence to get exactly what I needed to shoot in 100% natural light on a day I could only predict. Thankfully, Oklahomans are natural-born meteorologists, so I had an edge on anticipating the weather. With luck on my side, I stood in front of the big yellow tree on a dreary fall morning as the sun peaked out from behind a week of rainclouds, opening an afternoon of clear blue sky. The sun would be exactly where I needed it for only two hours. After that, the shadows would move, and the shots would no longer match.\
+\
+I tied a big metal washer to the valve of a beachball and threw it as hard as I could. With the wind at my back, that little ball flew all the way around the world, got stuck high in the big yellow tree, and I caught it all on camera.
+
+<div class="row">
+  <div class="col-md-6">
+    <iframe src="https://www.youtube.com/embed/BkyI5q8EkQQ" class="youtube-iframe"></iframe>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Draft sequence to test composition and timing</p>
+  </div>
+  <div class="col-md-3">
+    <img src="https://lh3.googleusercontent.com/s6qZkuTJOgg46ivrM-osBK9IpcJzPP71GH9vQHRBGTR676BVXm_eCiNABY_ydwyDYsO2U8iu-Wt_eLIFNuFIskP4GtvRYbs4vyn5QdwC8nWYsSNFCPgSJdJ01khjOCdZA4MJ0d_rwQ=w2400" alt="Storyboard of video frames with hand-drawn directions for animation"></img>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Animations</p>
+  </div>
+  <div class="col-md-3">
+    <img src="https://lh3.googleusercontent.com/4x8jiRTgb4-y-fsQC61CrUQ2_kBk8WWF70l-jcaaueeqXlQkrHy5nGGgpkcfLXYxCc2lYKEdIw7VgobcQbokp7E9PbW3tJ9uou6WQCR0kGrqaAiA_YfH8OccXFvEoT5KQ2UIHnPEkQ=w2400" alt="Hand-drawn direction for animation changes"></img>
+    <p style="font-family: arial; font-size: .7em; text-align: center">Sample daily critique and solutions</p>
+  </div>
+</div>
 
 ## **FAQ**
 **Why VR film?**

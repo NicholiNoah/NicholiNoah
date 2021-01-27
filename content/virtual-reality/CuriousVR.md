@@ -7,7 +7,7 @@ alt: CuriousVR inside his time particle flying through the fabric of time and sp
 rank: 2
 ---
 
-  **Challenge**:   The world shutdown and I'm stuck in my room. Can I make this productive and fun?
+  **Challenge**: &nbsp; &nbsp; The world shutdown and I'm stuck in my room. Can I make this productive and fun?
 
 **Opportunity**: The world shutdown and I'm stuck in my room. I can make this productive and fun.
 
