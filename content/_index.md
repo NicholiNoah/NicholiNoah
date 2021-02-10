@@ -7,7 +7,7 @@ bannerHeight: 0vh
 
 <div class="row">
   <div class="col-md-12">
-    <img src="https://lh3.googleusercontent.com/6-xQWk5UfNRvZSMOi4hkoRHqhI6IZNK2FxCangouhv-OqkDYV6AVHPMvSFke0ATuli171zscaAc0-pXCZz_HyBY9N_83TaC664uyuUYT4YjZuW3nk103Mgi5Zda6k2rQjaqLI5Z4mQ=w2400" alt="alternate text">
+    <img src="https://lh3.googleusercontent.com/-9X_0qe5RlyKshKh3J-xWaMaadMhxRm-1Lctj82IGVeVZ8rs8DLMznzbpfguJLmmXkb-ZQCm8V7NbgQG2FOcGlBT6F1FyyCqx0jgOeh5edZpUlreZpQTkweH2sv4BilzLNRIOHGQyA=w2400" alt="alternate text">
   </div>
 </div>
 
