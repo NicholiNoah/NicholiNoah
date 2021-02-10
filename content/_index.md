@@ -1,9 +1,15 @@
 ---
 title: This is about me
 metaDescription: CuriousVR is the most curious vr website this side of reality.
-banner: \images\banner.jpg
-bannerHeight: 75vh
+banner: 
+bannerHeight: 0vh
 ---
+
+<div class="row">
+  <div class="col-md-12">
+    <img src="https://lh3.googleusercontent.com/6-xQWk5UfNRvZSMOi4hkoRHqhI6IZNK2FxCangouhv-OqkDYV6AVHPMvSFke0ATuli171zscaAc0-pXCZz_HyBY9N_83TaC664uyuUYT4YjZuW3nk103Mgi5Zda6k2rQjaqLI5Z4mQ=w2400" alt="alternate text">
+  </div>
+</div>
 
 # About Me
 We live in a beautifully emerging new era. Humans and machines working together, transcending greatness through accessible communication. From video camera to virtual reality, I'm expanding upon an award-winning creative career that stretches across education, advertising, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
@@ -15,4 +21,4 @@ A curious storyteller with over 15 years of creative video production experience
 <br>
 <br>
 <br>
-**tl;dr** I like making cool stuff with cool people.
+
