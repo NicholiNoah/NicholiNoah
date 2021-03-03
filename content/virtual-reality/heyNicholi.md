@@ -42,7 +42,7 @@ Beginning with a mockup photo shot on a cellphone, I had a crazy quest to stretc
 \
 That was early October. The trees were starting to turn. I knew I had to get all my ducks in a row to capture autumn's peak sometime in early November. The below sketches are samples of the creative process I went through to test concepts, scout locations, develop a workflow, and ultimately gain the confidence to get exactly what I needed to shoot in 100% natural light on a day I could only predict. Thankfully, Oklahomans are natural-born meteorologists, so I had an edge on anticipating the weather. With luck on my side, I stood in front of the big yellow tree on a dreary fall morning as the sun peaked out from behind a week of rainclouds, opening an afternoon of clear blue sky. The sun would be exactly where I needed it for only two hours. After that, the shadows would move, and the shots would no longer match.\
 \
-I tied a big metal washer to the valve of a beachball and threw it as hard as I could. With the wind at my back, that little ball flew all the way around the world, got stuck high in the big yellow tree, and I caught it all on camera.
+With the wind at my back, I threw as hard as I could, and that little ball flew all the way around the world.
 
 <div class="row">
   <div class="col-md-6">
