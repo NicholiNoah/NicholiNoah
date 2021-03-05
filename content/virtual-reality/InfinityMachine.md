@@ -2,7 +2,7 @@
 title: Infinity Machine
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/UnoRoikPxZJo0S30iWsZqeI6iwSptbmRIJOKrPlsqliuT6l0r8P_3bP6KcgXwMFLgFUdZrkcilNKLg-xZeql8S7YaD4QBnyn2Yltlu2X2u4sYQGqxApoS8y-zBE0oRdkumGPV9frlg=w2400
-description: world's first stereo feedback machine <br> (cross your eyes to view in 3D)
+description: world's first stereo video feedback machine <br> (cross your eyes to view in 3D)
 alt: alt text goes here
 rank: 4
 ---
