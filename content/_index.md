@@ -1,6 +1,6 @@
 ---
-title: This is about me
-metaDescription: Profile of an aspiring visual musician
+title: Ambitious hacker hippie type who talks like a punk rock surfer from OKC
+metaDescription: Profile of virtual reality VR and extended reality XR film video production artist
 banner: 
 bannerHeight: 0vh
 ---
@@ -11,7 +11,7 @@ bannerHeight: 0vh
   </div>
 </div>
 
-# About Me
+# Nicholi Noah
 We live in a beautifully emerging new era. Humans and machines working together, transcending greatness through accessible communication. From video camera to virtual reality, I'm expanding upon an award-winning creative career that stretches across education, advertising, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
 
 &nbsp; Hi, I'm Nicholi.<br>
