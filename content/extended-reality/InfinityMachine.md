@@ -7,11 +7,5 @@ alt: alt text goes here
 rank: 5
 ---
 
-Ever since I was a kid I've been fascinated by Time. With a capital "T" as in the very concept of Time itself. Pondering what Time looks like from a 4th dimensional perspective. In 4D Time is malleable like clay. To 4D, 3D space is nothing more than a 2D shadow on a 4D surface.
-
-Light.
-
-
-That means this imaginary concept must literally tear a hole in space to reveal 
-
-To best accomplish this, I had to build an item that wasn't limited by what we 3rd dimensional beings know as space.
+Infinity Machine is a study on stereographic cameras and 3D visual feedback. While simple in concept, my challenge was to refine a workflow to be as efficient as possible to produce the tightest slices of time. This spatial representation of time delay provided the visuals I needed to finally understand the 3D (camera) rendering pipeline. Additionally, I finally had visual proof that efficient coding can make quite a difference.
+As luck would have it, Infinity Machine is just as fun as it was educational.

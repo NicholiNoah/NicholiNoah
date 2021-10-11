@@ -14,7 +14,7 @@ rank: 2
 
 **BACKGROUND:** The first industry job newly graduated Construction Management majors apply for is documenting safety violations. This consists of visiting live construction sites, identifying issues, taking photographs, then writing a report with details for each violation. My goal was to replicate this process as accurately as possible, preparing each student with truly virtual on-the-job training.
 
-**OPPORTUNITY:** The most widely discussed opponent of 360VR video is, “You can’t make viewers look where you want them to look.” While this is certainly difficult for traditional filmmakers, it is also provides a perfect opportunity to stimulate viewers who are supposed to seek out hidden elements on screen. This was the perfect project to implement this as a creative solution to a unique challenge.
+**OPPORTUNITY:** 360VR video is widely dismissed by traditional filmmaking because “You can’t make viewers look where you want them to look.” An impossible task for traditional filmmaking. But in that very flaw, I find opportunity. Instead of trying to force the viewer's attention, we will HIDE the message inside the video, and challenge the viewer look around to find it.
 
 <div class="row">
   <div class="col-md-3">

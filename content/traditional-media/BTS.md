@@ -20,7 +20,7 @@ rank: 7
 <div class="row">
   <div class="col-md-6">
     <br>
-    those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy
+    Lorem Ipsum
   </div>
   <div class="col-md-6">
     <iframe src="https://www.youtube.com/embed/sSHiwPls3mQ" class="youtube-iframe"></iframe>
