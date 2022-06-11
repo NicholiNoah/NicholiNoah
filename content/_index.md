@@ -12,7 +12,7 @@ bannerHeight: 0vh
 </div>
 
 # Nicholi Noah
-4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating extended reality so much I've spent over 1,000 hours building extended reality inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides.
+4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating extended reality so much I've spent over 1,000 hours building extended reality inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides. 
 
 We live in a beautifully emerging new era. Humans and machines working together, transcending greatness through accessible communication. From video camera to virtual reality, I'm expanding upon an award-winning creative career that stretches across education, advertising, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
 
