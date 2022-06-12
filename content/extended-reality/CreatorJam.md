@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: /images/eee.png
 description: VR community celebrating a holiday tradition
 alt: VR community celebrating a holiday tradition
-rank: 4
+rank: 5
 ---
 
 <iframe src="https://www.youtube.com/embed/JXEEjHlRksA" class="youtube-iframe"></iframe>
