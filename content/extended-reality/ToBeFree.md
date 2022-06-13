@@ -1,16 +1,16 @@
 ---
 title: To Be Free
 metaDescription: 
-thumbnail: https://lh3.googleusercontent.com/voATB6lrwI2hX82jwGiBm3n-db1NGPZvAbQ8Og39ALXetIS_baLVg8Sa7vgOCcPZ-tcQO6MiLvRtR0bs3xyCalbmRVn6avjOLSBuNBEM2_WC5HAwq6sYGBDSgrByfqcSo5vDj5cpDQ=w2400
+thumbnail: https://lh3.googleusercontent.com/aVwtb4wKo99SjUAOn3CAUgDb5SY4q7cPgU1SQSUjjsoi8tim9U4O4j3y3AaqSPlZIvyyVKHru_aguWPY87-b95HCazUXj0mOpkMJZDDUtRWx2944pphtEhvdakYEaTJDRb2Ijer0jQ=w2400
 description: Fine Art Sculpture honoring Oculus Go and the struggle to succeed in a society that only gives rejection
 alt: fine art sculpture of an invisible baby with VR headset, sleeping in a baby carrier, captured in a dog cage. The door is open and unlocked.
 rank: 1
 ---
 
 
-<iframe src="https://lh3.googleusercontent.com/39KlfqOM6u6QeYxE6JvaYP4PfoYmBUMYef0yJoRVaCiz520G4uva9LVGJPvmXhoDECNzpwwbreEWyE041A4UCU1jOSO7dDDIczFpT1ARLLnGegH3jogY1xFM8gXiTTKbbTkCI35Ikw=w2400" class="youtube-iframe"></iframe>
+<iframe src="https://lh3.googleusercontent.com/aVwtb4wKo99SjUAOn3CAUgDb5SY4q7cPgU1SQSUjjsoi8tim9U4O4j3y3AaqSPlZIvyyVKHru_aguWPY87-b95HCazUXj0mOpkMJZDDUtRWx2944pphtEhvdakYEaTJDRb2Ijer0jQ=w2400" class="youtube-iframe"></iframe>
 
-Born into a cage of endless expectation.  
+Born into a cage of endle ss expectation.  
 Invisible to a society that refuses to accept.   
 Unlocked from the inside, an experimental future only few can comprehend.  
 
