@@ -10,8 +10,8 @@ rank: 1
 
 <iframe src="https://lh3.googleusercontent.com/aVwtb4wKo99SjUAOn3CAUgDb5SY4q7cPgU1SQSUjjsoi8tim9U4O4j3y3AaqSPlZIvyyVKHru_aguWPY87-b95HCazUXj0mOpkMJZDDUtRWx2944pphtEhvdakYEaTJDRb2Ijer0jQ=w2400" class="youtube-iframe"></iframe>
 
-<p style="text-align: center;">Born into a cage of endless expectation.  
-Invisible to a society that refuses to accept.   
+<p style="text-align: center;">Born into a cage of endless expectation.<br/> 
+Invisible to a society that refuses to accept.<br/>
 Unlocked from the inside, an experimental future only few can comprehend.</p>
 
 **OUR INVISIBLE HERO:** "To Be Free" is my first sculpture, and has been a very difficult piece to complete. Initially simple in design, the concept immediately solidified as soon as it popped into my imagination. However, the actual work took over six months to accomplish. Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.
