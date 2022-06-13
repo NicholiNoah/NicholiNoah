@@ -2,7 +2,7 @@
 title: To Be Free
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/iApUuL-LoQHqKGFJVs4E056JDb0S4mO4s0z3y1Wygf_qQfpc5vkuz4YJ3sV1yG7uoS5tdaUVi5j_rB0jeqswIAbc8jtdmYrJt8htvx9GdTq82l7axSmDTgqnrR2rgDK3zT-CW7thtQ=w2400
-description: Fine Art Sculpture honoring Oculus Go and the struggle to succeed in a society that only gives rejection
+description: To Be Free
 alt: fine art sculpture of an invisible baby with VR headset, sleeping in a baby carrier, captured in a dog cage. The door is open and unlocked.
 rank: 1
 ---
