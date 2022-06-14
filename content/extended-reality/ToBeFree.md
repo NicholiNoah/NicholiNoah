@@ -8,7 +8,7 @@ rank: 1
 ---
 
 
-<iframe src="https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400" class="youtube-iframe"></iframe>
+<iframe src="https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400"></iframe>
 
 Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese kami (Shintoism), "To Be Free" employs found objects to symbolize humanity in electronics. Connecting seemingly insignificant, everyday objects together into an emotional story everyone can identify.
 Providing an immersive lesson in augmented reality history without the need for a device.
@@ -21,8 +21,7 @@ Providing an immersive lesson in augmented reality history without the need for 
     <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial"><br/>
-    "To Be Free" is my first sculpture, and has been a very difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been a very difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
 </div>
 
@@ -30,7 +29,7 @@ Providing an immersive lesson in augmented reality history without the need for 
 <div class="col-md-3">
 </div>
   <div class="col-md-5">
-    <p style="font-family:arial"><br/>Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations git config --global user.emailthat can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
+    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations git config --global user.emailthat can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
     <a href="https://www.highlights.com/">
