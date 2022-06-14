@@ -55,7 +55,7 @@ At more than one high school, I watched their entire VR program get tossed into 
 
 This makes me sad.
 
-
+<iframe src="https://giphy.com/embed/D5KAfOnGrx9MSDVvCz" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/D5KAfOnGrx9MSDVvCz">via GIPHY</a></p>
 
 <div class="row">
   <div class="col-md-6">
