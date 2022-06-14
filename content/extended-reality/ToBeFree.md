@@ -18,7 +18,7 @@ an experimental future only few can comprehend.</p>
 <div class="row">
   <div class="col-md-4">
     <a href="https://www.highlights.com/">
-     <img src="https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
+     <img src="https://lh3.googleusercontent.com/zklkDf6QncT4j7m02DqmFvYz0POqVPJXInpBbZAlS6tED52wX30OyqZds2_gKAiapoAxy_nhvtzs20NbcQYip1RQGx3GDKxB1h8jgx3p3ybC81FmoRCLaseuvpdwhZlXXOQmDfyytw=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero 2</p>
   </div>
