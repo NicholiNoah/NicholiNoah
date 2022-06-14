@@ -47,7 +47,7 @@ This makes me sad.
   </div>
   <div class="col-md-3">
     <a href="https://www.highlights.com/">
-     <img src="https://i.pinimg.com/originals/81/e4/fd/81e4fd7af70ca0fdd4418a16a2fa0717.jpg" alt="www.HighlightsMagazine.com"></img>
+     <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">photo courtesy of Highlights Magazine</p>
   </div>
