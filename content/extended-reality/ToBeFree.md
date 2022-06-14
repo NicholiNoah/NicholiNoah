@@ -10,8 +10,10 @@ rank: 1
 
 <div class="row">
   <div class="col-md-3">
+  </div>
+  <dive class="col-md-3">
     <a href="https://www.highlights.com/">
-     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
+     <img src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
   </div>
