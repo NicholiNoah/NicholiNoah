@@ -8,7 +8,13 @@ rank: 1
 ---
 
 
-<iframe src="https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400"></iframe>
+<div class="row">
+  <div class="col-md-3">
+    <a href="https://www.highlights.com/">
+     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
+    </a>
+    <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
+  </div>
 
 Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese kami (Shintoism), "To Be Free" employs found objects to symbolize humanity in electronics. Connecting seemingly insignificant, everyday objects together into an emotional story everyone can identify.
 Providing an immersive lesson in augmented reality history without the need for a device.
