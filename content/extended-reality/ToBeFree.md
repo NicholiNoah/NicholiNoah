@@ -59,10 +59,10 @@ This makes me sad.
 
 
 <div class="row">
-  <div class="col-md-9">
+  <div class="col-md-3">
     <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises. After [an entire year of lobbying Facebook ](https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20), John Carmack (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated [Oculus Go is being unlocked](https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20), officially removing Facebook's control of the device and your data. The freely available [*fastboot oem unlock* OS build](https://developer.oculus.com/blog/unlocking-oculus-go/) strips the devices software down to it's root programming.</p>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-8">
     <a href="https://www.highlights.com/">
      <img src="https://i.pinimg.com/originals/81/e4/fd/81e4fd7af70ca0fdd4418a16a2fa0717.jpg" alt="www.HighlightsMagazine.com"></img>
     </a>
