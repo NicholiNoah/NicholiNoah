@@ -22,7 +22,7 @@ an experimental future only few can comprehend.</p>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-5">
     <p style="font-family:arial"><br/>
     "To Be Free" is my first sculpture, and has been a very difficult piece to complete.<br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination.<br/>However, the actual work took over six months to accomplish.<br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
@@ -31,7 +31,7 @@ an experimental future only few can comprehend.</p>
 <div class="row">
 <div class="col-md-3">
 </div>
-  <div class="col-md-6">
+  <div class="col-md-5">
     <p style="font-family:arial"><br/>Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
