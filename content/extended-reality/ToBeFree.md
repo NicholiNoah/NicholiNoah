@@ -32,7 +32,7 @@ an experimental future only few can comprehend.</p>
 <div class="col-md-3">
 </div>
   <div class="col-md-5">
-    <p style="font-family:arial"><br/>Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
+    <p style="font-family:arial"><br/>Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations git config --global user.emailthat can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
     <a href="https://www.highlights.com/">
@@ -43,6 +43,7 @@ an experimental future only few can comprehend.</p>
 </div>
 
 transparent, 360 degrees, 3D printing, virtual reality, thrift stores and big trash day
+combining inspiration from Marcel Duchamp's a;lksfdj;lksajhfda;lkefsja;lkdsjf;lksajhefahkgfsj
 
 **HISTORY 101:** Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
 
