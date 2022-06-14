@@ -22,9 +22,9 @@ Providing an immersive lesson in augmented reality history without the need for 
 
 <div class="row">
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping in an unlocked dog cage"></img>
+     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping quietly in an unlocked dog cage"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
+    <p style="font-family: arial; font-size: .65em; text-align: center">our invisible hero</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
@@ -38,7 +38,7 @@ Providing an immersive lesson in augmented reality history without the need for 
     <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, "To Be Free" is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400"></img>
+     <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">unlocked from the inside</p>
   </div>
@@ -59,7 +59,7 @@ This makes me sad.
 
 <div class="row">
   <div class="col-md-6">
-    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises. After [an entire year of lobbying Facebook ](https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20), John Carmack (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated [Oculus Go is being unlocked](https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20), officially removing Facebook's control of the device and your data. The freely available [*fastboot oem unlock* OS build](https://developer.oculus.com/blog/unlocking-oculus-go/) strips the devices software down to it's root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.<br/><br/>The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking new understanding of what it means to be human.
+    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises. One year later, after several months lobbying Facebook ](https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20), John Carmack (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated [Oculus Go is being unlocked](https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20), officially removing Facebook's control of the device and your data. The freely available [*fastboot oem unlock* OS build](https://developer.oculus.com/blog/unlocking-oculus-go/) strips the devices software down to it's root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.<br/><br/>The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking new understanding of what it means to be human.
   </p>
   </div>
   <div class="col-md-3">
