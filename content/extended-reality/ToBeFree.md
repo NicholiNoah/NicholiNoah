@@ -10,10 +10,8 @@ rank: 1
 
 <iframe src="https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400" class="youtube-iframe"></iframe>
 
-<p style="text-align: center;">Born into a cage of endless expectation.<br/> 
-Invisible to a society that refuses to accept.<br/>
-Unlocked from the inside,<br/>
-an experimental future only few can comprehend.</p>
+Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese kami (Shintoism), "To Be Free" employs found objects to symbolize humanity in electronics. Connecting seemingly insignificant, everyday objects together into an emotional story everyone can identify.
+Providing an immersive lesson in augmented reality history without the need for a device.
 
 <div class="row">
   <div class="col-md-3">
@@ -54,8 +52,7 @@ At more than one high school, I watched their entire VR program get tossed into 
 
 This makes me sad.
 
-Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese kami (Shintoism), "To Be Free" employs found objects to symbolize humanity in electronics. Connecting seemingly insignificant, everyday objects together into an emotional story everyone can identify.
-Providing an immersive lesson in augmented reality history without the need for a device.
+
 
 <div class="row">
   <div class="col-md-6">
