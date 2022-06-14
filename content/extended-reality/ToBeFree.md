@@ -11,11 +11,9 @@ rank: 1
 <div class="row">
   <div class="col-md-3">
   </div>
-  <dive class="col-md-6">
-    <a href="https://www.highlights.com/">
+  <div class="col-md-6">
      <img src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
   </div>
 
 Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese kami (Shintoism), "To Be Free" employs found objects to symbolize humanity in electronics. Connecting seemingly insignificant, everyday objects together into an emotional story everyone can identify.
@@ -23,13 +21,12 @@ Providing an immersive lesson in augmented reality history without the need for 
 
 <div class="row">
   <div class="col-md-3">
-    <a href="https://www.highlights.com/">
-     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
+     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping in an unlocked dog cage"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been a very difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been a very difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination However, the actual work took over six months to accomplish.<br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
 </div>
 
@@ -37,7 +34,7 @@ Providing an immersive lesson in augmented reality history without the need for 
 <div class="col-md-3">
 </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations git config --global user.emailthat can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
+    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult.<br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
     <a href="https://www.highlights.com/">
