@@ -34,7 +34,7 @@ Providing an immersive lesson in augmented reality history without the need for 
 <div class="col-md-4">
 </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult.<br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
+    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, "To Be Free" is an expression of my yearning to be independent.<br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted.<br/> Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400"></img>
