@@ -59,7 +59,10 @@ This makes me sad.
 
 <div class="row">
   <div class="col-md-6">
-    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises. After [an entire year of lobbying Facebook ](https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20), John Carmack (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated [Oculus Go is being unlocked](https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20), officially removing Facebook's control of the device and your data. The freely available [*fastboot oem unlock* OS build](https://developer.oculus.com/blog/unlocking-oculus-go/) strips the devices software down to it's root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.</p>
+    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises. After [an entire year of lobbying Facebook ](https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20), John Carmack (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated [Oculus Go is being unlocked](https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20), officially removing Facebook's control of the device and your data. The freely available [*fastboot oem unlock* OS build](https://developer.oculus.com/blog/unlocking-oculus-go/) strips the devices software down to it's root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.<br/><br/>
+    
+    The Go in this art piece is unlocked and fully functioning. She is free now. Destined to carry a message of optimism and achievement. Inspiring discussion. Projecting empathy. Sparking new understanding of what it means to be human.
+  </p>
   </div>
   <div class="col-md-3">
     <a href="https://www.highlights.com/">
