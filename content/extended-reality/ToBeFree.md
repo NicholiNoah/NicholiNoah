@@ -20,7 +20,7 @@ Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude t
 Providing an immersive lesson in augmented reality history without the need for a device.
 
 <div class="row">
-  <div class="col-md-2">
+  <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping in an unlocked dog cage"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero</p>
