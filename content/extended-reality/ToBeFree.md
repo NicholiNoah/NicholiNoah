@@ -16,11 +16,11 @@ Unlocked from the inside,<br/>
 an experimental future only few can comprehend.</p>
 
 <div class="row">
-  <div class="col-md-31">
+  <div class="col-md-3">
     <a href="https://www.highlights.com/">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero 2</p>
+    <p style="font-family: arial; font-size: .65em; text-align: center">Our Invisible Hero 3</p>
   </div>
   <div class="col-md-6">
     <p style="font-family:arial"><br/>
