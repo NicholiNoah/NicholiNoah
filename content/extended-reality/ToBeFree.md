@@ -29,6 +29,8 @@ an experimental future only few can comprehend.</p>
 </div>
 
 <div class="row">
+<div class="col-md-3">
+</div>
   <div class="col-md-6">
     <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult. Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective. Burning desire to be accepted. Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/>Abandoned into accepting my words will never be heard, no matter how loud I scream. Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
