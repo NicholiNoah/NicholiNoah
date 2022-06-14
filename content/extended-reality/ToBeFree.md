@@ -24,7 +24,7 @@ an experimental future only few can comprehend.</p>
   </div>
   <div class="col-md-4">
     <p style="font-family:arial"><br/>
-    "To Be Free" is my first sculpture, and has been a very difficult piece to complete. Initially simple in design, the concept immediately solidified as soon as it popped into my imagination. However, the actual work took over six months to accomplish. Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+    "To Be Free" is my first sculpture, and has been a very difficult piece to complete.<br/>Initially simple in design, the concept immediately solidified as soon as it popped into my imagination.<br/>However, the actual work took over six months to accomplish.<br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas. Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
 </div>
 
