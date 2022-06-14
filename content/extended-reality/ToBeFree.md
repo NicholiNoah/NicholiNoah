@@ -44,8 +44,7 @@ Providing an immersive lesson in augmented reality history without the need for 
   </div>
 </div>
 
-transparent, 360 degrees, 3D printing, virtual reality, thrift stores and big trash day
-combining inspiration from Marcel Duchamp's a;lksfdj;lksajhfda;lkefsja;lkdsjf;lksajhefahkgfsj
+transparency, 360 degrees, 3D printing, virtual reality
 
 **HISTORY 101:** Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
 
