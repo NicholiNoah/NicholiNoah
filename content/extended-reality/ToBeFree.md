@@ -53,7 +53,7 @@ rank: 1
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center; margin-top: -50%">custom installed "breathing" LED</p>
+    <p style="font-family: arial; font-size: .65em; text-align: center; margin-top: -5%">custom installed "breathing" LED</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
