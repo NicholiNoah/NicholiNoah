@@ -7,7 +7,12 @@ alt: A tiny planet with big yellow tree stands strong in the bright blue sky. Ou
 rank: 2
 ---
 
-<iframe src="https://www.youtube.com/embed/ikTx-05dJ7M" class="youtube-iframe"></iframe>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ikTx-05dJ7M" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!-- <iframe src="https://www.youtube.com/embed/ikTx-05dJ7M" class="youtube-iframe"></iframe> -->
 
 
 **Synopsis**: A tiny planet glimpse into the future of stereo visual entertainment. Caught in a curious loop, our heroes once again blend the lines of virtual and reality. Motion of words speaks emotion of voice for those who hear through seeing.
