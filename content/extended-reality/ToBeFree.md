@@ -55,11 +55,16 @@ At more than one high school, I watched their entire VR program get tossed into 
 
 This makes me sad.
 
-  <div class="col-md-6">
-     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
+<div class="row">
+  <div class="col-md-3">
+     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="an invisible baby wearing a VR headset, sleeping quietly in an unlocked dog cage"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center">augmented reality without the device</p>
+    <p style="font-family: arial; font-size: .65em; text-align: center">custom installed "breathing" LED</p>
   </div>
+  <div class="col-md-5">
+    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+  </div>
+</div>
 
 
 <div class="row">
