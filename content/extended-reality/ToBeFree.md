@@ -11,7 +11,7 @@ rank: 1
 <iframe src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" class="youtube-iframe"></iframe>
 
 <div class="row">
-<div class="col-md-4"></div>   
+<div class="col-md-5"></div>   
     <p style="font-family: arial; font-size: .65em; text-align: center">augmented reality without the device</p>
   </div>
 
@@ -50,7 +50,7 @@ rank: 1
 <div class="row">
 <div class="col-md-1"></div>
   <div class="col-md-3">
-     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
+     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">custom installed "breathing" LED</p>
   </div>
