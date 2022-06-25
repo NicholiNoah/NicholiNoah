@@ -55,9 +55,6 @@ At more than one high school, I watched their entire VR program get tossed into 
 
 This makes me sad.
 
-<div class="row">
-  <div class="col-md-3">
-  </div>
   <div class="col-md-6">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
     </a>
