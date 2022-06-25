@@ -62,7 +62,14 @@ This makes me sad.
     <p style="font-family: arial; font-size: .65em; text-align: center">custom installed "breathing" LED</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+    <p style="font-family:arial">HISTORY 101: Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
+
+However Go's impact fell far shorter than industy's expectations.
+
+Purchased by the bundle, universities and primary schools were promised this curious new headset was the key to our future of education. However, without proper training or demonstration, teachers had no way to connect this strange new device to their classrooms. Some were so afraid of the headsets getting damaged, students weren't allowed to touch them. Others despised the technology as nothing more than a videogame distraction that doesn't belong.
+At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets and shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.
+
+This makes me sad.</p>
   </div>
 </div>
 
