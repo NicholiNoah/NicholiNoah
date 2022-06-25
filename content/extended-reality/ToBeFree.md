@@ -59,7 +59,7 @@ This makes me sad.
   <div class="col-md-3">
   </div>
   <div class="col-md-6">
-     <img src="https://giphy.com/embed/D5KAfOnGrx9MSDVvCz" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
+     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">augmented reality without the device</p>
   </div>
