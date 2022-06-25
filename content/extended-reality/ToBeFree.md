@@ -14,7 +14,7 @@ rank: 1
 
 <div class="row">
 <div class="col-md-12">   
-    <p style="font-family: arial; font-size: .75em; text-align: center; margin-top: -1%">augmented reality without the device</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">augmented reality without the device</p>
   </div>
 
 <div class="row">
@@ -28,7 +28,7 @@ rank: 1
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping quietly in an unlocked dog cage"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; text-align: center; margin-top: -2%">what is a hologram?</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what is a hologram?</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
@@ -44,7 +44,7 @@ rank: 1
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; text-align: center; margin-top: -2%">unlocked from the inside</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">unlocked from the inside</p>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ rank: 1
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; text-align: center; margin-top: -2%">custom installed "breathing" LED</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">custom installed "breathing" LED</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
@@ -75,7 +75,7 @@ At more than one high school, I watched their entire VR program get tossed into 
     <a href="https://www.highlights.com/">
      <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; text-align: center; margin-top: -2%">cement represents abandonment</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">cement represents abandonment</p>
   </div>
 </div>
 
