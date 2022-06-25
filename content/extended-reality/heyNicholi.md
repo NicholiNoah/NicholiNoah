@@ -7,7 +7,7 @@ alt: A tiny planet with big yellow tree stands strong in the bright blue sky. Ou
 rank: 2
 ---
 
-<div class="videoWrapper">
+<div class="videoWrapper" style="--aspect-ratio: 9 / 16;">>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ikTx-05dJ7M" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
