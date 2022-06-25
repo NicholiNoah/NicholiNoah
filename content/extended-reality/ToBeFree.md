@@ -21,6 +21,7 @@ Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude t
 Providing an immersive lesson in augmented reality history without the need for a device.
 
 <div class="row">
+<div class="col-md-1"></div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping quietly in an unlocked dog cage"></img>
     </a>
@@ -44,17 +45,14 @@ Providing an immersive lesson in augmented reality history without the need for 
   </div>
 </div>
 
-transparency, 360 degrees, 3D printing, virtual reality
-
-
 <div class="row">
   <div class="col-md-3">
-     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="an invisible baby wearing a VR headset, sleeping quietly in an unlocked dog cage"></img>
+     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
     <p style="font-family: arial; font-size: .65em; text-align: center">custom installed "breathing" LED</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">HISTORY 101: Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
+    <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
 
 However Go's impact fell far shorter than industy's expectations.
 
@@ -78,3 +76,6 @@ This makes me sad.</p>
     <p style="font-family: arial; font-size: .65em; text-align: center">cement represents abandonment</p>
   </div>
 </div>
+
+
+transparency, 360 degrees, 3D printing, virtual reality
