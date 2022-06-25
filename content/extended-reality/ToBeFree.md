@@ -46,6 +46,7 @@ Providing an immersive lesson in augmented reality history without the need for 
 </div>
 
 <div class="row">
+<div class="col-md-1"></div>
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=g" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
@@ -58,6 +59,7 @@ However Go's impact fell far shorter than industy's expectations.
 
 Purchased by the bundle, universities and primary schools were promised this curious new headset was the key to our future of education. However, without proper training or demonstration, teachers had no way to connect this strange new device to their classrooms. Some were so afraid of the headsets getting damaged, students weren't allowed to touch them. Others despised the technology as nothing more than a videogame distraction that doesn't belong.
 At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets and shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.
+
 
 This makes me sad.</p>
   </div>
