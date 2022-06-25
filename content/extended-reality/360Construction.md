@@ -8,7 +8,7 @@ rank: 3
 ---
 
 
-<iframe src="https://lh3.googleusercontent.com/39KlfqOM6u6QeYxE6JvaYP4PfoYmBUMYef0yJoRVaCiz520G4uva9LVGJPvmXhoDECNzpwwbreEWyE041A4UCU1jOSO7dDDIczFpT1ARLLnGegH3jogY1xFM8gXiTTKbbTkCI35Ikw=w2400" class="youtube-iframe"></iframe>
+<iframe src="https://momento360.com/e/u/1f47f937e0044f1bb04db34e4df99ecf?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=60&size=small" class="youtube-iframe"></iframe>
 
 **CHALLENGE:** Construction sites are too dangerous for educators to teach Construction Management courses on-location. Create a virtual experience providing students a safe alternative for identifying and documenting OSHA violations on an active construction site. Must be accessible to all students using available technology both in classroom and at home.
 
