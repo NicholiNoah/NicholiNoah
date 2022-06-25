@@ -8,12 +8,10 @@ rank: 1
 ---
 
 
+<iframe src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" class="youtube-iframe"></iframe>
+
 <div class="row">
-  <div class="col-md-3">
-  </div>
-  <div class="col-md-6">
-     <img src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" alt="Invisible baby wearing a VR headset, sleeping in a cage"></img>
-    </a>
+<div class="col-md-1"></div>   
     <p style="font-family: arial; font-size: .65em; text-align: center">augmented reality without the device</p>
   </div>
 
@@ -62,7 +60,7 @@ rank: 1
 However Go's impact fell far shorter than industy's expectations.
 
 Purchased by the bundle, universities and primary schools were promised this curious new headset was the key to our future of education. However, without proper training or demonstration, teachers had no way to connect this strange new device to their classrooms. Some were so afraid of the headsets getting damaged, students weren't allowed to touch them. Others despised the technology as nothing more than a videogame distraction that doesn't belong.
-At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets and shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.</br></br>This makes me sad.</p>
+At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets and shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.</br></br></br>This makes me sad.</p>
   </div>
 </div>
 
