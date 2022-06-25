@@ -11,7 +11,7 @@ rank: 1
 <iframe src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" class="youtube-iframe"></iframe>
 
 <div class="row">
-<div class="col-md-1"></div>   
+<div class="col-md-4"></div>   
     <p style="font-family: arial; font-size: .65em; text-align: center">augmented reality without the device</p>
   </div>
 
