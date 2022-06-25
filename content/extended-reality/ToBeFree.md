@@ -20,7 +20,7 @@ rank: 1
 <div class="row">
 <div class="col-md-1"></div>
   <div class="col-md-10">
-    <p style="font-family: arial">Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese tsukumogami (Shinto animism), "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>Providing an immersive lesson in augmented reality history without the need for a device.</p>
+    <p style="font-family: arial">Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese tsukumogami (Shinto animism), "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
     </div>
 
 <div class="row">
@@ -31,7 +31,7 @@ rank: 1
     <p style="font-family: arial; font-size: .65em; text-align: center">what is a hologram?</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own personal traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ rank: 1
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center">custom installed "breathing" LED</p>
+    <p style="font-family: arial; font-size: .65em; text-align: center; vertical-align: super">custom installed "breathing" LED</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
