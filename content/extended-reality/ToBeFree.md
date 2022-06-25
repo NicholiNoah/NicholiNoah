@@ -14,7 +14,7 @@ rank: 1
 
 <div class="row">
 <div class="col-md-12">   
-    <p style="font-family: arial; font-size: .75em; text-align: center">augmented reality without the device</p>
+    <p style="font-family: arial; font-size: .75em; text-align: center; margin-top: -1%">augmented reality without the device</p>
   </div>
 
 <div class="row">
