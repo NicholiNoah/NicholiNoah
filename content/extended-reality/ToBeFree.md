@@ -15,8 +15,8 @@ rank: 1
   </div>
 
 <div class="row">
-<div class="col-md-1"></div>
-  <div class="col-md-10">
+<div class="col-md-2"></div>
+  <div class="col-md-8">
     <p style="font-family: arial">Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese tsukumogami (Shinto animism), "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
     </div>
 
