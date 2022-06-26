@@ -42,6 +42,7 @@ rank: 1
     <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, "To Be Free" is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
+    <a href= "https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400">
      <img src="https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">unlocked from the inside</p>
