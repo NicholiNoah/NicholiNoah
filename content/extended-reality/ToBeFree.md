@@ -3,14 +3,11 @@ title: To Be Free
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400
 description: To Be Free
-alt: fine art sculpture of an invisible baby with VR headset, sleeping in a baby carrier, captured in a dog cage. The cage door is open and unlocked.
+alt: fine art sculpture of an invisible baby with VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
 rank: 1
 ---
 
-<div><a href= "https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400"><img src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" alt= "fine art sculpture of an invisible baby sleeping quietly inside an unlocked dog cage" /></a></div>
-
-
-<!-- <iframe src="https://lh3.googleusercontent.com/2hB1Cs7NcB0WjhCCdVJn2acBo7AFj1C54cJtNj8iHf9vDOAkLYnkj4t6ioj4eXNFt_o66GP2vy6phEoU9pU0a1CsA18K6MdEaCdgFb2e4bs-hEywOZoWnKIMThqiIVjPLljoUrZ-sA=w2400" class="youtube-iframe"></iframe> -->
+<div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" /></div>
 
 <div class="row">
 <div class="col-md-12">   
@@ -26,7 +23,7 @@ rank: 1
 <div class="row">
 <div class="col-md-1"></div>
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="an invisible baby wearing a VR headset, sleeping quietly in an unlocked dog cage"></img>
+     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what is a hologram?</p>
   </div>
@@ -75,9 +72,9 @@ At more than one high school, I watched their entire VR program get tossed into 
   </div>
   <div class="col-md-3">
     <a href="https://www.highlights.com/">
-     <img src="https://lh3.googleusercontent.com/IYvjLRCr7aZAROvliTErcV7eB48hVe_9jIf5nDpfgoV9FqjQfu6D7RIny1W3OdfkaqJp6KZwl4d5IZ-LI_wrMFXQqjzDT3FZ2W0cCJMw87VtCY8tDkreKOkv04T77QuTzw0xlCwvpw=w2400"></img>
+     <img src="https://lh3.googleusercontent.com/qg-nrEpZz4ib_RNifpDvWxfonxDjXK6yPcmxNMBvLvnkXjItNKFsxNqEw70nCeMUSKFDZormy8OrozVfOKRhF5bIqXFC9lmlrbxGYMOl6t6pmPh77hGKAsTOB8lZaJzG8kk7E1NI=w2400"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">cement represents abandonment</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">concrete slab represents abandonment</p>
   </div>
 </div>
 
