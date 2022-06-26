@@ -15,8 +15,8 @@ rank: 1
   </div>
 
 <div class="row">
-<!-- <div class="col-md-1"></div>
-  <div class="col-md-10"> -->
+<div class="col-md-1"></div>
+  <div class="col-md-10">
     <p style="font-family: arial">Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese tsukumogami (Shinto animism), "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
     </div>
 
@@ -27,6 +27,7 @@ rank: 1
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what is a hologram?</p>
   </div>
+  <div class="col-md-1"></div>
   <div class="col-md-5">
     <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
