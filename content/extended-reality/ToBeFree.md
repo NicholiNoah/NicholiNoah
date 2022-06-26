@@ -91,7 +91,7 @@ At more than one high school, I watched their entire VR program get tossed into 
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
   </div>
   <div class="col-md-7">
-    <p style="font-family:arial">The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking understanding of what it truly means to be human.</p>
+    <p style="font-family:arial">The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking new understanding of what it truly means to be human.</p>
   </div>
 </div>
 
