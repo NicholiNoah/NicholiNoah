@@ -67,14 +67,23 @@ At more than one high school, I watched their entire VR program get tossed into 
 <div class="row">
 <div class="col-md-3"></div>
   <div class="col-md-5">
-    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan. One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* OS build</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.<br/><br/>The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking understanding of what it truly means to be human.
+    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan. One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* OS build</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.
   </p>
   </div>
   <div class="col-md-3">
-    <a href="https://www.highlights.com/">
      <img src="https://lh3.googleusercontent.com/qg-nrEpZz4ib_RNifpDvWxfonxDjXK6yPcmxNMBvLvnkXjItNKFsxNqEw70nCeMUSKFDZormy8OrozVfOKRhF5bIqXFC9lmlrbxGYMOl6t6pmPh77hGKAsTOB8lZaJzG8kk7E1NI=w2400"></img>
-    </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">concrete slab represents abandonment</p>
+  </div>
+</div>
+
+<div class="row">
+<div class="col-md-1"></div>
+  <div class="col-md-3">
+     <img src="https://lh3.googleusercontent.com/xrUSsnPrBkcFgL7l59UKpubY6D_XPhPNyLrX0dyjTHo66WWFBTL57HqSlV5RK7ItEVnM5Tq8z_DCtH6W_SlqB2FHZPifoPbXQzspHLMwQrpaKldOVd8-311UUGttRf0vb-LdWXjP=w2400" alt="small circuit board with Nicholi Noah's signature, dated june 10, 2022"></img>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial">The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking understanding of what it truly means to be human.</p>
   </div>
 </div>
 
