@@ -21,7 +21,7 @@ rank: 1
     </div>
 
 <div class="row">
-<div class="col-md-1"></div>
+<!-- <div class="col-md-1"></div> -->
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
@@ -48,7 +48,7 @@ rank: 1
 </div>
 
 <div class="row">
-<div class="col-md-1"></div>
+<!-- <div class="col-md-1"></div> -->
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
@@ -78,7 +78,7 @@ At more than one high school, I watched their entire VR program get tossed into 
 </div>
 
 <div class="row">
-<div class="col-md-2"></div>
+<!-- <div class="col-md-2"></div> -->
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/xrUSsnPrBkcFgL7l59UKpubY6D_XPhPNyLrX0dyjTHo66WWFBTL57HqSlV5RK7ItEVnM5Tq8z_DCtH6W_SlqB2FHZPifoPbXQzspHLMwQrpaKldOVd8-311UUGttRf0vb-LdWXjP=w2400" alt="small circuit board with Nicholi Noah's signature, dated june 10, 2022"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
