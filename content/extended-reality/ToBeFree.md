@@ -88,4 +88,4 @@ At more than one high school, I watched their entire VR program get tossed into 
 </div>
 
 
-transparency, 360 degrees, 3D printing, virtual reality
+<!-- transparency, 360 degrees, 3D printing, virtual reality -->
