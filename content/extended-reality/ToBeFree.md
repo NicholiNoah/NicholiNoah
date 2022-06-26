@@ -7,21 +7,26 @@ alt: fine art sculpture of an invisible baby with VR headset, sleeping in a baby
 rank: 1
 ---
 
-<div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" /></div>
+<div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
+</div>
 
 <div class="row">
-<div class="col-md-12">   
+  <div class="col-md-12">   
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">augmented reality without the device</p>
   </div>
+</div>
 
 <div class="row">
-<div class="col-md-1"></div>
+  <div class="col-md-1">
+  </div>
   <div class="col-md-10">
     <p style="font-family: arial">Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese tsukumogami (Shinto animism), "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
-    </div>
+  </div>
+</div>
 
 <div class="row">
-<div class="col-md-1"></div>
+  <div class="col-md-1">
+  </div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
@@ -33,8 +38,8 @@ rank: 1
 </div>
 
 <div class="row">
-<div class="col-md-3">
-</div>
+  <div class="col-md-3">
+  </div>
   <div class="col-md-5">
     <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, "To Be Free" is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
@@ -47,7 +52,8 @@ rank: 1
 </div>
 
 <div class="row">
-<div class="col-md-1"></div>
+  <div class="col-md-1"> 
+  </div>
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
@@ -65,10 +71,10 @@ At more than one high school, I watched their entire VR program get tossed into 
 
 
 <div class="row">
-<div class="col-md-3"></div>
+  <div class="col-md-3">
+  </div>
   <div class="col-md-5">
-    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan. One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* OS build</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.
-  </p>
+    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan. One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames Wolfenstein 3D, Doom, and Quake) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* OS build</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.</p>
   </div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/qg-nrEpZz4ib_RNifpDvWxfonxDjXK6yPcmxNMBvLvnkXjItNKFsxNqEw70nCeMUSKFDZormy8OrozVfOKRhF5bIqXFC9lmlrbxGYMOl6t6pmPh77hGKAsTOB8lZaJzG8kk7E1NI=w2400"></img>
@@ -77,7 +83,8 @@ At more than one high school, I watched their entire VR program get tossed into 
 </div>
 
 <div class="row">
-<div class="col-md-2"></div>
+  <div class="col-md-2">
+  </div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/xrUSsnPrBkcFgL7l59UKpubY6D_XPhPNyLrX0dyjTHo66WWFBTL57HqSlV5RK7ItEVnM5Tq8z_DCtH6W_SlqB2FHZPifoPbXQzspHLMwQrpaKldOVd8-311UUGttRf0vb-LdWXjP=w2400" alt="small circuit board with Nicholi Noah's signature, dated june 10, 2022"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
