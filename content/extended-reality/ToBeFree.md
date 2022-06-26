@@ -77,7 +77,7 @@ At more than one high school, I watched their entire VR program get tossed into 
 </div>
 
 <div class="row">
-<div class="col-md-1"></div>
+<div class="col-md-2"></div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/xrUSsnPrBkcFgL7l59UKpubY6D_XPhPNyLrX0dyjTHo66WWFBTL57HqSlV5RK7ItEVnM5Tq8z_DCtH6W_SlqB2FHZPifoPbXQzspHLMwQrpaKldOVd8-311UUGttRf0vb-LdWXjP=w2400" alt="small circuit board with Nicholi Noah's signature, dated june 10, 2022"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
