@@ -20,7 +20,7 @@ rank: 1
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">Combining inspiration from Marcel Duchamp's "Readymades" ("Fountain", "Prelude to a Broken Arm") and Japanese tsukumogami (Shinto animism), "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
+    <p style="font-family: arial">Combining inspiration from <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art.">Marcel Duchamp's "Readymades"</a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)">"Fountain"</a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm">"Prelude to a Broken Arm"</a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html">(Shinto animism)</a>, "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ rank: 1
 However Go's impact fell far shorter than industy's expectations.
 
 Purchased by the bundle, universities and primary schools were promised this curious new headset was the key to our future of education. However, without proper training or demonstration, teachers had no way to connect this strange new device to their classrooms. Some were so afraid of the headsets getting damaged, students weren't allowed to touch them. Others despised the technology as nothing more than a videogame distraction that doesn't belong.
-At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets and shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.</br></br></br>This makes me sad.</p>
+At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets, shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.</br></br></br>This makes me sad.</p>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ At more than one high school, I watched their entire VR program get tossed into 
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
   </div>
   <div class="col-md-6">
-    <p style="font-family:arial">The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/><br/>Inspiring discussion. Emoting compassion.<br/><br/>Sparking understanding of what it truly means to be human.</p>
+    <p style="font-family:arial">The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking understanding of what it truly means to be human.</p>
   </div>
 </div>
 
