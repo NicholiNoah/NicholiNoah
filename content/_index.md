@@ -13,7 +13,11 @@ bannerHeight: 0vh
 
 <!-- # Nicholi Noah -->
 
-  **Artist Statement:**
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family:arial">Artist Statement:
+    </p>
+  </div>
 <div class="row">
   <div class="col-md-1">
   </div>
