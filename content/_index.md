@@ -14,9 +14,9 @@ bannerHeight: 0vh
 <!-- # Nicholi Noah -->
 
 **Artist Statement:**
-I remember the first time I broke my imagination. It grew back with a vengeance.
-Revealing hidden perspectives that question our reality.
-Projecting virtual visions of augmented tomorrow. Without the need for a device.
+I remember the first time I broke my imagination. It grew back with a vengeance.</br>
+Revealing hidden perspectives that question our reality.</br>
+Projecting virtual visions of augmented tomorrow. Without the need for a device.</br></br>
 
 Welcome to my world of extended reality. Please enjoy your stay.
 
