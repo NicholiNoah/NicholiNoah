@@ -25,6 +25,7 @@ Projecting virtual visions of augmented tomorrow. Without the need for a device.
 Welcome to my world of extended reality. Please enjoy your stay.</br></br></br></br>
     </p>
   </div>
+</div>
 
 
 
