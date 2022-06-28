@@ -18,7 +18,7 @@ bannerHeight: 0vh
 Revealing hidden perspectives that question our reality.</br>
 Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
 
-Welcome to my world of extended reality. Please enjoy your stay.</br></br>
+Welcome to my world of extended reality. Please enjoy your stay.</br></br></br></br>
 
 
   **Professional Bio:**
