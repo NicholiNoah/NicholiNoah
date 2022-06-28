@@ -22,12 +22,11 @@ bannerHeight: 0vh
   <div class="col-md-1">
   </div>
   <div class="col-md-11">
-    <p style="font-family:arial">I remember the first time I broke my imagination. It grew back with a vengeance.</br>
-Revealing hidden perspectives that question our reality.</br>
-Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
-
-Welcome to my world of extended reality. Please enjoy your stay.</br></br></br></br>
-    </p>
+    <p style="font-family:arial"><b>Artist Statement:</b>
+    I remember the first time I broke my imagination. It grew back with a vengeance.</br>
+    Revealing hidden perspectives that question our reality.</br>
+    Projecting virtual visions of augmented tomorrow. Without the need for a device.</br></br>
+    Welcome to my world of extended reality. Please enjoy your stay.</p>
   </div>
 </div>
 
