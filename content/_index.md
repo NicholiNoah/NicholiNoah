@@ -21,10 +21,10 @@ bannerHeight: 0vh
 <div class="row">
   <div class="col-md-12">
     <p> <span style="font-family:arial"><b>Artist Statement:</b></span></br>
-    <span style="text-indent: 15px">I remember the first time I broke my imagination. It grew back with a vengeance.</br>
+    <span style="text-indent: 15px">I remember the first time I broke my imagination. It grew back with a vengeance.</span></br>
     Revealing hidden perspectives that question our reality.</br>
     Projecting virtual visions of augmented tomorrow. Without the need for a device.</br></br>
-    Welcome to my world of extended reality. Please enjoy your stay.</span></p>
+    Welcome to my world of extended reality. Please enjoy your stay.</p>
   </div>
 </div>
 
