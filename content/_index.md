@@ -13,12 +13,13 @@ bannerHeight: 0vh
 
 <!-- # Nicholi Noah -->
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-md-12">
     <p style="font-family:arial">Artist Statement:</br>
+       I remember the first time
     </p>
-  </div> -->
-<div class="row">
+  </div>
+<!-- <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b>Artist Statement:</b></br>
     </p>
@@ -33,7 +34,7 @@ bannerHeight: 0vh
     Projecting virtual visions of augmented tomorrow. Without the need for a device.</br></br>
     Welcome to my world of extended reality. Please enjoy your stay.</p>
   </div>
-</div>
+</div> -->
 
 
 
