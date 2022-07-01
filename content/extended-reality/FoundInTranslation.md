@@ -1,5 +1,5 @@
 ---
-title: Found<br>In<br>Translation
+title: Found In Translation
 metaDescription: 
 thumbnail: /images/eee.png
 description: Metaverse community celebrating a holiday tradition in 3D
