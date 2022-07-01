@@ -15,13 +15,13 @@ summaryLength = 30
     url = "/"
     weight = 1
   [[menu.nav]]
-    identifier = "traditional-media"
-    name = "Traditional Media (2D)"
-    url = "/traditional-media/"
+    identifier = "professional-video"
+    name = "Professional Video"
+    url = "/professional-video/"
     weight = 2
   [[menu.nav]]
     identifier = "extended-reality"
-    name = "Extended Reality (XR)"
+    name = "XR & Fine Art"
     url = "/extended-reality/"
     weight = 3
   [[menu.nav]]
