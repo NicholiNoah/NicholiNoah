@@ -1,9 +1,9 @@
 ---
-title: Creator<br>Jam
+title: Found<br>In<br>Translation
 metaDescription: 
 thumbnail: /images/eee.png
-description: VR community celebrating a holiday tradition
-alt: VR community celebrating a holiday tradition
+description: Metaverse community celebrating a holiday tradition in 3D
+alt: Metaverse community celebrating a holiday tradition in 3D
 rank: 5
 ---
 
