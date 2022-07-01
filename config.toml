@@ -15,9 +15,9 @@ summaryLength = 30
     url = "/"
     weight = 1
   [[menu.nav]]
-    identifier = "professional-video"
-    name = "Professional Video"
-    url = "/professional-video/"
+    identifier = "professional-media"
+    name = "Professional Media"
+    url = "/professional-media/"
     weight = 2
   [[menu.nav]]
     identifier = "extended-reality"
