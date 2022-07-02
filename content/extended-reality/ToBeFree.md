@@ -97,9 +97,9 @@ At more than one high school, I watched their entire VR program get tossed into 
 </div>
 
 <div class="row">
-  <div class="col-md-3">
+  <div class="col-md-4">
   </div>
-  <div class="col-md-6">
+  <div class="col-md-4">
 <p style="font-family: arial; font-size:.75em; text-align: center">"To Be Free" is a mixed-media sculpture combining found objects and poetry with electronic arts and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power.</p>
   </div>
 </div>
