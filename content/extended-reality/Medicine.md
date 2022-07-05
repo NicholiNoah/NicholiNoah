@@ -14,7 +14,7 @@ rank: 4
 
 <div class="row">
   <div class="col-md-12">   
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">Cross your eyes to view in 3D. Click the image to see larger.<br>Synopsis and full VR photo series coming soon.</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">Cross your eyes to view in 3D. Click the image to see larger.<br>Synopsis and full photography series coming soon.</p>
   </div>
 </div>
 
@@ -28,4 +28,4 @@ Years later, I am still processing everything learned that night. As I revisit t
 
 *Wado*, my friend.
 
-Synopsis and full VR photography series coming soon.
+Synopsis and full storytelling series coming soon in virtual reality.
