@@ -8,7 +8,8 @@ rank: 4
 ---
 
 
-<div><img src="https://lh3.googleusercontent.com/m-hMfF-N38zVo-jRbEiEbAzhvxLbuSVlKNE9RTzoIZI-Y2lxVSyf0XamFSH2d_LHgB0Rl-yPYEqBidMqYA8jaq1BLxFvdkD-GgirN1DiA226m9-lA33iWbNVPh_Xp98NTZYjAalF=w2400" alt= "Andrew Dayton, Developmental Psychologist and community Medicine Man breathing life into embers of a Cherokee Medicine Fire" />
+<div><a href="https://lh3.googleusercontent.com/m-hMfF-N38zVo-jRbEiEbAzhvxLbuSVlKNE9RTzoIZI-Y2lxVSyf0XamFSH2d_LHgB0Rl-yPYEqBidMqYA8jaq1BLxFvdkD-GgirN1DiA226m9-lA33iWbNVPh_Xp98NTZYjAalF=w2400">
+<img src="https://lh3.googleusercontent.com/m-hMfF-N38zVo-jRbEiEbAzhvxLbuSVlKNE9RTzoIZI-Y2lxVSyf0XamFSH2d_LHgB0Rl-yPYEqBidMqYA8jaq1BLxFvdkD-GgirN1DiA226m9-lA33iWbNVPh_Xp98NTZYjAalF=w2400" alt= "Andrew Dayton, Developmental Psychologist and community Medicine Man breathing life into embers of a Cherokee Medicine Fire" /></a>
 </div>
 
 Synopsis and more photos coming soon.
