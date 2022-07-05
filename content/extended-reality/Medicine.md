@@ -18,7 +18,7 @@ rank: 4
   </div>
 </div>
 
-Andrew Dayton is a developmental psychologist and community recognized Cherokee Medicine Man. He is dedicated to preserving indegenous heritage through storytelling, and Director of Sevenstar Spatial Network, a server-based network of fiber-connected servers offering virtual reality and volumentric rendering technology to collaborative groups situated directly within Northeastern Oklahoma homes and communities as well as within community schools.
+Andrew Dayton is a developmental psychologist and community recognized Cherokee Medicine Man. He is dedicated to preserving indegenous heritage through storytelling, and Director of Sevenstar Spatial Network, a server-based network of fiber-connected computers offering virtual reality and volumentric rendering technology to collaborative groups situated directly within Northeastern Oklahoma homes and communities as well as within community schools.
 
 From 2018 to 2020, I spent three summers living at Andrew's homestead with his family. Developing experimental VR by day, walking the land and learning stories at night. He introduced me to virtual reality's potential as a sociological and philisophical approach to teaching culture through science and nature.
 
