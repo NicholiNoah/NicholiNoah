@@ -1,8 +1,8 @@
 ---
-title: Medicine Fire, Medicine Man<br>(Cross your eyes to view in 3D)
+title: Medicine Fire, Medicine Man<br>Andrew Dayton
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/m-hMfF-N38zVo-jRbEiEbAzhvxLbuSVlKNE9RTzoIZI-Y2lxVSyf0XamFSH2d_LHgB0Rl-yPYEqBidMqYA8jaq1BLxFvdkD-GgirN1DiA226m9-lA33iWbNVPh_Xp98NTZYjAalF=w2400
-description: Medicine Fire, Medicine man
+description: Medicine Fire, Medicine man<br>(Cross your eyes to view in 3D)
 alt: Cherokee Medicine Man at Medicine Fire
 rank: 4
 ---
