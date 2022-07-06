@@ -29,22 +29,34 @@ rank: 2
 This is where the magic happens...
 <div class="row">
   <div class="col-md-3">
-  <a href= "https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400">
-    <img src="https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400" alt="Mockup design with tiny planet and two Nicholis">
-    </img>
-  </a>
+    <a href= "https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400">
+      <img src="https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400" alt="Mockup design with tiny planet and two Nicholis">
+      </img>
+    </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Early concept photo mockup</p>
   </div>
+  
   <div class="col-md-3">
-    <img src="https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400" alt="Hand-drawn storyboard concept: story arc"></img>
+   <a href= "https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400">
+      <img src="https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400" alt="Hand-drawn storyboard concept: story arc">
+      </img>
+    </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Story Arc</p>
   </div>
+  
   <div class="col-md-3">
-    <img src="https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400" alt="Hand-drawn storyboard concept: dialogue"></img>
+    <a href= "https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400">
+      <img src="https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400" alt="Hand-drawn storyboard concept: dialogue">
+      </img>
+    </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Dialogue</p>
   </div>
+
   <div class="col-md-3">
-    <img src="https://lh3.googleusercontent.com/JHii8NgANCSCSxcD-TYD_vrPEjMZFxEsUm_zEQMioLFXbTocETwGkoyOzst1NoaCcf2xiXdnIg4prmRj70Mo_y3YGud0mKQY84yllhqr81btSbsUybJl0-mO7tnwkA3lmFZnW-Wvrw=w2400" alt="Hand-drawn stereoscopic workflow sketch"></img>
+    <a href= "https://lh3.googleusercontent.com/JHii8NgANCSCSxcD-TYD_vrPEjMZFxEsUm_zEQMioLFXbTocETwGkoyOzst1NoaCcf2xiXdnIg4prmRj70Mo_y3YGud0mKQY84yllhqr81btSbsUybJl0-mO7tnwkA3lmFZnW-Wvrw=w2400">
+      <img src="https://lh3.googleusercontent.com/JHii8NgANCSCSxcD-TYD_vrPEjMZFxEsUm_zEQMioLFXbTocETwGkoyOzst1NoaCcf2xiXdnIg4prmRj70Mo_y3YGud0mKQY84yllhqr81btSbsUybJl0-mO7tnwkA3lmFZnW-Wvrw=w2400" alt="Hand-drawn stereoscopic workflow sketch">
+      </img>
+    </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Mono to stereo tiny planet workflow</p>
   </div>
 </div>
@@ -60,12 +72,20 @@ With the wind at my back, I threw as hard as I could, and that little ball flew 
     <iframe src="https://www.youtube.com/embed/BkyI5q8EkQQ" class="youtube-iframe"></iframe>
     <p style="font-family: arial; font-size: .7em; text-align: center">Draft sequence to test composition and timing</p>
   </div>
+
   <div class="col-md-3">
-    <img src="https://lh3.googleusercontent.com/s6qZkuTJOgg46ivrM-osBK9IpcJzPP71GH9vQHRBGTR676BVXm_eCiNABY_ydwyDYsO2U8iu-Wt_eLIFNuFIskP4GtvRYbs4vyn5QdwC8nWYsSNFCPgSJdJ01khjOCdZA4MJ0d_rwQ=w2400" alt="Storyboard of video frames with hand-drawn directions for animation"></img>
+   <a href= "https://lh3.googleusercontent.com/s6qZkuTJOgg46ivrM-osBK9IpcJzPP71GH9vQHRBGTR676BVXm_eCiNABY_ydwyDYsO2U8iu-Wt_eLIFNuFIskP4GtvRYbs4vyn5QdwC8nWYsSNFCPgSJdJ01khjOCdZA4MJ0d_rwQ=w2400">
+    <img src="https://lh3.googleusercontent.com/s6qZkuTJOgg46ivrM-osBK9IpcJzPP71GH9vQHRBGTR676BVXm_eCiNABY_ydwyDYsO2U8iu-Wt_eLIFNuFIskP4GtvRYbs4vyn5QdwC8nWYsSNFCPgSJdJ01khjOCdZA4MJ0d_rwQ=w2400" alt="Storyboard of video frames with hand-drawn directions for animation">
+    </img>
+    </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Animations</p>
   </div>
+
   <div class="col-md-3">
-    <img src="https://lh3.googleusercontent.com/4x8jiRTgb4-y-fsQC61CrUQ2_kBk8WWF70l-jcaaueeqXlQkrHy5nGGgpkcfLXYxCc2lYKEdIw7VgobcQbokp7E9PbW3tJ9uou6WQCR0kGrqaAiA_YfH8OccXFvEoT5KQ2UIHnPEkQ=w2400" alt="Hand-drawn direction for animation changes"></img>
+    <a href= "https://lh3.googleusercontent.com/4x8jiRTgb4-y-fsQC61CrUQ2_kBk8WWF70l-jcaaueeqXlQkrHy5nGGgpkcfLXYxCc2lYKEdIw7VgobcQbokp7E9PbW3tJ9uou6WQCR0kGrqaAiA_YfH8OccXFvEoT5KQ2UIHnPEkQ=w2400">
+      <img src="https://lh3.googleusercontent.com/4x8jiRTgb4-y-fsQC61CrUQ2_kBk8WWF70l-jcaaueeqXlQkrHy5nGGgpkcfLXYxCc2lYKEdIw7VgobcQbokp7E9PbW3tJ9uou6WQCR0kGrqaAiA_YfH8OccXFvEoT5KQ2UIHnPEkQ=w2400" alt="Hand-drawn direction for animation changes">
+      </img>
+    </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Sample daily critique and solutions</p>
   </div>
 </div>
@@ -90,7 +110,7 @@ About 1/4 tank of gas from driving back and forth to the park a few times, plus 
 More innovation. I'm developing a mixed reality capture system for producing even more immersive content. Stay tuned to [NicholiNoah.com](https://nicholinoah.com/virtual-reality) for updates and teasers of cutting edge creative.
 
 **What is the logo on your shirt?**
-[CuriousVR](https://curiousvr.tv) is my online portfolio and personal brand. It's my way of showcasing innovative virtual and mixed reality tech while telling fun stories and sharing my own growth all at the same time.
+CuriousVR was my online portfolio and personal brand. It's my way of showcasing innovative virtual and mixed reality tech while telling fun stories and sharing my own growth all at the same time.
 
 **If you had to do it again, what would you do differently?**
 For the first time in my life, I am 100% happy with the finished piece and wouldn't change a thing. That's a lot to say for an artist, and testament to how much I poured every bit of myself into this sci-fi self-portrait with a smile big enough to prove it.
