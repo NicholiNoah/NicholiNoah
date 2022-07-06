@@ -1,5 +1,5 @@
 ---
-title: Shadow
+title: The Shadow I See
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/FRyhtgx-1X-gH3PLVJnkVT_EEBc2riM-BD_5MUmI1XPv3B58krl7gesG0iMPfsH8VCrHvwKE0tCMW28mWiMEQpxWA12Nzsvtu8zjgUNaUJpMoiO1kTNbc8HBZ7IUYvIqozBDcRcm=w2400
 description: 2D Portrait of 4D Self<br>(acrylic on canvas)
