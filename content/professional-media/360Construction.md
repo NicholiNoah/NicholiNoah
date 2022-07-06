@@ -2,7 +2,7 @@
 title: 360VR Construction<br>Management Training
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/voATB6lrwI2hX82jwGiBm3n-db1NGPZvAbQ8Og39ALXetIS_baLVg8Sa7vgOCcPZ-tcQO6MiLvRtR0bs3xyCalbmRVn6avjOLSBuNBEM2_WC5HAwq6sYGBDSgrByfqcSo5vDj5cpDQ=w2400
-description: Virtual Job Training and Simulation
+description: Virtual Job Training and Simulation<br>Director \ Producer \ Creative Technologist
 alt: Empty construction site with a crane and other equipment
 rank: 5
 ---
