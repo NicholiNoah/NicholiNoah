@@ -15,14 +15,14 @@ summaryLength = 30
     url = "/"
     weight = 1
   [[menu.nav]]
-    identifier = "professional-media"
-    name = "Professional Media"
-    url = "/professional-media/"
-    weight = 2
-  [[menu.nav]]
     identifier = "extended-reality"
     name = "XR & Fine Art"
     url = "/extended-reality/"
+    weight = 2
+  [[menu.nav]]
+    identifier = "professional-media"
+    name = "Professional Media"
+    url = "/professional-media/"
     weight = 3
   [[menu.nav]]
     identifier = "brave-metaverse"
