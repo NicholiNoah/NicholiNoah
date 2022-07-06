@@ -18,6 +18,8 @@ bannerHeight: 0vh
     <p style="font-family:arial">Artist Statement:</br>I remember the first time
     </p>
   </div> -->
+From video camera to virtual reality, Nicholi Noah is embedding visions of an abstract future into fine art and education. Providing real world access to the Metaverse through immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool to spark new conversations while empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
+
 <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b>Artist Statement:</b></br>
