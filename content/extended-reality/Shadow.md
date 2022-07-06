@@ -1,9 +1,9 @@
 ---
-title: Shadow<br>(Self-Portrait)
+title: Shadow
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/FRyhtgx-1X-gH3PLVJnkVT_EEBc2riM-BD_5MUmI1XPv3B58krl7gesG0iMPfsH8VCrHvwKE0tCMW28mWiMEQpxWA12Nzsvtu8zjgUNaUJpMoiO1kTNbc8HBZ7IUYvIqozBDcRcm=w2400
 description: 2D Portrait of 4D Self<br>(acrylic on canvas)
-alt: Self-portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness. Hung on light blue bedroom wall.
+alt: Painted portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness. Hung on light blue bedroom wall.
 rank: 3
 ---
 
