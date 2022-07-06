@@ -20,7 +20,7 @@ rank: 1
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">Combining inspiration from <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art." target="_blank" rel="noopener noreferrer">Marcel Duchamp's <em>Readymades</em></a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)" target="_blank" rel="noopener noreferrer">"Fountain"</a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm" target="_blank" rel="noopener noreferrer">"Prelude to a Broken Arm"</a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami" target="_blank" rel="noopener noreferrer">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html" target="_blank" rel="noopener noreferrer">(Shinto animism)</a>, "To Be Free" employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>
+    <p style="font-family: arial">Combining inspiration from <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art." target="_blank" rel="noopener noreferrer">Marcel Duchamp's <em>Readymades</em></a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)" target="_blank" rel="noopener noreferrer"><em>Fountain</em></a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm" target="_blank" rel="noopener noreferrer"><em>Prelude to a Broken Arm</em></a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami" target="_blank" rel="noopener noreferrer">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html" target="_blank" rel="noopener noreferrer">(Shinto animism)</a>, <em>To Be Free</em> employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>
     </br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
   </div>
 </div>
@@ -34,7 +34,7 @@ rank: 1
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what is a hologram?</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">"To Be Free" is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
+    <p style="font-family:arial"><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.<br/><br/>Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></p>
   </div>
 </div>
 
@@ -42,7 +42,7 @@ rank: 1
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, "To Be Free" is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
+    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, <em>To Be Free</em> is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
     <a href= "https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400">
@@ -100,7 +100,7 @@ At more than one high school, I watched their entire VR program get tossed into 
   <div class="col-md-4">
   </div>
   <div class="col-md-4">
-<p style="font-family: arial; font-size:.75em; text-align: center">"To Be Free" is a mixed-media sculpture combining found objects and poetry with electronic arts and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power. The included QR code links directly to this synopsis webpage and portolio site.</p>
+<p style="font-family: arial; font-size:.75em; text-align: center"><em>To Be Free</em> is a mixed-media sculpture combining found objects and poetry with electronic arts and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power. The included QR code links directly to this synopsis webpage and portolio site.</p>
   </div>
 </div>
 
