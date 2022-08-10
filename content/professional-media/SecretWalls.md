@@ -9,7 +9,7 @@ rank: 4
 
 <div class="row">
   <div class="col-md-6">
-    <iframe src="https://youtu.be/S9I0K6MI89Q?t=31" class="youtube-iframe"></iframe>
+    <iframe src="https://www.youtube.com/embed/S9I0K6MI89Q?start=31" class="youtube-iframe"></iframe>
   </div>
   <div class="col-md-6">
     <iframe src="https://www.youtube.com/embed/xdoJt7lIbEo" class="youtube-iframe"></iframe>
