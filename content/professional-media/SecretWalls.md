@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: https://lh3.googleusercontent.com/Ek8zKufJxirMWSgFE4pYPx__xr8oFrSpYgZDG_em3KIB11-EguIeovxFTB-2inTpcPIfrBpv0RU5vfHlXph6hs6ubITz28R1mKkxoLKMtDEBXZSKaQjGNTT2dfze1g96amgdcMszhQ=w2400
 description: writer \ editor \ graphics
 alt: Black and white graffiti mural with red Chevrolet Sound Garage stereo graphic in center
-rank: 4
+rank: 5
 ---
 
 <div class="row">
