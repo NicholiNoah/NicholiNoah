@@ -66,7 +66,7 @@ rank: 5
 However Go's impact fell far shorter than industy's expectations.
 
 Purchased by the bundle, universities and primary schools were promised this curious new headset was the key to our future of education. However, without proper training or demonstration, teachers had no way to connect this strange new device to their classrooms. Some were so afraid of the headsets getting damaged, students weren't allowed to touch them. Others despised the technology as nothing more than a videogame distraction that doesn't belong.
-At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets, shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.</br></br></br>This makes me sad.</p>
+At more than one high school, I watched their entire VR program get tossed into a laundry basket of unused headsets and shoved under a corner table where students will never find them. Millions of Gos never reaching their potential because they just weren't understood. Destined for government auctions, sold as scrap to the lowest bidder, then broken down and mined for it's gold, silver, and precious metals.</br></br></br>This makes me sad.</p>
   </div>
 </div>
 
