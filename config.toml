@@ -16,7 +16,7 @@ summaryLength = 30
     weight = 1
   [[menu.nav]]
     identifier = "extended-reality"
-    name = "Artistic Expression"
+    name = "XR & Fine Art"
     url = "/extended-reality/"
     weight = 3
   [[menu.nav]]
