@@ -13,6 +13,13 @@
 
 
 <html>
+  <http auto-config="true">
+    ...
+    <headers>
+        ...
+        <content-type-options disabled="true"/>
+    </headers>
+</http>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.5/dist/mindar-image.prod.js"></script>
@@ -23,8 +30,8 @@
   <body>
     <a-scene mindar-image="imageTargetSrc: ../../assets/targets/shadow.mind; maxTrack: 1" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
       <a-assets>
-        <a-asset-item id="bearModel" src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.5/examples/image-tracking/assets/band-example/bear/scene.gltf"></a-asset-item>
-        <a-asset-item id="raccoonModel" src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.5/examples/image-tracking/assets/band-example/raccoon/scene.gltf"></a-asset-item>
+        <a-asset-item id="bearModel" src="../../assets/models/align-scale/scene.gltf"></a-asset-item>
+        <a-asset-item id="raccoonModel" src="../../assets/models/square-circle/scene.gltf"></a-asset-item>
       </a-assets>
 
       <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
