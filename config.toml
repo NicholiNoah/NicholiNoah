@@ -1,4 +1,5 @@
-baseURL = "/"
+#baseURL = "/"
+relativeURLs = true
 languageCode = "en-us"
 title = "Nicholi Noah"
 summaryLength = 30
