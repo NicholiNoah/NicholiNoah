@@ -1,22 +1,22 @@
-import {loadGLTF} from "http://spatialmedialab.com/libs/loader.js";
+import {loadGLTF} from "https://spatialmedialab.com/libs/loader.js";
 const THREE = window.MINDAR.IMAGE.THREE;
 
 document.addEventListener('DOMContentLoaded', () => {
   const start = async() => {
     const mindarThree = new window.MINDAR.IMAGE.MindARThree({
       container: document.body,
-      imageTargetSrc: 'http://spatialmedialab.com/assets/targets/musicband.mind'
+      imageTargetSrc: 'https://spatialmedialab.com/assets/targets/musicband.mind'
     });
     const {renderer, scene, camera} = mindarThree;
 
     const light = new THREE.HemisphereLight( 0xffffff, 0xbbbbff, 1 );
     scene.add(light);
 
-    const raccoon = await loadGLTF('http://spatialmedialab.com/assets/models/musicband-raccoon/scene.gltf');
+    const raccoon = await loadGLTF('https://spatialmedialab.com/assets/models/musicband-raccoon/scene.gltf');
     raccoon.scene.scale.set(0.1, 0.1, 0.1);
     raccoon.scene.position.set(0, -0.4, 0);
 
-    const bear = await loadGLTF('http://spatialmedialab.com/assets/models/musicband-bear/scene.gltf');
+    const bear = await loadGLTF('https://spatialmedialab.com/assets/models/musicband-bear/scene.gltf');
     bear.scene.scale.set(0.1, 0.1, 0.1);
     bear.scene.position.set(0, -0.4, 0);
 
