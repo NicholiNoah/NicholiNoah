@@ -14,9 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const matPlane = new THREE.MeshBasicMaterial({color: 0x00ffff, transparent: true, opacity: 0.5});
     const plane = new THREE.Mesh(geoPlane, matPlane);
     
-    const geoCube = new THREE.BoxGeometry(20, 20, 20, 20, 20, 20); 
+    
+    const geoCube = new THREE.BoxGeometry(1, 1.25, 2.5); 
     const matCube = new THREE.MeshNormalMaterial({ wireframe: true }); 
     const cube = new THREE.Mesh(geoCube, matCube);
+    cube.position.set(0, 0, -1.25);
+
 
     // create anchor
     const anchor = mindarThree.addAnchor(0);
