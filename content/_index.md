@@ -31,7 +31,7 @@ We live in a beautifully emerging new era. Humans and machines working together,
 
 &nbsp; Hi, I'm Nicholi Noah. <br>
 <br>
-A Creative Technologist and curious storyteller with over 15 years of creative video knowledge, 5 years of project management & process development, 3 years leading junior creative teams, and a knack for finding patterns and solving problems. I believe in cultivating a culture of trust through awareness, empowerment, and open communication. My philosophy is that positive accountability and honest expectations lead to strong relationships and even stronger creative solutions.
+A Creative Technologist and curious storyteller with over 25 years of creative video knowledge, 5 years of project management & process development, 3 years leading junior creative teams, and a knack for finding patterns and solving problems. I believe in cultivating a culture of trust through awareness, empowerment, and open communication. My philosophy is that positive accountability and honest expectations lead to strong relationships and even stronger creative solutions.
 <br>
 <br>
 **Artist Bio:**
