@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-extras@^6.2.0/dist/aframe-extras.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sky color="#6EBAA7"></a-sky>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-box grab a-move color="#4CC3D9" width="1" height="1" depth="1"></a-box>
+      <a-sphere grab a-move color="#FFC65D" radius="0.5"></a-sphere>
+    </a-scene>
+
+    <textarea id="code-editor" contenteditable></textarea>
+    <pre id="code-display"></pre>
+
+    <div id="shape-menu">
+      <button id="create-sphere-button">Create Sphere</button>
+      <button id="create-box-button">Create Box</button>
+     
+      <button id="change-color-button">Change Color</button>
+      <button id="group-button">Group</button>
+      <button id="ungroup-button">Ungroup</button>
+    </div>
+    
+    <script>
+      const codeEditor = document.getElementById('code-editor');
+      const codeDisplay = document.getElementById('code-display');
+    
+      codeEditor.addEventListener('input', () => {
+        // Update the code display in real-time
+        codeDisplay.textContent = codeEditor.value;
+      });
+    
+      const createSphereButton = document.getElementById('create-sphere-button');
+      const createBoxButton = document.getElementById('create-box-button');
+    
+      createSphereButton.addEventListener('click', () => {
+        // Create a new sphere element
+        const sphereElement = document.createElement('a-sphere');
+        // Add the new sphere element to the A-Frame scene
+        document.querySelector('a-scene').innerHTML += sphereElement.outerHTML;
+        // Update the code editor with the new shape element
+        codeEditor.value += sphereElement.outerHTML;
+      });
+    
+      createBoxButton.addEventListener('click', () => {
+        // Create a new box element
+        const boxElement = document.createElement('a-box');
+        // Add the new box element to the A-Frame scene
+        document.querySelector('a-scene').innerHTML += boxElement.outerHTML;
+        // Update the code editor with the new shape element
+        codeEditor.value += boxElement.outerHTML;
+      });
+    
+      const changeColorButton = document.getElementById('change-color-button');
+    
+      changeColorButton.addEventListener('click', () => {
+        // Get the new color from the player
+        const newColor = prompt('Enter a new color:');
+        // Select all the shapes in the A-Frame scene
+        const shapes = document.querySelectorAll('a-sphere, a-box');
+        // Update the color of each shape
+        shapes.forEach(shape => {
+          shape.setAttribute('color', newColor);
+        });
+      });
+    
+      const groupButton = document.getElementById('group-button');
+    
+      groupButton.addEventListener('click', () => {
+        // Select all the shapes in the A-Frame scene
+        const shapes = document.querySelectorAll('a-sphere, a-box');
+        // Add the group class to each shape element
+        shapes.forEach(shape => {
+          shape.classList.add('group');
+        });
+      });
+    
+      const ungroupButton = document.getElementById('ungroup-button');
+    
+      ungroupButton.addEventListener('click', () => {
+              // Select all the shapes in the A-Frame scene
+      const shapes = document.querySelectorAll('a-sphere, a-box');
+      // Remove the group class from each shape element
+      shapes.forEach(shape => {
+        shape.classList.remove('group');
+      });
+    });
+  </script>
+</a-scene>
+</body>
+</html>
+   
