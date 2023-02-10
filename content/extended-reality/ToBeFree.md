@@ -3,7 +3,7 @@ title: To Be Free
 metaDescription: 
 thumbnail: https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400
 description: Augmented Reality without the device<br>(Mixed-Media Sculpture and VR history lesson)
-alt: fine art sculpture of an invisible baby with VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
+alt: fine art sculpture of an invisible (virtual) baby wearing a VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
 rank: 5
 ---
 
@@ -31,7 +31,7 @@ rank: 5
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what is a hologram?</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what does your imagination see?</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.</p>
