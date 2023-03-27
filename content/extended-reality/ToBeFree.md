@@ -1,6 +1,6 @@
 ---
 title: To Be Free
-metaDescription: 
+metaDescription:
 thumbnail: https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400
 description: Augmented Reality without the device<br>(Mixed-Media Sculpture and VR history lesson)
 alt: fine art sculpture of an invisible (virtual) baby wearing a VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
@@ -11,7 +11,7 @@ rank: 5
 </div>
 
 <div class="row">
-  <div class="col-md-12">   
+  <div class="col-md-12">
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">augmented reality without the device</p>
   </div>
 </div>
@@ -53,7 +53,7 @@ rank: 5
 </div>
 
 <div class="row">
-  <div class="col-md-1"> 
+  <div class="col-md-1">
   </div>
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
@@ -61,7 +61,7 @@ rank: 5
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">custom installed "breathing" LED</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures. 
+    <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures.
 
 However Go's impact fell far shorter than industy's expectations.
 
@@ -75,7 +75,7 @@ At more than one high school, I watched their entire VR program get tossed into 
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan. One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames <em>Wolfenstein 3D</em>, <em>Doom</em>, and <em>Quake</em>) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* bootloader</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.</p>
+    <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan.</br>One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames <em>Wolfenstein 3D</em>, <em>Doom</em>, and <em>Quake</em>) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* bootloader</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.</p>
   </div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/qg-nrEpZz4ib_RNifpDvWxfonxDjXK6yPcmxNMBvLvnkXjItNKFsxNqEw70nCeMUSKFDZormy8OrozVfOKRhF5bIqXFC9lmlrbxGYMOl6t6pmPh77hGKAsTOB8lZaJzG8kk7E1NI=w2400"></img>
@@ -92,7 +92,7 @@ At more than one high school, I watched their entire VR program get tossed into 
   </div>
   <div class="col-md-7">
     <p style="font-family:arial">The Go in this art piece is unlocked and fully functioning.<br/><br/>She is free now.<br/><br/>Destined to carry a message of optimism and achievement.<br/>Inspiring discussion. Emoting compassion.<br/>Sparking new understanding of what it truly means to be human.</br></br></br></p>
-    
+
   </div>
 </div>
 
