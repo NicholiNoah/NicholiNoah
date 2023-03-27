@@ -26,6 +26,8 @@ This piece is both my first augmented reality project and first time painting on
 The goal was to produce a tech piece that could be used by all. It was also a test to see how people would interact with this wacky new virtual world. I spent several several days experimenting with how to make the experience as seamless as possible on both iOS and Android (this was the hardest part). 100% web with zero app stores or downloads. Just a QR code scan that jumps right into the experience.
 
 Like all experiments, research doesn't end when the piece is "finished". At the opening gallery, I observed how people interacted in the experience. Both with my piece and with each other.
-Many scannned right in and started exploring. Few actually read the instructions. Some naturally volunteered to help others. And a couple curious folks pushed the AR portion even further than I expected it to work.
+Many scanned right in and started exploring. Few actually read the instructions. Some naturally volunteered to help others. And a couple curious folks pushed the AR portion even further than I expected it to work.
+
+My biggest takeaway: Design the virtual and realworld components to be noticeably different. If they look too similar, it reduces the effect and isn't as fun.
 
 All valuable knowledge helping me improve my communication and ability to relate to others as authentically as possible.
