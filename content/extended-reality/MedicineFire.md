@@ -18,9 +18,9 @@ rank: 2
   </div>
 </div>
 
-Andrew Dayton is a developmental psychologist, Director of [Sevenstar Spatial Network](https://www.sevenstarspatial.com/), and community recognized Cherokee Medicine Man. He is dedicated to preserving indegenous heritage through storytelling and technology.
+Andrew Dayton is a developmental psychologist, Director of [Sevenstar Spatial Network](https://www.sevenstarspatial.com/), and community recognized Cherokee Medicine Man.</br>He is dedicated to preserving indegenous heritage through storytelling and technology.
 
-From 2018 to 2021, I spent three summers living at Andrew's homestead with his family. Developing experimental virtual reality by day, then walking the land and learning stories at night. He introduced me to XR's potential as a sociological and philisophical approach to teaching culture through balance of science and nature.
+From 2018 to 2021, I spent three seasons living at Andrew's homestead with his family. Developing experimental virtual reality by day, then walking the land and learning stories at night.</br>Andrew introduced me to XR's potential as a sociological and philisophical approach to teaching culture through balance of science and nature.
 
 On a full moon evening in the fall of 2019, Andrew invited me to participate in a traditional Medicine Fire ceremony, allowing me to capture the magical event on camera. This experience changed the way I view our world, and in many ways myself.
 

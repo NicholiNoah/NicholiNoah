@@ -35,7 +35,7 @@ This is where the magic happens...
     </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Early concept photo mockup</p>
   </div>
-  
+
   <div class="col-md-3">
    <a href= "https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400">
       <img src="https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400" alt="Hand-drawn storyboard concept: story arc">
@@ -43,7 +43,7 @@ This is where the magic happens...
     </a>
     <p style="font-family: arial; font-size: .7em; text-align: center">Storyboard: Story Arc</p>
   </div>
-  
+
   <div class="col-md-3">
     <a href= "https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400">
       <img src="https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400" alt="Hand-drawn storyboard concept: dialogue">
@@ -116,4 +116,4 @@ CuriousVR was my online portfolio and personal brand. It's my way of showcasing 
 For the first time in my life, I am 100% happy with the finished piece and wouldn't change a thing. That's a lot to say for an artist, and testament to how much I poured every bit of myself into this sci-fi self-portrait with a smile big enough to prove it.
 
 **Where do you see the future of VR/XR filmmaking?**
-Limitless accessibility and collaborative communication. Providing interactive tools for creatives to challenge traditional society, leading a renaissance of artistic exploration through collaboration of humans and tech. Developing solutions otherwise deemed "impossible", the extended realities will draw people together in ways we can’t even imagine yet. Applied as a filmmaking medium, immersive experiences are pioneering a direct, two-way connection between artists and audiences of all abilities.
+Limitless accessibility and collaborative communication. Providing interactive tools for creatives to challenge traditional society, leading a renaissance of artistic exploration through collaboration of humans and tech. Developing solutions otherwise deemed "impossible", extended reality will draw people together in ways we can’t even imagine yet. Applied as a filmmaking medium, immersive experiences are pioneering a direct, two-way connection between artists and audiences of all abilities.
