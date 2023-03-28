@@ -20,7 +20,7 @@ rank: 5
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial", "text-align: center">
+    <p style="font-family: arial; text-align: center">
 	"What does a creative community look like?"</p>
 	<p style="font-family: arial">
 	When the director asked us that precise question three different times during our exhibition walkthrough, I knew it was important.
