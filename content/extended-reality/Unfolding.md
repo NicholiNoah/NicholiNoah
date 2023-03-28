@@ -20,8 +20,9 @@ rank: 5
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">
-	<b>"What does a creative community look like?"</b></br>
+    <p style="font-family: arial", "text-align: center">
+	"What does a creative community look like?"</p>
+	<p style="font-family: arial">
 	When the director asked us that precise question three different times during our exhibition walkthrough, I knew it was important.
 	Several days of thought later, I realized my answer simply cannot be put into words. It's just too massive, too removed.</br>
 	Instead of words, what if I make an experience that visualizes the creative community I see in my imagination?</br>
