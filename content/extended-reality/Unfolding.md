@@ -27,7 +27,10 @@ rank: 5
 	Instead of words, what if I make an experience that visualizes the creative community I see in my imagination?</br>
 
 	Creative community is the relationship between artist, gallery, and audience.
-	Artist creates, gallery curates, audience appreciates and <b> carries the art's message to new communities </b>* through conversation and sharing.
+	Artist creates, gallery curates, audience appreciates and carries the art's message to new communities through conversation and sharing.
 	Each role equally valuable, but only when supported by the other two.
 
 	Unfolding is a direct visualization of this process. Holding the very community you support in your hand while also embodying that very same community... while standing beside others in the community... who are also holding your community in their hand. Each print is a seed, casted into the community to grow and increase support.
+</p>
+  </div>
+</div>
