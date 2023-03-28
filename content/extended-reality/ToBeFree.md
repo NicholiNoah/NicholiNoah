@@ -34,7 +34,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what does your imagination see?</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas.</p>
+    <p style="font-family:arial">Originally conceived in honor of Oculus Go and John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas, I finally saw the baby is me.</p>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ At more than one high school, I watched their entire VR program get tossed into 
   <div class="col-md-4">
   </div>
   <div class="col-md-4">
-<p style="font-family: arial; font-size:.75em; text-align: center"><em>To Be Free</em> is a mixed-media sculpture combining found objects and poetry with electronic arts and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power. The included QR code links directly to this synopsis webpage and portolio site.</p>
+<p style="font-family: arial; font-size:.75em; text-align: center"><em>To Be Free</em> is a mixed-media sculpture combining found objects and poetry with electronics art and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power. The included QR code links directly to this synopsis webpage and portolio site.</p>
   </div>
 </div>
 
