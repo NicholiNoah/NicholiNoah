@@ -1,5 +1,5 @@
 ---
-title: Unfolding<br>You are the sunset.
+title: Unfolding:<br>You are the sunset.
 metaDescription:
 thumbnail: https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400
 description: Augmented Reality holiday ornament
@@ -12,7 +12,7 @@ rank: 5
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">You are the sunset.</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">  </p>
   </div>
 </div>
 
@@ -21,16 +21,14 @@ rank: 5
   </div>
   <div class="col-md-10">
     <p style="font-family: arial; text-align: center">
-	"What does a creative community look like?"</p>
+	<b>"What does a creative community look like?"</b></p>
 	<p style="font-family: arial">
-	When the director asked us that precise question three different times during our exhibition walkthrough, I knew it was important.
-	Several days of thought later, I realized my answer simply cannot be put into words. It's just too massive, too removed.</br>
-	Instead of words, what if I make an experience that visualizes the creative community I see in my imagination?</br>
-
-	Creative community is the relationship between artist, gallery, and audience.
-	Artist creates, gallery curates, audience appreciates and carries the art's message to new communities through conversation and sharing.
-	Each role equally valuable, but only when supported by the other two.
-
+	When the director asked us the above question three different times during our exhibition walkthrough, I knew it was important.
+	Several days of thought later, I realized my answer simply cannot be put into words. It's just too massive, too removed.</br></br>
+	Instead of words, what if I make an experience that visualizes the creative community I see in my imagination?</br></br>
+	Creative community is the relationship between artist, gallery, and audience.</br>
+	Artist creates, gallery curates, audience appreciates and <b>carries the message to new communities</b> through conversation and sharing.
+	Each role equally valuable, but only when supported by the other two.</br></br>
 	Unfolding is a direct visualization of this process. Holding the very community you support in your hand while also embodying that very same community... while standing beside others in the community... who are also holding your community in their hand. Each print is a seed, casted into the community to grow and increase support.
 </p>
   </div>
