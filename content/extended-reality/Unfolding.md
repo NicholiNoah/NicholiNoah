@@ -20,8 +20,7 @@ rank: 4
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial; text-align: center">
-	<b>"What does a creative community look like?"</b></br></p>
+    <h3>"What does a creative community look like?"</h3>
 	<p style="font-family: arial">
 	When our director asked the above question three different times during the exhibition walkthrough, I knew it was important.</br>
 	Several days of thought later, I realized my answer simply cannot be put into words. It's just too massive of a concept.</br></br>
@@ -31,7 +30,7 @@ rank: 4
 	Each role equally valuable, but only when supported by the other two.</br></br>
 	<em>Unfolding</em> is a direct visualization of this process. Holding the very community you support in your hand while also embodying that very same community... while standing beside others in the community... who are also holding your community in their hand. Each print a seed, casted into the community to grow and increase support.
 </p>
-  <h1>Unfolding: An Augmented Reality Experience</h1>
+  <h3>Unfolding: An Augmented Reality Experience</h3>
   <p>Holding the world in your hand, you are the sunset. <i>Unfolding</i> is an augmented reality experience created to spark new perspective of human connection through technology.<br/><br/>
      1. Open your mobile device's camera and point it at the QR code.<br/>
      2. Click the yellow pop-up on your screen to open the link.<br/>
