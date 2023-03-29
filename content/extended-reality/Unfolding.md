@@ -42,11 +42,11 @@ rank: 4
      Using another web browser (Mozilla Firefox or Google Chrome), open <a href="https://nicholinoah.com/unfolding/gift">NicholiNoah.com/unfolding/gift</a> and follow the instructions above.
   	</p><br/>
  	<p>There is so much more I'd like to add to this project. Specifically, a direct link to the OK Contemp donation page, and interactivity so you can
-    spin the crystal ball to see the entire sunset. And of course a full write-up with photos and magic and stuff.</br></br>
-    If you'd like to see more progress and augmented reality art:
+    spin the crystal ball to see the entire sunset. And of course a full write-up with photos and magic and stuff.</p>
+    <p>If you'd like to see more progress and augmented reality art:
 	</p>
- 	<ul><li><a href="https://oklahomacontemporary.org/support/donate">click here to DONATE to Oklahoma Contemporary Art Center</a></li><br/>
-    	<li><a href="https://nicholinoah.com">click here to view my profile and lots more projects I'm super proud of.</a></li><br/>
+ 	<ul><li><a href="https://oklahomacontemporary.org/support/donate">click here to DONATE to Oklahoma Contemporary Art Center</a></li></ul>
+    <ul><li><a href="https://nicholinoah.com">click here to view my profile and lots more projects I'm super proud of.</a></li><br/>
     	<li><a href="mailto:career@nicholinoah.com">Send an email and say hello :)</a></li>
   	</ul>
   </div>
