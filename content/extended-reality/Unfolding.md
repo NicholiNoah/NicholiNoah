@@ -7,8 +7,16 @@ alt: Paper holiday ornament with QR code that generates an augmented reality cry
 rank: 4
 ---
 
-<div><img src="https://lh3.googleusercontent.com/pw/AMWts8D2To7cVHtJV0Vm8sA2umUq1SE5v5nMkYcyS1Ka7kHC0KokBoQGOpiQdlD41Zh3ZUrAw4Zb3E1HQ02B6vAFrZAuWvqWrA50A0IWh5WxDRBt2okPOYU=w2400" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
+<!-- <div><img src="https://lh3.googleusercontent.com/pw/AMWts8D2To7cVHtJV0Vm8sA2umUq1SE5v5nMkYcyS1Ka7kHC0KokBoQGOpiQdlD41Zh3ZUrAw4Zb3E1HQ02B6vAFrZAuWvqWrA50A0IWh5WxDRBt2okPOYU=w2400" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
+</div> -->
+
+<div>
+  <video width="320" height="240" controls loop>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
+
 
 <div class="row">
   <div class="col-md-12">
@@ -29,16 +37,17 @@ rank: 4
 	Artist creates, gallery curates, audience appreciates and carries the message to new communities through conversation and sharing.
 	Each role equally valuable, but only when supported by the other two.</br></br>
 	<em>Unfolding</em> is a direct visualization of this process. Holding the very community you support in your hand while also embodying that very same community... while standing beside others in the community... who are also holding your community in their hand. Each print a seed, casted into the community to grow and increase support.
-</p>
+</p></br>
   <h3>Unfolding: An Augmented Reality Experience</h3>
   <p>Holding the world in your hand, you are the sunset. <i>Unfolding</i> is an augmented reality experience created to spark new perspective of human connection through technology.<br/><br/>
      1. Open your mobile device's camera and point it at the QR code.<br/>
-     2. Click the yellow pop-up on your screen to open the link.<br/>
+     2. Click the pop-up on your screen to open the link.<br/>
      3. Tap "allow" to give <i>Unfolding</i> permission to use your camera.<br/>
      4. Continue pointing your camera at the QR code (in your other hand) while slowly rotating the paper back and forth.<br/>
      5. Rise and set your sunlight as Oklahoma Contemporary reflects beautiful colors.</p></body><br/>
 	<p>TECH SUPPORT: Is the QR link broken or only showing a white circle?<br/>
-     Using another web browser (Mozilla Firefox or Google Chrome), open <a href="https://nicholinoah.com/unfolding/gift">NicholiNoah.com/unfolding/gift</a> and follow the instructions above.
+     Try using a different web browser (Mozilla Firefox or Google Chrome).</br>
+	 open <a href="https://nicholinoah.com/unfolding/gift">NicholiNoah.com/unfolding/gift</a> and follow the instructions above.
   	</p><br/>
  	<p>There is so much more I'd like to add to this project. Specifically, a direct link to the OK Contemp donation page, and interactivity so you can
     spin the crystal ball to see the entire sunset. And of course a full write-up with photos and magic and stuff.</p></br></br>
