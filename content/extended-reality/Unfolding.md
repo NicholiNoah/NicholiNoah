@@ -12,7 +12,7 @@ rank: 4
 
 <div>
   <video width="320" height="240" controls loop>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="/unfolding/demoUnfolding-sm.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
