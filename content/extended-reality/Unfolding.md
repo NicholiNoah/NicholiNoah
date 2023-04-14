@@ -7,7 +7,7 @@ alt: Paper holiday ornament with QR code that generates an augmented reality cry
 rank: 4
 ---
 
-<div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTkwMGZmMDBiYzFiNDMwNjAzZDU4NmI2N2I1N2U1ODNhNTE2MSZjdD1n/tfxy0eWhqBuiSPGONE/giphy.gif&ct=w2400" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
+<div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTkwMGZmMDBiYzFiNDMwNjAzZDU4NmI2N2I1N2U1ODNhNTE2MSZjdD1n/tfxy0eWhqBuiSPGONE/giphy.gif" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
 </div>
 
 <div class="row">
