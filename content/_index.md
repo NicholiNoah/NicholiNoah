@@ -30,14 +30,11 @@ A Creative Technologist and curious storyteller with over 25 years of creative v
 
 We live in a beautifully emerging new era. Humans and machines working together, transcending greatness through accessible communication. From video camera to virtual reality, I'm expanding upon an award-winning creative career that stretches across advertising, education, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
 
-<br>
 Professional Bio:
-<br>4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating XR so much I've spent over 1,000 hours building immersive extended reality experiences while inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides.
+ 4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating XR so much I've spent over 1,000 hours building immersive extended reality experiences while inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides.
 
-<br>
 Artist Bio:
 From video camera to virtual reality, Nicholi Noah is embedding visions of an abstract future into fine art and education. Providing real world access to the Metaverse through immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool to spark new conversations while empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
-<br>
 
-### [Click here to DOWNLOAD MY RESUME](static\images\NicholiNoah_resume23.pdf)
+### [Click here to DOWNLOAD MY RESUME](/content/NicholiNoah_resume23.pdf)
 
