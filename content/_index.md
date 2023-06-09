@@ -33,5 +33,5 @@ We live in a beautifully emerging new era. Humans and machines working together,
 
 **Artist Bio** - From video camera to virtual reality, Nicholi Noah is embedding visions of an abstract future into fine art and education. Providing real world access to the Metaverse through immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool to spark new conversations while empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
 
-### [Click here to DOWNLOAD MY RESUME](/content/NicholiNoah_resume23.pdf)
+### [Click here to DOWNLOAD MY RESUME](/NicholiNoah_resume23.pdf)
 
