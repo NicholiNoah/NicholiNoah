@@ -22,7 +22,7 @@
         function setInitialRotation() {
             const modelViewer = document.querySelector('model-viewer');
             modelViewer.addEventListener('load', () => {
-                modelViewer.cameraOrbit = '0deg 45deg 0deg'; // Adjust the rotation here
+                modelViewer.rotation = '0 1 0 0deg'; // Adjust the rotation here
             });
         }
     </script>
