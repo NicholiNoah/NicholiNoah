@@ -22,15 +22,13 @@
         function setInitialRotation() {
             const modelViewer = document.querySelector('model-viewer');
             modelViewer.addEventListener('load', () => {
-                modelViewer.minCameraOrbit = 'auto auto auto'; // Adjust the minCameraOrbit here
-                modelViewer.maxCameraOrbit = 'auto auto auto'; // Adjust the maxCameraOrbit here
                 modelViewer.cameraOrbit = '0deg 45deg 0deg'; // Adjust the rotation here
             });
         }
     </script>
 </head>
-<body onload="setInitialRotation()">
+<body>
     <!-- Use it like any other HTML element -->
-    <model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="/Hoodie.glb" camera-controls touch-action="pan-y"></model-viewer>
+    <model-viewer alt="Orange hoodie with beautifully hand-illustrated sharpie drawing of a skull with eagle feathers, and reads Indian Outlaw" src="/Hoodie.glb" camera-controls rotation="0 1 0 45" touch-action="pan-y"></model-viewer>
 </body>
 </html>
