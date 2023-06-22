@@ -1,9 +1,9 @@
 ---
-title: Ambitious hacker hippie type who talks like a punk rock surfer from OKC
+title: Visionary techno hippie type who talks like a punk rock surfer from Oklahoma City
 metaDescription: Profile of virtual reality VR and extended reality XR film video production artist
 banner:
 bannerHeight: 0vh
----
+--- 
 
 <div class="row">
   <div class="col-md-12">
