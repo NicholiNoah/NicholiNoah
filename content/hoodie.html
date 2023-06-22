@@ -22,8 +22,6 @@
         function setInitialRotation() {
             const modelViewer = document.querySelector('model-viewer');
             modelViewer.addEventListener('load', () => {
-                modelViewer.minCameraOrbit = '-90deg auto auto'; // Adjust the minCameraOrbit here
-                modelViewer.maxCameraOrbit = '90deg auto auto'; // Adjust the maxCameraOrbit here
                 modelViewer.cameraOrbit = '0deg 45deg 0deg'; // Adjust the rotation here
             });
         }
