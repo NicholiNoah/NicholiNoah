@@ -4,13 +4,28 @@
     <title>Model Viewer Example</title>
     <!-- Import the component -->
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
-	<style>
+    <style>
         /* Make the model viewer fill the entire screen */
         model-viewer {
             width: 100%;
             height: 100vh;
         }
+
+        /* Remove the gray scroll bar */
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
     </style>
+    <script>
+        // Function to adjust the initial rotation of the model
+        function setInitialRotation() {
+            const modelViewer = document.querySelector('model-viewer');
+            modelViewer.addEventListener('load', () => {
+                modelViewer.cameraOrbit = '0deg 45deg 0deg'; // Adjust the rotation here
+            });
+        }
+    </script>
 </head>
 <body>
     <!-- Use it like any other HTML element -->
