@@ -12,14 +12,15 @@
     }
     .sketchfab-embed-wrapper {
       position: relative;
-      width: 100%;
+      width: 75%;
       padding-top: 56.25%;
       height: 0;
+      margin: 0 auto;
       overflow: hidden;
     }
     .sketchfab-embed-wrapper iframe {
       position: absolute;
-      top: -10%;
+      top: 0;
       left: -25%;
       width: 150%;
       height: 100%;
@@ -40,7 +41,7 @@
       execution-while-out-of-viewport
       execution-while-not-rendered
       web-share
-      src="https://sketchfab.com/models/3647e77658a34e8fb95ff767953aa440/embed?autostart=1&dnt=1">
+      srcdoc="<style>body{margin:0;overflow:hidden}</style><iframe src='https://sketchfab.com/models/3647e77658a34e8fb95ff767953aa440/embed?autostart=1&dnt=1' frameborder='0' allowfullscreen='true'></iframe>">
     </iframe>
   </div>
 </body>
