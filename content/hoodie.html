@@ -12,10 +12,10 @@
     }
     .sketchfab-embed-wrapper {
       position: relative;
+      overflow: hidden;
       width: 75%;
       margin: 0 auto;
-      padding-top: 56.25%;
-      overflow: hidden;
+      padding-top: 42.18%; /* Adjusted aspect ratio to 21:9 for cropping */
     }
     .sketchfab-embed-wrapper::before {
       content: '';
@@ -24,7 +24,7 @@
       top: 0;
       left: -25%;
       width: 150%;
-      padding-top: 56.25%;
+      padding-top: 42.18%; /* Adjusted aspect ratio to 21:9 for cropping */
     }
     .sketchfab-embed-wrapper iframe {
       position: absolute;
