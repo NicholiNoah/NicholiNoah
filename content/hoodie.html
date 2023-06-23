@@ -12,19 +12,20 @@
     }
     .sketchfab-embed-wrapper {
       position: relative;
-      overflow: hidden;
       width: 75%;
       margin: 0 auto;
-      padding-top: 42.18%; /* Adjusted aspect ratio to 21:9 for cropping */
+      padding-top: 133.33%; /* 3:4 Aspect Ratio */
+      overflow: hidden;
     }
     .sketchfab-embed-wrapper::before {
       content: '';
       display: block;
       position: absolute;
-      top: 0;
-      left: -25%;
-      width: 150%;
-      padding-top: 42.18%; /* Adjusted aspect ratio to 21:9 for cropping */
+      top: -20%; /* Crop the upper 10% */
+      left: -25%; /* Crop each side 25% */
+      width: 150%; /* Increase the width to compensate for cropping */
+      height: 140%; /* Increase the height to compensate for cropping */
+      background-color: white; /* Set the background color to match the page background */
     }
     .sketchfab-embed-wrapper iframe {
       position: absolute;
