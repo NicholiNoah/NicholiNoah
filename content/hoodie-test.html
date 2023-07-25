@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+    .sketchfab-embed-wrapper {
+      position: relative;
+      width: 50%;
+      margin: 0 auto;
+      padding-top: 66.66%; /* Adjusted aspect ratio for 3:4 */
+      overflow: hidden;
+    }
+    .sketchfab-embed-wrapper::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: -25%; /* Crop the upper 25% */
+      left: -25%; /* Crop each side 25% */
+      width: 150%; /* Increase the width to compensate for cropping */
+      height: 150%; /* Increase the height to compensate for cropping */
+      background-color: white; /* Set the background color to match the page background */
+    }
+    .sketchfab-embed-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <title>Sketchfab Embed</title>
+</head>
+<body>
+  <div class="sketchfab-embed-wrapper">
+    <iframe
+      title="Cherokee Hoodie - Artist Unknown/TBD"
+      frameborder="0"
+      allowfullscreen
+      mozallowfullscreen="true"
+      webkitallowfullscreen="true"
+      allow="autoplay; fullscreen; xr-spatial-tracking"
+      xr-spatial-tracking
+      execution-while-out-of-viewport
+      execution-while-not-rendered
+      web-share
+      src="https://sketchfab.com/models/3647e77658a34e8fb95ff767953aa440/embed?autostart=1&dnt=1"
+    ></iframe>
+  </div>
+</body>
+</html>
