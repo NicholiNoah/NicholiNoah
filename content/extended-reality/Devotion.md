@@ -3,18 +3,18 @@ title: Devotion ($3/day)
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
 description: Devotion ($3/day)
-alt: Sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.
+alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.
 rank: 3
 ---
 
 <div>
-<a href= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.">
-<img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
+<a href= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.">
+<img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item." />
 </div>
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">augmented reality without the device</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">a commentary on the statement "How is this art? I could have done that."</p>
   </div>
 </div>
 
