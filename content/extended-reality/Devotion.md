@@ -33,7 +33,7 @@ rank: 3
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what does your imagination see?</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Originally conceived in honor of Oculus Go and</br>John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas, I finally saw the baby is me.</p>
@@ -50,7 +50,7 @@ rank: 3
     <a href= "https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400">
      <img src="https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">unlocked from the inside</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the receipt</p>
   </div>
 </div>
 
