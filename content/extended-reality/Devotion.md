@@ -2,7 +2,7 @@
 title: Devotion ($3/day)
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
-description: Devotion ($3/day)
+description: <br>Devotion ($3/day)
 alt: Sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.
 rank: 3
 ---
