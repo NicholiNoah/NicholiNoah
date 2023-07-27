@@ -7,7 +7,9 @@ alt: Sculpture made of cans of chickpeas, tomatoes with green chiles, and green 
 rank: 3
 ---
 
-<div><img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
+<div>
+<a href= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.">
+<img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
 </div>
 
 <div class="row">
