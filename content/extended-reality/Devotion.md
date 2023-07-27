@@ -2,12 +2,12 @@
 title: Devotion ($3/day)
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
-description: <br>Devotion ($3/day)
+description: Devotion ($3/day)
 alt: Sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.
 rank: 3
 ---
 
-<div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
+<div><img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
 </div>
 
 <div class="row">
