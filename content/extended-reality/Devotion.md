@@ -3,7 +3,7 @@ title: Devotion ($3/day)
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
 description: Augmented Reality without the device<br>(Mixed-Media Sculpture and VR history lesson)
-alt: fine art sculpture of an invisible (virtual) baby wearing a VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
+alt: food and stuff.
 rank: 3
 ---
 
