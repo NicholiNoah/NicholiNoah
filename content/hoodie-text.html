@@ -9,19 +9,23 @@
         model-viewer {
             width: 100%;
             height: 100vh;
-            position: relative; /* Add relative positioning to the model-viewer */
+            position: relative;
         }
 
         /* Add absolute positioning to the text */
         #stylized-text {
             position: absolute;
-            top: 20px; /* Adjust this value to control the vertical position */
+            top: 20px;
             left: 50%;
             transform: translateX(-50%);
             font-size: 24px;
-            color: white;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+            color: black; /* Set text color to black */
             /* Add any additional stylings you want for the text */
+
+            /* Adjust text size for mobile devices */
+            @media (max-width: 600px) {
+                font-size: 18px;
+            }
         }
 
         /* Remove the gray scroll bar */
@@ -40,6 +44,8 @@
     ></model-viewer>
 
     <!-- Add the stylized text above the model-viewer -->
-    <div id="stylized-text">Stylized Text Above the Hoodie</div>
+    <div id="stylized-text">
+        Stylized Text Above the Hoodie
+    </div>
 </body>
 </html>
