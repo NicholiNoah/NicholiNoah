@@ -2,7 +2,7 @@
 title: Devotion ($3/day)
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
-description: Devotion ($3/day)
+description: Devotion ($3/day)<br>How does one quantify a dedication to artistic expression?
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.
 rank: 3
 ---
@@ -22,7 +22,8 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">Combining inspiration from <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art." target="_blank" rel="noopener noreferrer">Marcel Duchamp's <em>Readymades</em></a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)" target="_blank" rel="noopener noreferrer"><em>Fountain</em></a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm" target="_blank" rel="noopener noreferrer"><em>Prelude to a Broken Arm</em></a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami" target="_blank" rel="noopener noreferrer">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html" target="_blank" rel="noopener noreferrer">(Shinto animism)</a>, <em>To Be Free</em> employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>
+    <p style="font-family: arial">Inspired by Enlightened Savage and Andy Worhol's (in)famous Campbell's Soup Can, Devotion ($3/day) proposes an answer to the common critique, "How is this art? I could have done that.". Unassuming by design, Devotion relates the artistic process to something every human can relate to: the need for food. After committing myself to pursuing artistic expression, I found how valuable my time is.
+	A direct commentary on perspective, artistic process, and the discipline to create a seemingly simple projection of everything it takes to be an artist. <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art." target="_blank" rel="noopener noreferrer">Marcel Duchamp's <em>Readymades</em></a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)" target="_blank" rel="noopener noreferrer"><em>Fountain</em></a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm" target="_blank" rel="noopener noreferrer"><em>Prelude to a Broken Arm</em></a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami" target="_blank" rel="noopener noreferrer">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html" target="_blank" rel="noopener noreferrer">(Shinto animism)</a>, <em>To Be Free</em> employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>
     </br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
   </div>
 </div>
@@ -60,7 +61,7 @@ rank: 3
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">custom installed "breathing" LED</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">awaken your appetite with aromatic chiles</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures.
