@@ -3,14 +3,46 @@
 <head>
   <title>&lt;model-viewer&gt;</title>
   <meta charset="utf-8">
+  <meta name="description" content="Easily display interactive 3D models on the web and in AR">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
+
+  <!-- ... (rest of the head content) ... -->
+
 </head>
 <body>
 
-<model-viewer alt="Easily display interactive 3D models on the web & in AR" src="/hoodie9.glb"></model-viewer>
+  <div class="sample">
+    <div id="demo-container" class="demo"></div>
+    <div class="content">
+      <div class="wrapper">
+        <div class="heading">
+          <div class="lockup zero-interaction"><div class="icon-button icon-modelviewer-black"></div><h1><span class="attribute">&lt;model-viewer&gt;</span></h1></div>
+          <h3 class="slogan" style="font-weight:400;">Easily display interactive 3D models on the web & in AR</h3>
+        </div>
 
-<h3 style="font-weight:400;">Easily display interactive 3D models on the web & in AR</h3>
+        <!-- The code below has been removed -->
+        <!-- <div id="section-quick-start">
+            <h3 class="grouping-title grouping-title-new quick-start">Quick Start</h3>
+            <div class="quick-start-example">
+              <example-snippet inert-script stamp-to="demo-container" highlight-as="html">
+                <template>
+<!-- Import the component -->
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
+
+<!-- Use it like any other HTML element -->
+<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="/hoodie9.glb" ar environment-image="shared-assets/environments/moon_1k.hdr" poster="shared-assets/models/NeilArmstrong.webp" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+                </template>
+              </example-snippet>
+            </div>
+          </div> -->
+          <!-- End of removed code -->
+
+          <!-- ... (rest of the content) ... -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ... (rest of the body and scripts) ... -->
 
 </body>
 </html>
