@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <section class="blog topmost-section">
   <div class="container">
     <div class="row blog-posts">
@@ -10,10 +9,11 @@
           <a class="overlay" href="{{ .Permalink }}" aria-label="{{ .Params.title }}">
             <h2>{{ .Params.title | safeHTML }}</h2>
           </a>
+          <!-- Add the following line to display the year -->
+          <p class="post-date">{{ .Date.Format "2006" }}</p>
         </div>
       {{ end }}
     </div>
   </div>
 </section>
-
 {{ end }}
