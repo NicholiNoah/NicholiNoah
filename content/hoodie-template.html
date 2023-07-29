@@ -80,21 +80,21 @@
           </div>
           <example-snippet stamp-to="webXR" highlight-as="html">
             <template>
-<model-viewer src="../../assets/ShopifyModels/Chair.glb" poster="../../assets/ShopifyModels/Chair.webp" shadow-intensity="1" ar camera-controls touch-action="pan-y" alt="A 3D model carousel">
+<model-viewer src="/hoodie9.glb" shadow-intensity="1" ar camera-controls touch-action="pan-y" alt="A 3D model carousel">
 
   <button slot="ar-button" id="ar-button">
     View in your space
   </button>
 
-  <div id="ar-prompt">
+  {{/*  <div id="ar-prompt">
     <img src="../../assets/hand.png">
-  </div>
+  </div>  */}}
 
   <button id="ar-failure">
     AR is not tracking!
   </button>
 
-  <div class="slider">
+  {{/*  <div class="slider">
     <div class="slides">
       <button class="slide selected" onclick="switchSrc(this, 'Chair')"
         style="background-image: url('../../assets/ShopifyModels/Chair.webp');">
@@ -111,7 +111,7 @@
       <button class="slide" onclick="switchSrc(this, 'Canoe')"
         style="background-image: url('../../assets/ShopifyModels/Canoe.webp');">
     </div>
-  </div>
+  </div>  */}}
 </model-viewer>
 
 <script type="module">
@@ -264,7 +264,7 @@
       </div>
     </div>
 
-    <div class="sample">
+    {{/*  <div class="sample">
       <div id="ar" class="demo"></div>
       <div class="content">
         <div class="wrapper">
@@ -457,7 +457,7 @@
   <!-- Loads <model-viewer> on modern browsers: -->
   <script type="module"
       src="../../node_modules/@google/model-viewer/dist/model-viewer.js">
-  </script>
+  </script>  */}}
 
 </body>
 </html>
