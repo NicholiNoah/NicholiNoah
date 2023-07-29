@@ -1,5 +1,5 @@
 ---
-title: <h1><em>Devotion ($3/day),</em></h1><h3>2023</h3>
+title: Devotion ($3/day), ## 2023
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
 description: Devotion ($3/day)<br>How does one quantify a dedication to artistic expression?
