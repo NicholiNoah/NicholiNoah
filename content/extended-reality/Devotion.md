@@ -50,7 +50,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months I saw in my imagination a hazy projection of the final piece with a big white number 3: an overly-aggressive guiding frequency that kept getting louder and brighter like it was annoyed I was taking so long to figure this out. Two weeks of taste and try again, I rummaged the canned food isle matching combos of assorted beans and vegetables. Standing in the middle of the grocery store with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. Bonus: it tastes better than the more expensive stuff.</p>
+    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece with a big white number 3: an overly-aggressive guiding frequency that kept getting louder and brighter like it was annoyed I was taking so long to figure this out. Two weeks of taste and try again, I rummaged the canned food isle matching combos of assorted beans and vegetables. Standing in the middle of the grocery store with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. Bonus: it tastes better than the more expensive stuff.</p>
   </div>
 </div>
 
