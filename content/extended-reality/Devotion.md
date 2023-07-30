@@ -24,9 +24,8 @@ rank: 3
   <div class="col-md-10">
     <p style="font-family: arial">Inspired by Enlightened Savage, Devotion ($3/day) is a multisensory experience promotes conversation on 'value of food over price of branding' as a counterweight to Andy Warhol's (in)famous Campbell's Soup series.
 
-	while proposing an answer to the common critiques, "How is this art?" and "I could have done that."
-
 	Unassuming by design, Devotion captures the unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food.
+	Baiting the viewer to critique, "How is this art? I could have done that." Devotion snaps back with, "Sure... but could you really?"
 	More specifically, the dedication it takes to mine raw inspiration from deep within oneself. Pushing the intangible into our shared space to instill a message for others to interpret in their own way. Using hunger as the vehicle, just like creativity does.
 
 	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself, maximize my time, while scraping together enough energy to dedicate everything I am to expressing a vision that refuses to quiet. Seering images pounding on the core of my being, screaming to get out. Ripping away everything I am to reveal the beauty beneath.
@@ -51,7 +50,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece with a blaring white number '3': an overly-aggressive guiding frequency getting louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. The recipe was complete.</p>
+    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece stamped with a blaring white number '3': an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
   </div>
 </div>
 
@@ -59,7 +58,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I visualize this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part. Curious ones like me deserve to know the very same joy I felt when discovering the numbers really do add up. In real life. fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part. Curious ones like me deserve to know the very same joy I felt when discovering the numbers really do add up. In real life.<br>An artist's role is to draw their audience a map so others can discover the destination all by themselves. A purest feeling. fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
     <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
