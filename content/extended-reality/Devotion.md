@@ -58,7 +58,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part. Curious ones like me deserve to know the very same joy I felt when discovering the numbers really do add up. In real life.<br>An artist's role is to draw their audience a map so others can discover the destination all by themselves. A purest feeling. fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part.<br>An artist's role is to draw their audience a map so others can discover the destination all by themselves. A purest feeling.<br><br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up. In real life.<br>fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
     <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
