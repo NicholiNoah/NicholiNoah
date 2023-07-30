@@ -22,13 +22,11 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">As a counterpoint to Andy Warhol's (in)famous Campbell's Soup series, Devotion ($3/day) is a multisensory experience promoting conversation on 'value of food over price of branding'. Equally inspired by Enlightened Savage.
-	Unassuming by design, Devotion captures the unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food.
-	Baiting the viewer to critique with "How is this art? I could have done that." Devotion snaps back saying, "Sure... but could you really?"
-	More specifically, showcasing the dedication it takes to mine raw inspiration from deep within oneself. Pushing the intangible into our shared space to instill a message for others to interpret in their own way. Using hunger as the vehicle, just like creativity does.
-	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself, maximize my time, while scraping together enough energy to dedicate everything I am to expressing a vision that refuses to quiet. Seering images pounding on the core of my being, screaming to get out. Ripping away everything I am to reveal the beauty beneath.
-	This is the artist's process. Over and over again until the portrait is complete.
-	Equally inspired by Enlightened Savage's darker glimpse of contribution as sustinance, labeled and mushed into a can then packed into a box for easy shipping.
+    <p style="font-family: arial">A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, Devotion ($3/day) is a multisensory experience promoting conversation on 'value of food over appeal of branding'.
+	Unassuming by design, Devotion captures unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food.
+	Baiting the viewer to critique with "How is this art? I could have done that." Devotion snaps back saying, "Sure... but can you?"
+	More specifically, showcasing the discipline and dedication it takes to mine raw inspiration from deep within oneself. Using hunger as the vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a can then packed in a box for easy marketing).
+	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself and maximize my time, while scraping together enough energy to dedicate everything I am to communicating this vision. Ripping off imposed labels, unlocking the beauty beneath. This is the artist's process. Over and over again until the portrait is complete.
 	A direct commentary on perspective, process, and the discipline it takes to quantify the projection of everything it is to be an artist.</p>
   </div>
 </div>
