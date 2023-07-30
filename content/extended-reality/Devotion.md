@@ -22,7 +22,19 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">Inspired by Enlightened Savage and Andy Warhol's (in)famous Campbell's Soup Can, Devotion ($3/day) proposes an answer to the common critique, "How is this art? I could have done that.". Unassuming by design, Devotion relates the artistic process to something every human can relate to: the need for food. After committing myself to pursuing artistic expression, I found how valuable my time is.
+    <p style="font-family: arial">Inspired by Enlightened Savage, Devotion ($3/day) promotes conversation on 'value of food over price of branding' as a counterweight to Andy Warhol's (in)famous Campbell's Soup series.
+
+	while proposing an answer to the common critiques, "How is this art?" and "I could have done that."
+
+	Unassuming by design, Devotion captures the unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food. More specifically, the dedication it takes to dig out raw inspiration from deep within oneself. Pushing the intangible into our shared space to leave a message for others to interpret themselves. Hunger is the vehicle.
+
+	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself, maximize my time, while scraping together enough energy to dedicate everything I am to expressing a vision that refuses to quiet. Seering images pounding on the core of my being, screaming to get out. Ripping away everything I am to reveal the beauty beneath.
+	This is the artist's process. Over and over again until the portrait is complete.
+
+	Inspired by Enlightened Savage
+
+	Specifically the appreciation I gained after
+	to After committing myself to pursuing artistic expression, I found how valuable my time is.
 	A direct commentary on perspective, artistic process, and the discipline to create a seemingly simple projection of everything it takes to be an artist. <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art." target="_blank" rel="noopener noreferrer">Marcel Duchamp's <em>Readymades</em></a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)" target="_blank" rel="noopener noreferrer"><em>Fountain</em></a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm" target="_blank" rel="noopener noreferrer"><em>Prelude to a Broken Arm</em></a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami" target="_blank" rel="noopener noreferrer">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html" target="_blank" rel="noopener noreferrer">(Shinto animism)</a>, <em>To Be Free</em> employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>
     </br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
   </div>
@@ -32,7 +44,8 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
+  <a href= "/images/Portfolio/Devotion/recipe_sm.jpg">
+     <img src="/images/Portfolio/Devotion/recipe_sm.jpg" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
