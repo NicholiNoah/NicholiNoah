@@ -22,21 +22,14 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">Inspired by Enlightened Savage, Devotion ($3/day) is a multisensory experience promotes conversation on 'value of food over price of branding' as a counterweight to Andy Warhol's (in)famous Campbell's Soup series.
-
+    <p style="font-family: arial">As a counterpoint to Andy Warhol's (in)famous Campbell's Soup series, Devotion ($3/day) is a multisensory experience promoting conversation on 'value of food over price of branding'. Equally inspired by Enlightened Savage.
 	Unassuming by design, Devotion captures the unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food.
-	Baiting the viewer to critique, "How is this art? I could have done that." Devotion snaps back with, "Sure... but could you really?"
-	More specifically, the dedication it takes to mine raw inspiration from deep within oneself. Pushing the intangible into our shared space to instill a message for others to interpret in their own way. Using hunger as the vehicle, just like creativity does.
-
+	Baiting the viewer to critique with "How is this art? I could have done that." Devotion snaps back saying, "Sure... but could you really?"
+	More specifically, showcasing the dedication it takes to mine raw inspiration from deep within oneself. Pushing the intangible into our shared space to instill a message for others to interpret in their own way. Using hunger as the vehicle, just like creativity does.
 	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself, maximize my time, while scraping together enough energy to dedicate everything I am to expressing a vision that refuses to quiet. Seering images pounding on the core of my being, screaming to get out. Ripping away everything I am to reveal the beauty beneath.
 	This is the artist's process. Over and over again until the portrait is complete.
-
-	Inspired by Enlightened Savage
-
-	Specifically the appreciation I gained after
-	to After committing myself to pursuing artistic expression, I found how valuable my time is.
-	A direct commentary on perspective, artistic process, and the discipline to create a seemingly simple projection of everything it takes to be an artist. <a href="https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp#:~:text=The%20readymades%20of%20Marcel%20Duchamp,the%20found%20object%20became%20art." target="_blank" rel="noopener noreferrer">Marcel Duchamp's <em>Readymades</em></a> (<a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)" target="_blank" rel="noopener noreferrer"><em>Fountain</em></a>, <a href="https://en.wikipedia.org/wiki/In_Advance_of_the_Broken_Arm" target="_blank" rel="noopener noreferrer"><em>Prelude to a Broken Arm</em></a>) and <a href="https://en.wikipedia.org/wiki/Tsukumogami" target="_blank" rel="noopener noreferrer">Japanese tsukumogami</a> <a href="https://www.japanese-wiki-corpus.org/Shinto/Animism.html" target="_blank" rel="noopener noreferrer">(Shinto animism)</a>, <em>To Be Free</em> employs found objects to symbolize humanity in technology. Each item acquired second hand, purchased at thrift stores or found on the side of the road. A connection of seemingly insignificant, unwanted objects thoughtfully assembled into an emotional story everyone can identify.</br>
-    </br>     Providing an immersive lesson in augmented reality history without the need for a device.</p>
+	Equally inspired by Enlightened Savage's darker glimpse of contribution as sustinance, labeled and mushed into a can then packed into a box for easy shipping.
+	A direct commentary on perspective, process, and the discipline it takes to quantify the projection of everything it is to be an artist.</p>
   </div>
 </div>
 
@@ -50,7 +43,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece stamped with a blaring white number '3': an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
+    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece stamped with a blaring white number '3': an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete. The energy... calm.</p>
   </div>
 </div>
 
@@ -58,7 +51,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part.<br>An artist's role is to draw their audience a map so others can discover the destination all by themselves. A purest feeling.<br><br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up. In real life.<br>fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part.<br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably discover our shared destination at their own pace. Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br>fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
     <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
