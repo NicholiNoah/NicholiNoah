@@ -50,7 +50,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Originally conceived in honor of Oculus Go and</br>John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas, I finally saw the baby is me.</p>
+    <p style="font-family:arial">For months I saw in my imagination a hazy projection of the final piece with a big white number 3: an overly-aggressive guiding frequency that kept getting louder and brighter like it was annoyed I was taking so long to figure this out. Two weeks of taste and try again, I rummaged the canned food isle matching combos of assorted beans and vegetables. Standing in the middle of the grocery store with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. Bonus: it tastes better than the more expensive stuff.</p>
   </div>
 </div>
 
@@ -58,8 +58,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months I saw a hazy projection of the final piece with a big white number 3, an overly-aggressive guiding frequency that kept getting louder and brighter like it was annoyed I was taking so long to figure this out. Two weeks of taste and try again, I rummaged the canned food isle matching combos of assorted beans and vegetables. Standing in the middle of the grocery store with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. Bonus: it tastes better than the more expensive stuff.
-	sign, visualize prices, fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
+    <p style="font-family:arial">visualize prices, fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
     <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
