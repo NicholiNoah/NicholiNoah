@@ -3,7 +3,7 @@ title: Visionary techno hippie type who talks like a punk rock surfer from Oklah
 metaDescription: Profile of virtual reality VR and extended reality XR film video production artist
 banner:
 bannerHeight: 0vh
---- 
+---
 
 <div class="row">
   <div class="col-md-12">
@@ -24,8 +24,19 @@ bannerHeight: 0vh
 
 
 
-&nbsp; Hi, I'm Nicholi Noah. <br>
-A Creative Technologist and curious storyteller with over 25 years of creative video knowledge, 5 years of project management & process development, 3 years leading junior creative teams, and a knack for finding patterns and solving problems. I believe in cultivating a culture of trust through awareness, empowerment, and open communication. My philosophy is that positive accountability and honest expectations lead to strong relationships and even stronger creative solutions.
+&nbsp; Hi, I'm Nicholi Noah.<br>
+A spatial media artist, Immersive Technologist, and curious opportunity-uncoverer with a passion for accessible learning. Surrounded by constant inspiration, I enjoy merging art with engineering. On a quest to push video further than anyone has ever known or imagined. But that's just the challenge I give myself to stay in shape and up-to-date with technology. What I really enjoy is collaborating with others. So much I consider Collaboration itself to be my favorite medium. Real collaboration. Human-to-human, artist-to-organization.
+
+Constantly refining my approach and communication has returned decades of amazing projects and partnerships.
+
+The Tech Industry refer to me as that "one-in-a-thousand bleeding-heart Accessibility champion". They laugh when they say that. Only because they can't see what I see.
+
+.
+I'm carrying over two decades of video career knowledge, including five (plus) years actively contributing to the Metaverse. When I mention that to people, they seem to take my experience for granted. I certainly don't.
+
+Like NFTs and
+
+Sometimes I produce art out of old tech from thrift stores and big trash day finds.
 
 We live in a beautifully emerging new era. Humans and machines working together, transcending greatness through accessible communication. From video camera to virtual reality, I'm expanding upon an award-winning creative career that stretches across advertising, education, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
 
