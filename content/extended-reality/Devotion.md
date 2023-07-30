@@ -23,10 +23,10 @@ rank: 3
   </div>
   <div class="col-md-10">
     <p style="font-family: arial">A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, Devotion ($3/day) is a multisensory experience promoting conversation on 'value of food over appeal of branding'.
-	Unassuming by design, Devotion captures unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food.
-	Baiting the viewer to critique with "How is this art? I could have done that." Devotion snaps back saying, "Sure... but can you?"
+	Unassuming by design, Devotion captures the unseen discipline of Artist's process into a portrait of humanity every person can relate to: our need for food.
+	Baiting the viewer to critique with "How is this art? I could have done that." Devotion snaps back saying, "Sure... but can you really?"
 	More specifically, showcasing the discipline and dedication it takes to mine raw inspiration from deep within oneself. Using hunger as the vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a can then packed in a box for easy marketing).
-	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself and maximize my time, while scraping together enough energy to dedicate everything I am to communicating this vision. Ripping off imposed labels, unlocking the beauty beneath. This is the artist's process. Over and over again until the portrait is complete.
+	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself and maximize my time, while scraping together enough energy to dedicate everything I am to capturing this vision. Ripping off imposed labels, unlocking the beauty beneath. This is the artist's process. Over and over again until the portrait is complete.
 	A direct commentary on perspective, process, and the discipline it takes to quantify the projection of everything it is to be an artist.</p>
   </div>
 </div>
@@ -49,7 +49,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part.<br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably discover our shared destination at their own pace. Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br>fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I want my audience to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably discover our shared destination at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br><br>fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
     <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
