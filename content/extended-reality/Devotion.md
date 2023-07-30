@@ -2,14 +2,14 @@
 title: Devotion ($3/day) - 2023
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/DevotionHero.jpg
-description: Devotion ($3/day)<br>How does one quantify a dedication to artistic expression?
-alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.
+description: Devotion ($3/day)<br>A multi-sensory experience of social commentary
+alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.
 rank: 3
 ---
 
 <div>
-<a href= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item.">
-<img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item." />
+<a href= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.">
+<img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe." />
 </div>
 
 <div class="row">
@@ -22,11 +22,12 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">Inspired by Enlightened Savage, Devotion ($3/day) promotes conversation on 'value of food over price of branding' as a counterweight to Andy Warhol's (in)famous Campbell's Soup series.
+    <p style="font-family: arial">Inspired by Enlightened Savage, Devotion ($3/day) is a multisensory experience promotes conversation on 'value of food over price of branding' as a counterweight to Andy Warhol's (in)famous Campbell's Soup series.
 
 	while proposing an answer to the common critiques, "How is this art?" and "I could have done that."
 
-	Unassuming by design, Devotion captures the unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food. More specifically, the dedication it takes to dig out raw inspiration from deep within oneself. Pushing the intangible into our shared space to leave a message for others to interpret themselves. Hunger is the vehicle.
+	Unassuming by design, Devotion captures the unseen discipline of the artist's process into a portrait of humanity every person can relate to: our need for food.
+	More specifically, the dedication it takes to mine raw inspiration from deep within oneself. Pushing the intangible into our shared space to instill a message for others to interpret in their own way. Using hunger as the vehicle, just like creativity does.
 
 	Devotion ($3/day) was created out of necessity to survive. A diet designed to minimize myself, maximize my time, while scraping together enough energy to dedicate everything I am to expressing a vision that refuses to quiet. Seering images pounding on the core of my being, screaming to get out. Ripping away everything I am to reveal the beauty beneath.
 	This is the artist's process. Over and over again until the portrait is complete.
@@ -50,7 +51,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece with a big white number 3: an overly-aggressive guiding frequency that kept getting louder and brighter like it was annoyed I was taking so long to figure this out. Two weeks of taste and try again, I rummaged the canned food isle matching combos of assorted beans and vegetables. Standing in the middle of the grocery store with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. Bonus: it tastes better than the more expensive stuff.</p>
+    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece with a blaring white number '3': an overly-aggressive guiding frequency getting louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. The recipe was complete.</p>
   </div>
 </div>
 
@@ -58,7 +59,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">visualize prices, fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
+    <p style="font-family:arial">But how do I visualize this magical moment for others to discover too? I want my audience to feel the whole experience. Not just the food part. Curious ones like me deserve to know the very same joy I felt when discovering the numbers really do add up. In real life. fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
     <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
@@ -74,7 +75,7 @@ rank: 3
   <div class="col-md-3">
      <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">awaken your appetite with aromatic chiles</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">nutrition label</p>
   </div>
   <div class="col-md-5">
     <p style="font-family:arial">Selling over 2 million units to schools and universities worldwide, Oculus Go offered a brilliant glimpse into our new era of extended learning. This newfound industry was exciting. An open book filled with endless futures.
@@ -95,7 +96,7 @@ At more than one high school, I watched their entire VR program get tossed into 
   </div>
   <div class="col-md-3">
      <img src="https://lh3.googleusercontent.com/qg-nrEpZz4ib_RNifpDvWxfonxDjXK6yPcmxNMBvLvnkXjItNKFsxNqEw70nCeMUSKFDZormy8OrozVfOKRhF5bIqXFC9lmlrbxGYMOl6t6pmPh77hGKAsTOB8lZaJzG8kk7E1NI=w2400"></img>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">concrete slab represents abandonment</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">awaken your appetite with aromatic chiles</p>
   </div>
 </div>
 
