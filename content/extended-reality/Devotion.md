@@ -58,11 +58,12 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, <em>To Be Free</em> is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
+    <p style="font-family:arial">For months I saw a hazy projection of the final piece with a big white number 3, an overly-aggressive guiding frequency that kept getting louder and brighter like it was annoyed I was taking so long to figure this out. Two weeks of taste and try again, I rummaged the canned food isle matching combos of assorted beans and vegetables. Standing in the middle of the grocery store with calculator in-hand, I felt the magical moment when everything added up to exactly $3.00. Bonus: it tastes better than the more expensive stuff.
+	sign, visualize prices, fill empty spot in composition, date stamp + signature = receipt (self checkout)</p>
   </div>
   <div class="col-md-3">
-    <a href= "https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400">
-     <img src="https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
+    <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
+     <img src="/images/Portfolio/Devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece."></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the receipt</p>
   </div>
