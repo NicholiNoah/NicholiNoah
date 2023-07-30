@@ -25,7 +25,7 @@ bannerHeight: 0vh
 
 
 &nbsp; Hi, I'm Nicholi Noah.<br>
-A spatial media artist, Immersive Technologist, and curious opportunity-uncoverer with a passion for accessible learning. Surrounded by constant inspiration, I enjoy merging art with engineering. On a quest to push video further than anyone has ever known or imagined. But that's just the challenge I give myself to stay in shape and up-to-date with technology. What I really enjoy is collaborating with others. So much I consider Collaboration itself to be my favorite medium. Real collaboration. Human-to-human, artist-to-organization.
+A spatial media artist, Immersive Technologist, and curious opportunity-uncoverer with a passion for accessible learning. Surrounded by constant inspiration, I enjoy merging art with engineering. A driving quest to push video further than anyone has ever known or imagined. But that's just the challenge I give myself to stay in shape and up-to-date with technology. What I really enjoy is collaborating with others. So much I consider Collaboration itself to be my favorite medium. Real collaboration. Human-to-human, artist-to-organization.
 
 Constantly refining my approach and communication has returned decades of amazing projects and partnerships.
 
