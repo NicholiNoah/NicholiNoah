@@ -29,9 +29,9 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;EXHIBITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
-    &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;&emsp;&nbsp;(OK Contemporary Staff Showcase - Oklahoma City, OK)</br>
-    &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;(1984 Studios - Capitol Hill, OK)</br>
-    &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;&emsp;&nbsp;&nbsp;(1984 Studios - Capitol Hill, OK)</br>
+    &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;&emsp;&nbsp;// OK Contemporary Staff Showcase - Oklahoma City, OK</br>
+    &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
+    &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;&emsp;&nbsp;&nbsp// 1984 Studios - Capitol Hill, OK</br>
 	&emsp;2020 : &nbsp; <i>Hey, Nicholi! ft. Creative Captions</i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(deadCenter Film Festival - Oklahoma City, OK)</br>
 	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;&emsp;&emsp;&emsp;&emsp;(Megajam #1 - NEOS VR, Metaverse)</br>
 	&emsp;2019 : &nbsp; <i>Found In Translation</i>&emsp;(Creator Jam - NEOS VR, Metaverse)</br>
