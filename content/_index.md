@@ -12,7 +12,12 @@ bannerHeight: 0vh
 </div>
 
 
-<!-- <div class="row">
+
+
+From video camera to virtual reality, Nicholi Noah is embedding visions of an abstract future into fine art and education. Providing real world access to the Metaverse through immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool to spark new conversations while empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
+
+**Artist Statement**
+<div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b>Artist Statement:</b></br>
     &emsp;I remember the first time I broke my imagination. It grew back with a vengeance.</br>
@@ -20,26 +25,8 @@ bannerHeight: 0vh
     &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br></br>
     &emsp;Welcome to my world of extended reality. Please enjoy your stay.</p>
   </div>
-</div> -->
+</div>
 
-
-
-&nbsp; Hi, I'm Nicholi Noah.<br><br>An Accessibility artist specializing in spatial media and immersive experience development. Surrounded by inspiration, I enjoy merging art with engineering on a quest to push the video realm further than anyone has ever known or even imagined. But that's just the challenge I give myself to stay in shape and up-to-date with technology. My true passion is curiosity-instilled learning. So much I consider Collaboration itself to be my favorite medium. Human and machine, growing together in harmony with nature.
-
-We live in a beautifully emerging new era. Transcending greatness through accessible communication. From video camera to extended reality, I'm expanding on an award-winning creative career stretching across education, advertising, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
-
-Constantly refining my approach and communication has returned decades of amazing projects and partnerships.
-
-The Tech Industry refer to me as that "one-in-a-thousand bleeding-heart Accessibility champion". They laugh when they say that. Only because they can't see what I see.
-
-.
-I'm carrying over two decades of video career knowledge, including five (plus) years actively contributing to the Metaverse. When I mention that to people, they seem to take my experience for granted. I certainly don't.
-
-Like NFTs and
-
-Sometimes I produce art out of old tech from thrift stores and big trash day finds.
-
-We live in a beautifully emerging new era. Humans and machines working together, transcending greatness through accessible communication. From video camera to virtual reality, I'm expanding upon an award-winning creative career that stretches across advertising, education, documentary, and design with a focus on accessibility and cultural awareness. Seeking to collaborate on a team of dedicated future-thinkers determined to forge new tools out of wild ideas and teach our community we can all win this together.
 
 **Professional Bio** - 4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating XR so much I've spent over 1,000 hours building immersive extended reality experiences while inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides.
 
