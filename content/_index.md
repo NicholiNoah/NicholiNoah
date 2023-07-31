@@ -18,10 +18,10 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family:arial"><b><u>&nbsp;Artist Statement &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br><br>
+    <p style="font-family:arial"><b><u>&nbsp;ARTIST STATEMENT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br><br>
     &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
     &emsp;Revealing hidden perspectives that question our reality.</br>
-    &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
+    &emsp;Projecting virtual visions of augmented tomorrow without the need for a device.</br>
     &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i></p>
   </div>
 </div>
@@ -32,7 +32,7 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
     &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;&emsp;&nbsp;(OK Contemporary Staff Showcase - Oklahoma City, OK)</br>
     &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;(1984 Studios - Capitol Hill, OK)</br>
     &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;&emsp;&nbsp;&nbsp;(1984 Studios - Capitol Hill, OK)</br>
-	&emsp;2020 : &nbsp; <i>Hey, Nicholi!</i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(deadCenter Film Festival - Oklahoma City, OK)</br>
+	&emsp;2020 : &nbsp; <i>Hey, Nicholi! ft. Creative Captions</i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(deadCenter Film Festival - Oklahoma City, OK)</br>
 	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;&emsp;&emsp;&emsp;&emsp;(Megajam #1 - NEOS VR, Metaverse)</br>
 	&emsp;2019 : &nbsp; <i>Found In Translation</i>&emsp;(Creator Jam - NEOS VR, Metaverse)</br>
 	&emsp;2019 : &nbsp; <i>Medicine Fire, Medicine Man</i>&emsp;(Sevenstar Spatial Network - NEOS VR, Metaverse)</br>
@@ -62,7 +62,26 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 	</div>
 </div>
 
-**Professional Bio** - 4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating XR so much I've spent over 1,000 hours building immersive extended reality experiences while inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides.
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family:arial"><b><u>&nbsp;EDUCATION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
+	&emsp;1997 : &nbsp; Classen School of Advanced Studies // Videography, AP Studies; Oklahoma City, OK</br>
+	&emsp;2002 : &nbsp; University of Central Oklahoma // Bachelor of Arts; Professional Media; Edmond, OK</br>
+	&emsp;2008 : &nbsp; NPPA News Video Workshop; Norman, OK</br>
+	&emsp;2010 : &nbsp; NPPA Advanced Storytelling Workshop; Austin, TX</br>
+	&emsp;2014 : &nbsp; Illumination Experience Cinematography Masterclass; Detroit, MI</br>
+	</div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family:arial"><b><u>&nbsp;VOLUNTEER &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
+	&emsp;2017-19 : &nbsp; deadCenter Film Festival; Oklahoma City, OK</br>
+	&emsp;2016-19 : &nbsp; Factory Obscura // Current Studio; Oklahoma City, OK</br>
+	&emsp;2012-14 : &nbsp; Dalley in the Alley; Detroit, MI</br>
+	&emsp;2011-14 : &nbsp; Ponyride; Detroit, MI</br>
+	</div>
+</div>
 
 
 ### [Click here to DOWNLOAD MY RESUME](/NicholiNoah_resume23.pdf)
