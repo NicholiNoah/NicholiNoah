@@ -30,9 +30,18 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;EXHIBITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
     &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(OK Contemporary Staff Showcase - Oklahoma City, OK)</br>
-    &emsp;Revealing hidden perspectives that question our reality.</br>
-    &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
-    &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i></p>
+    &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;(1984 Studios - Capitol Hill, OK)
+    &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)
+	&emsp;2020 : &nbsp; <i>Hey, Nicholi!</i>&emsp;(deadCenter Film Festival - Oklahoma City, OK)
+	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;(Megajam #1 - NEOS VR, Metaverse)
+	&emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)
+	&emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)
+	&emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)
+	&emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)
+	&emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)
+
+
+	</p>
   </div>
 </div>
 
