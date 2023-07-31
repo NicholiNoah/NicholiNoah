@@ -29,19 +29,19 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;EXHIBITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
-    &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;&emsp;&nbsp;// OK Contemporary Staff Showcase - Oklahoma City, OK</br>
+    &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;// OK Contemporary Staff Showcase - Oklahoma City, OK</br>
     &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
-    &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;&emsp;&nbsp;&nbsp// 1984 Studios - Capitol Hill, OK</br>
-	&emsp;2020 : &nbsp; <i>Hey, Nicholi! ft. Creative Captions</i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(deadCenter Film Festival - Oklahoma City, OK)</br>
-	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;&emsp;&emsp;&emsp;&emsp;(Megajam #1 - NEOS VR, Metaverse)</br>
-	&emsp;2019 : &nbsp; <i>Found In Translation</i>&emsp;(Creator Jam - NEOS VR, Metaverse)</br>
-	&emsp;2019 : &nbsp; <i>Medicine Fire, Medicine Man</i>&emsp;(Sevenstar Spatial Network - NEOS VR, Metaverse)</br>
-	&emsp;2019 : &nbsp; <i>How To Make a Lightsaber</i>&emsp;(Virtually Tilted - Digital Marketing Technology Research Journal)</br>
-	&emsp;2018 : &nbsp; <i>Small Town to the World</i>&emsp;(American Indian Resource Center - Tahlequah, OK)</br>
-	&emsp;2015 : &nbsp; <i>Futures Worth Fighting For</i>&emsp;(Valley Children's Healthcare - Madera, CA)</br>
-	&emsp;2014 : &nbsp; <i>Uncompensated: Abbey's Story</i>&emsp;(Valley Children's Healthcare - Madera, CA)</br>
-	&emsp;2015 : &nbsp; <i>Futures Worth Fighting For</i>&emsp;(Cincinnati Children's Hospital - Cincinnati, OH)</br>
-	&emsp;2013 : &nbsp; <i>Secret Walls: SXSW</i>&emsp;(South by Southwest - Austin, TX)</br></p>
+    &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
+	&emsp;2020 : &nbsp; <i>Hey, Nicholi! ft. Creative Captions</i>&emsp;// deadCenter Film Festival - Oklahoma City, OK</br>
+	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;// Megajam #1 - NEOS VR, Metaverse</br>
+	&emsp;2019 : &nbsp; <i>Found In Translation</i>&emsp;// Creator Jam - NEOS VR, Metaverse</br>
+	&emsp;2019 : &nbsp; <i>Medicine Fire, Medicine Man</i>&emsp;// Sevenstar Spatial Network - NEOS VR, Metaverse</br>
+	&emsp;2019 : &nbsp; <i>How To Make a Lightsaber</i>&emsp;// Virtually Tilted - Digital Marketing Technology Research Journal</br>
+	&emsp;2018 : &nbsp; <i>Small Town to the World</i>&emsp;// American Indian Resource Center - Tahlequah, OK</br>
+	&emsp;2015 : &nbsp; <i>Futures Worth Fighting For</i>&emsp;// Valley Children's Healthcare - Madera, CA</br>
+	&emsp;2014 : &nbsp; <i>Uncompensated: Abbey's Story</i>&emsp;// Valley Children's Healthcare - Madera, CA</br>
+	&emsp;2015 : &nbsp; <i>Futures Worth Fighting For</i>&emsp;// Cincinnati Children's Hospital - Cincinnati, OH</br>
+	&emsp;2013 : &nbsp; <i>Secret Walls: SXSW</i>&emsp;// South by Southwest - Austin, TX</br></p>
   </div>
 </div>
 
