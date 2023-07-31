@@ -41,13 +41,16 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 	&emsp;2015 : &nbsp; <i>Futures Worth Fighting For</i>&emsp;(Valley Children's Healthcare - Madera, CA)</br>
 	&emsp;2014 : &nbsp; <i>Uncompensated: Abbey's Story</i>&emsp;(Valley Children's Healthcare - Madera, CA)</br>
 	&emsp;2015 : &nbsp; <i>Futures Worth Fighting For</i>&emsp;(Cincinnati Children's Hospital - Cincinnati, OH)</br>
-	&emsp;2013 : &nbsp; <i>Secret Walls: SXSW</i>&emsp;(South by Southwest - Austin, TX)</br>
-
-
-	</p>
+	&emsp;2013 : &nbsp; <i>Secret Walls: SXSW</i>&emsp;(South by Southwest - Austin, TX)</br></p>
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family:arial"><b><u>&nbsp;AWARDS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
+	&emsp;2016 : &nbsp; Regional EMMY Award :&nbsp;<i>Futures Worth Fighting For</i>&emsp;&emsp;&nbsp;(Northern California)</br>
+	</div>
+</div>
 
 **Professional Bio** - 4 years creating extended reality Open Source XR learning tools with devs from Microsoft and Google. That's a fancy way of saying I enjoy creating XR so much I've spent over 1,000 hours building immersive extended reality experiences while inside the Metaverse. Paralleled with a self-guided curriculum of virtual reality courses from Australia, UK, India, and Czech Republic, I'm procuring a unique connection to the Metaverse and passion for the opportunities technology provides.
 
