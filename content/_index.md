@@ -19,7 +19,7 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 **Artist Statement**
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family:arial"><b><u>Artist Statement &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br>
+    <p style="font-family:arial"><b><u>Artist Statement &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br><br>
     &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
     &emsp;Revealing hidden perspectives that question our reality.</br>
     &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
