@@ -56,8 +56,8 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;STUDIED UNDER &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
-	&emsp;2018-23 : &nbsp; Andrew Dayton : Developmental Psychologist; Director, Sevenstar Spatial Network (AIRC)</br>
-	&emsp;2013-16 : &nbsp; Chase "Fel3k" Golematis : Detroit graffiti icon, Contributor, Grand River Creative Corridor</br>
+	&emsp;2018-21 : &nbsp; Andrew Dayton - Developmental Psychologist; Director, Dayton Spatial Computing</br>
+	&emsp;2013-16 : &nbsp; Chase "Fel3000ft" Golematis - Detroit graffiti icon; Contributor, Grand River Creative Corridor</br>
 	&emsp;1995-96 : &nbsp; Richard Ray Whitman - Yuchi-Muscogee photographer & indigenous independent filmmaker</br>
 	</div>
 </div>
