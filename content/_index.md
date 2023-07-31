@@ -84,5 +84,5 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 </div>
 
 
-### [Click here to DOWNLOAD MY RESUME](/NicholiNoah_resume23.pdf)
+<!-- ### [Click here to DOWNLOAD MY RESUME](/NicholiNoah_resume23.pdf) -->
 
