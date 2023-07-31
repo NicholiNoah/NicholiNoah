@@ -22,28 +22,24 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
     align-items: flex-start;
   }
 
-  .underline-container {
-    position: relative;
+  .underline-text {
+    text-decoration: underline;
+    display: inline;
   }
 
-  .underline-container::after {
-    content: "";
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    border-bottom: 1px solid black;
+  .no-underline {
+    text-decoration: none;
   }
 </style>
 
 <div class="row">
   <div class="col-md-12">
     <p style="font-family: arial">
-      <span class="underline-container"><b>Artist Statement:</b></span><br>
+      <b class="underline-text">Artist Statement:</b><span class="no-underline"><br><br>
       &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
       &emsp;Revealing hidden perspectives that question our reality.</br>
       &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
-      &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i>
+      &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i></span>
     </p>
   </div>
 </div>
