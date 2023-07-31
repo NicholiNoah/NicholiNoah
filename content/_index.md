@@ -23,7 +23,6 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
   }
 
   .underline-container {
-    flex-grow: 1;
     position: relative;
   }
 
@@ -38,9 +37,9 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 </style>
 
 <div class="row">
-  <div class="col-md-12 underline-container">
+  <div class="col-md-12">
     <p style="font-family: arial">
-      <b>Artist Statement:</b><br><br>
+      <span class="underline-container"><b>Artist Statement:</b></span><br>
       &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
       &emsp;Revealing hidden perspectives that question our reality.</br>
       &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
