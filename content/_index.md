@@ -16,55 +16,33 @@ bannerHeight: 0vh
 
 From video camera to virtual reality, Nicholi Noah is embedding visions of an abstract future into fine art and education. Providing real world access to the Metaverse through immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool to spark new conversations while empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Art Exhibition</title>
-  <style>
-    .row {
-      display: flex;
-      align-items: flex-start;
-    }
+<style>
+  .row {
+    display: flex;
+    align-items: flex-start;
+  }
 
-    .underline-text {
-      text-decoration: underline;
-      display: inline;
-    }
+  .underline-text {
+    text-decoration: underline;
+    display: inline;
+  }
 
-    .no-underline {
-      text-decoration: none;
-    }
+  .no-underline {
+    text-decoration: none;
+  }
+</style>
 
-    .artist-statement {
-      font-family: arial;
-    }
-  </style>
-</head>
-<body>
-  <div class="row">
-    <div class="col-md-12 underline-container">
-      <p style="font-family: arial">
-        <b>Artist Statement:</b><br><br>
-        &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
-        &emsp;Revealing hidden perspectives that question our reality.</br>
-        &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
-        &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i>
-      </p>
-    </div>
-  </div>
-
-  <div class="no-underline artist-statement">
-    <p>
-      I remember the first time I broke my imagination. It grew back with a vengeance.<br>
-      Revealing hidden perspectives that question our reality.<br>
-      Projecting virtual visions of augmented tomorrow. Without the need for a device.<br>
-      Welcome to my world of extended reality. Please enjoy your stay.
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial">
+      <b class="underline-text">Artist Statement:</b><span class="no-underline"><br><br>
+      &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
+      &emsp;Revealing hidden perspectives that question our reality.</br>
+      &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
+      &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i></span>
     </p>
   </div>
-</body>
-</html>
-
-
+</div>
 
 
 
