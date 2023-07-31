@@ -20,10 +20,10 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b>Artist Statement:</b></br>
-    &emsp;I remember the first time I broke my imagination. It grew back with a vengeance.</br>
+    &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
     &emsp;Revealing hidden perspectives that question our reality.</br>
     &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br></br>
-    &emsp;Welcome to my world of extended reality. Please enjoy your stay.</p>
+    &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i></p>
   </div>
 </div>
 
