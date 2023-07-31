@@ -30,7 +30,7 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;EXHIBITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
     &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(OK Contemporary Staff Showcase - Oklahoma City, OK)</br>
-    &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;(1984 Studios - Capitol Hill, OK)</br>
+    &emsp;2021 : &nbsp; <i>Fever Dreams VR Gallery</i>&emsp;&emsp;(1984 Studios - Capitol Hill, OK)</br>
     &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;(1984 Studios - Capitol Hill, OK)</br>
 	&emsp;2020 : &nbsp; <i>Hey, Nicholi!</i>&emsp;(deadCenter Film Festival - Oklahoma City, OK)</br>
 	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;(Megajam #1 - NEOS VR, Metaverse)</br>
