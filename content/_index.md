@@ -28,8 +28,8 @@ From video camera to virtual reality, Nicholi Noah is embedding visions of an ab
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family:arial"><u>&nbsp;Exhibiitons &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></br><br>
-    &emsp;2022 : &nbsp; <i><b>2D Shadow of 4D Self</b></i>&nbsp; : &nbsp; OK Contemporary Staff Showcase - Oklahoma City, OK</br>
+    <p style="font-family:arial"><u>&nbsp;Exhibitons &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></br><br>
+    &emsp;2022 : &nbsp; <i><b>2D Shadow of 4D Self </b></i>: &nbsp; OK Contemporary Staff Showcase - Oklahoma City, OK</br>
     &emsp;Revealing hidden perspectives that question our reality.</br>
     &emsp;Projecting virtual visions of augmented tomorrow. Without the need for a device.</br>
     &emsp;Welcome to my world of extended reality. Please enjoy your stay.</i></p>
