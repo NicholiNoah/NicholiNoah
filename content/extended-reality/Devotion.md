@@ -10,11 +10,12 @@ rank: 3
 <div>
 <a href= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.">
 <img src= "/images/Portfolio/Devotion/DevotionHero.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe." />
+</a>
 </div>
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">a commentary on the statement "How is this art? I could have done that."</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained my living circumstances qualify me for food assistance because I count as Homeless.</br>That realization is still sinking in.</br>&emsp;My living circumstances haven't changed.</p>
   </div>
 </div>
 
@@ -22,7 +23,7 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <p style="font-family: arial">A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, Devotion ($3/day) is a multisensory experience promoting conversation on 'value of food over appeal of branding'.
+    <p style="font-family: arial"> The first piece in a series titled "EBT Food Stamps". a commentary on the statement "How is this art? I could have done that." A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, Devotion ($3/day) is a multisensory experience promoting conversation on 'value of food over appeal of branding'.
 	Unassuming by design, Devotion captures the unseen discipline of Artist's process into a portrait of humanity every person can relate to: our need for food.
 	Baiting the viewer to critique with "How is this art? I could have done that." Devotion snaps back saying, "Sure... but can you really?"
 	More specifically, showcasing the discipline and dedication it takes to mine raw inspiration from deep within oneself. Using hunger as the vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a can then packed in a box for easy marketing).
