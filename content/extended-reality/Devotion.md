@@ -15,7 +15,7 @@ rank: 3
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br><i>Devotion ($3/day)</i> is the first piece in my series, <i>EBT Food Stamps</i>.</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br><i>Devotion ($3/day)</i> is the first piece in my</br>found art Readymade series: <i>EBT Food Stamps</i>.</p>
   </div>
 </div>
 
