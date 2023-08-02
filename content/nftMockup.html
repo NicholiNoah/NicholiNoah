@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Video Player</title>
+    <title>Private Title</title>
     <style>
         body, html {
             height: 100%;
@@ -10,14 +10,16 @@
 
         .video-container {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100%;
         }
 
         .video-wrapper {
-            flex: 1;
             max-width: 540px;
+            flex: 1;
+            position: relative;
         }
 
         video {
@@ -28,29 +30,42 @@
         }
 
         .text-block {
-            flex: 1;
-            padding: 20px;
+            padding: 0px;
+            text-align: left;
+			font-family: Helvetica, Arial, sans-serif;
         }
 
-        /* Responsive adjustments using media queries */
-        @media screen and (max-width: 768px) {
-            .video-container {
-                flex-direction: column;
-            }
-            .text-block {
-                text-align: center;
-            }
+		h1 {
+            margin: 0 0 0px;
+        }
+
+		h2 {
+            margin: 0 0 0px;
+        }
+
+		h3 {
+            margin: 0 0 0px;
+        }
+
+        p {
+            margin: 5;
         }
     </style>
 </head>
 <body>
     <div class="video-container">
         <div class="text-block">
-            <h1>Welcome to our Video Player</h1>
-            <p>This is some example text. You can add more information here.</p>
+            <h2>Nicholi Noah (b.1979)</h2>
+			<h1><i>(To Be Titled)</i>, 2023</h1>
+			<h3>wooden frame over lcd display</br></br>
+			</h3>
+            <p>I demonstrated a prototype of this artpiece in 2021.</br>
+				Several people stood in front of it staring and taking pictures.</br>
+				I knew I had a hit, and am making a better one for gallery.
+			</p>
         </div>
         <div class="video-wrapper">
-            <video width="540" height="720" controls autoplay loop>
+            <video width="540" height="720" controls autoplay loop muted>
                 <source src="/images/Portfolio/NFT/nftMockup-Portrait.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
