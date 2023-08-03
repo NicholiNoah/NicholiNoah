@@ -15,7 +15,7 @@ rank: 3
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br><i>Devotion ($3/day)</i> is the first piece in my</br>found art Readymade series: <i>EBT Food Stamps</i>.</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br></p>
   </div>
 </div>
 
@@ -27,8 +27,8 @@ rank: 3
 	A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, <i>Devotion ($3/day)</i> promotes further conversation on 'value of food vs. appeal of branding'.
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of Artists' process shaped into a portrait of humanity every person can relate to: our need for food.
 	Baiting the viewer to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes, and what passion would you devote yourself to achieving?"</br>
-	Not hard discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys me the freedom to stay in flow. Using hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a can then packed in a box for easy marketing).</br>
-	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time, while scraping together enough energy to dedicate everything I am to capturing this vision. Ripping off imposed labels. Clicking back the tab. Releasing the nutritional aroma of self awareness. This is the artist's process. Over and over again until the message is complete or dinner is ready. In this case, both.</p>
+	Not hard discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br></br>Hunger is a vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
+	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time, while scraping together enough renewable energy to dedicate everything I am to capturing this vision. Ripping off imposed labels. Clicking back the tab. Releasing the nutritional aroma of self awareness. This is the artist's process. Over and over again until the message is complete or dinner is ready. In this case, both.</p>
   </div>
 </div>
 
