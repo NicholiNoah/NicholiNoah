@@ -24,7 +24,7 @@ rank: 3
   </div>
   <div class="col-md-10">
     <p style="font-family: arial">"How is this art??? ...I could have done that."</br>
-	A counterpoint to Andy Warhol's Campbell's Soup series, <i>Devotion ($3/day)</i> promotes further conversation on 'value of food vs. appeal of branding'.
+	<i>Devotion ($3/day)</i> promotes further conversation on 'value of food vs. appeal of branding'. A counterpoint to Andy Warhol's Campbell's Soup series.
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of Artists' process shaped into a portrait of humanity every person can relate to: our need for food.
 	Baiting the audience to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes you can."</br>
 	Not as discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br>With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
