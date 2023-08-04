@@ -54,10 +54,11 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I want my audience to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably discover this shared destination at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br><br>
-	plug-in + warm + chile oil = sensory smells appetizing<br>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I'm an Accessibility artist. I want my audiences to feel the whole experience too. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably find their own way, at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br><br>
 	nutrition label on back + QR code > portfolio<br>
 	portfolio artwork label<br>
+	plug-in + warm + chile oil = sensory smells appetizing<br>
+	audiobook record<br>
 	fill empty spot in composition, date stamp + signature = receipt (self checkout)
 	</p>
   </div>
