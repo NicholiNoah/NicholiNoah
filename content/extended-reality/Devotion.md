@@ -24,14 +24,14 @@ rank: 3
   </div>
   <div class="col-md-10">
     <p style="font-family: arial">"How is this art??? ...I could have done that."</br>
-	A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, <i>Devotion ($3/day)</i> promotes further conversation on 'value of food vs. appeal of branding'.
+	A counterpoint to Andy Warhol's Campbell's Soup series, <i>Devotion ($3/day)</i> promotes further conversation on 'value of food vs. appeal of branding'.
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of Artists' process shaped into a portrait of humanity every person can relate to: our need for food.
 	Baiting the audience to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes you can."</br>
-	Not as discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br></br>With hunger is my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
+	Not as discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br>With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
 	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time
-	while scraping together enough renewable energy to dedicate everything I am to capturing this vision.</br>
+	while scraping together enough renewable energy to dedicate everything I am to capturing this vision beyond status quo.</br>
 	Ripping off imposed labels. Clacking back the hermetically sealed tab.
-	Releasing the nutritional aromas of self awareness. This is the artist's process.
+	Releasing the nutritional aromas of self awareness.</br>This is the artist's process.
 	Over and over again until the message is complete or dinner is ready. In this case, both.</p>
   </div>
 </div>
@@ -46,7 +46,7 @@ rank: 3
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece stamped with a blaring white number '3': an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
+    <p style="font-family:arial">For months my imagination pounded into focus a hazy projection of the final piece stamped with a blinding white number '3' with an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out. Two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
   </div>
 </div>
 
