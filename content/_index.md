@@ -14,7 +14,7 @@ bannerHeight: 0vh
 
 
 
-From video camera to spatial media, Nicholi Noah is embedding accessible visions of abstract future into fine art and education. Wrapping the virtual Metaverse in real-world textures as immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool. Sparking new conversations while empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
+From video camera to spatial media, Nicholi Noah is embedding accessible visions of abstract future into fine art and education. Wrapping the virtual Metaverse in real-world texture as immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool. Encouraging new conversations empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.
 
 <div class="row">
   <div class="col-md-12">
