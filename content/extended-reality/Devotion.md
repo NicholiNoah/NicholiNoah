@@ -26,8 +26,8 @@ rank: 3
     <p style="font-family: arial">"How is this art??? ...I could have done that."</br>
 	<i>Devotion ($3/day)</i> promotes continued conversation on 'value of food vs. appeal of branding' - a counterpoint to Andy Warhol's <i>Campbell's Soup</i> series.
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of Artists' process shaped into a portrait of humanity every person can relate to: our need for food.
-	Baiting the audience to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes you can."</br>
-	Not as discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br>With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
+	Baiting the audience to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes."</br>
+	Not some kind of discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br>With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
 	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time
 	while scraping together enough renewable energy to dedicate everything I am to capturing this visionary life beyond status quo.</br>
 	Ripping off imposed labels. Clacking back the hermetically sealed tab.
@@ -54,7 +54,7 @@ rank: 3
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I want my audience to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably discover our shared destination at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br><br>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I want my audience to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as Artist is to draw others a map so they can comfortably discover this shared destination at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really do add up in real life.<br><br>
 	plug-in + warm + chile oil = sensory smells appetizing<br>
 	nutrition label on back + QR code > portfolio<br>
 	portfolio artwork label<br>
