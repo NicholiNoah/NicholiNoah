@@ -26,8 +26,8 @@ rank: 3
     <p style="font-family: arial">"How is this art??? ...I could have done that."</br>
 	A counterpoint to Andy Warhol's (in)famous Campbell's Soup series, <i>Devotion ($3/day)</i> promotes further conversation on 'value of food vs. appeal of branding'.
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of Artists' process shaped into a portrait of humanity every person can relate to: our need for food.
-	Baiting the viewer to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes, and what will you do with what you've learned?"</br>
-	Not hard discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br></br>Hunger is a vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
+	Baiting the viewer to critique with "How is this art??? ...I could have done that." <i>Devotion</i> responds, "Yes you can."</br>
+	Not as discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow.</br></br>With hunger is my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enlightened Savage's darker glimpse of artistic individuals as sustinance (labeled and mushed into a tin can, then packed in a box for easy marketing).</br>
 	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time, while scraping together enough renewable energy to dedicate everything I am to capturing this vision. Ripping off imposed labels. Clicking back the tab. Releasing the nutritional aroma of self awareness. This is the artist's process. Over and over again until the message is complete or dinner is ready. In this case, both.</p>
   </div>
 </div>
