@@ -1,5 +1,5 @@
 ---
-title: Devotion ($3/day), 2023</br>Canned food, grains, cooker, receipt on wood platform
+title: Devotion ($3/day), 2023</br></br>Canned food, grains, cooker, receipt on wood platform
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/Hero3.jpg
 description: Devotion ($3/day)<br>A multi-sensory experience of social commentary
