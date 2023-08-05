@@ -3,7 +3,7 @@ title: CuriousVR Show
 metaDescription: CuriousVR is the most curious vr website this side of reality. Join me on an exploration of the Metaverse, the immersive future we all share. All in VR virtual reality.
 thumbnail: https://lh3.googleusercontent.com/VLTxyIzsbtk493xcWnZnhS9BnAIh6uaRJVNs2sIamxz5172q356TRM4frnSoeEW_mOpMPvMwCMSeRa51QO8x00tUM7TWIMnVU83KE87KsrQT7puvyzHSHUuxb529q9ysdihsjcUR1g=w2400
 description: The creativist place to be you
-alt: CuriousVR inside his time particle flying through the fabric of time and space to say hello. 
+alt: CuriousVR inside his time particle flying through the fabric of time and space to say hello.
 rank: 10
 ---
 

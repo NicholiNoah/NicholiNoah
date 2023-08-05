@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: /images/Portfolio/Devotion/Hero3.jpg
 description: Devotion ($3/day)<br>A multi-sensory experience of social commentary
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.
-rank: 3
+rank: 2
 ---
 
 <div>
