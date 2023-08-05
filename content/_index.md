@@ -22,7 +22,7 @@ From video camera to spatial media, Nicholi Noah is embedding accessible visions
     &emsp;<i>I remember the first time I broke my imagination. It grew back with a vengeance.</br>
     &emsp;Revealing hidden perspectives that question our reality.</br>
     &emsp;Projecting virtual visions of augmented tomorrow without the need for a device.</br>
-    &emsp;Welcome to my world of accessible reality. Please enjoy your stay.</i></p>
+    &emsp;Welcome to my world of immersive accessibility. Please enjoy your stay.</i></p>
   </div>
 </div>
 
