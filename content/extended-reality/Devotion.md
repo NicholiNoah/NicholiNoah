@@ -46,7 +46,7 @@ rank: 2
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months my imagination pounded a cloudy projection of the final artwork, stamped with a blinding white number '3' (an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out). For two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
+    <p style="font-family:arial">For months my imagination pounded a cloudy projection of the artwork in silhouette, stamped with a blinding white number '3' (an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out). At two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ rank: 2
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I'm an accessibility artist. I want my audiences to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as the artist is to draw others a map so they can find their own way, at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really did add up in real life.<br><br>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I am an Accessibility artist. I want my audiences to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as the artist is to draw others a map so they can find their own way, at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really did add up in real life.<br>The price has gone up since. That grocery store receipt is a photo in time.<br><br>
 	nutrition label on back + QR code > portfolio<br>
 	portfolio artwork label<br>
 	plug-in + warm + chile oil = sensory smells appetizing<br>
