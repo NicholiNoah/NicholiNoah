@@ -34,7 +34,7 @@ rank: 4
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what does your imagination see?</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">Originally conceived in honor of Oculus Go and</br>John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas, I finally saw the baby is me.</p>
+    <p style="font-family:arial">Originally conceived in honor of Oculus Go and</br>John Carmack, I eventually realized this piece captures a much deeper, more personal meaning, well beyond the story of the little VR headset that could.<br/></br><em>To Be Free</em> is my first sculpture, and has been an extremely difficult piece to complete.<br/><br/>Initially simple in design, the concept immediately solidified as soon as it entered my imagination.<br/><br/>However, the actual work took over six months to accomplish.<br/><br/>Overwhelmed by multiple emotional breakdowns and painful confrontations with my own childhood traumas, I saw pieces of myself in the invisible baby.</p>
   </div>
 </div>
 
