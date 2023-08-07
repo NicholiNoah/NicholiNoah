@@ -47,8 +47,8 @@ From video camera to spatial media, Nicholi Noah is embedding accessible visions
 <div class="row">
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;AWARDS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
-	&emsp;2016 : &nbsp; Regional EMMY Award (Northern California):&nbsp;&nbsp;<i>Futures Worth Fighting For</i></br>
-	&emsp;2014 : &nbsp; Regional EMMY Award (Ohio Valley):&nbsp;&nbsp;<i>Uncompensated: Abbey's Story</i></br>
+	&emsp;2016 : &nbsp; EMMY Award (Northern California Regional):&nbsp;&nbsp;<i>Futures Worth Fighting For</i></br>
+	&emsp;2014 : &nbsp; EMMY Award (Ohio Valley Regional):&nbsp;&nbsp;<i>Uncompensated: Abbey's Story</i></br>
 	</div>
 </div>
 
