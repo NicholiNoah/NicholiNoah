@@ -24,6 +24,11 @@ summaryLength = 30
     name = "Traditional Video"
     url = "/professional-media/"
     weight = 3
+  [[menu.nav]]
+    identifier = "placeholder"
+    name = "Placeholder"
+    url = "/cv/"
+    weight = 4
 
 
 [security]
