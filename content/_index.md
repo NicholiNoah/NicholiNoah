@@ -30,7 +30,7 @@ From video camera to spatial media, Nicholi Noah is embedding accessible visions
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;EXHIBITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
     &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;// <b><a href="https://www.mutualart.com/Exhibition/art_work_2022--The-Oklahoma-Contemporary/7F63C89433B1D706" target="_blank">OK Contemporary Staff Exhibition</b></a> - Oklahoma City, OK</br>
-    &emsp;2021 : &nbsp; <i><a href="https://www.kosu.org/community-calendar/event/fever-dreams-the-remedy-to-your-reality" target="_blank">Fever Dreams VR Gallery</a></i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
+    &emsp;2021 : &nbsp; <i><a href="https://www.kosu.org/community-calendar/event/fever-dreams-the-remedy-to-your-reality" target="_blank">Fever Dreams VR Experience</a></i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
     &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
 	&emsp;2021 : &nbsp; <i>Hey, Nicholi! (ft. Creative Captions)</i>&emsp;// <a href="https://deadcenterff2021.eventive.org/films/60a67d0d2c68fa0029899160" target="_blank">deadCenter Film Festival</a> - Oklahoma City, OK</br>
 	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;// Metaverse Maker Competition 1 - NEOS VR, Metaverse</br>
