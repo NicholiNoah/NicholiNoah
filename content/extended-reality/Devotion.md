@@ -6,6 +6,19 @@ description:
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.
 rank: 2
 ---
+<div class="row">
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-3">
+  <a href= "/images/Portfolio/Devotion/recipe_sm.jpg">
+     <img src="/images/Portfolio/Devotion/recipe_sm.jpg" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
+    </a>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial">For months my imagination pounded a cloudy projection of the artwork in silhouette, stamped with a blinding white number '3' (an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out). At two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
+  </div>
+</div>
 
 <div>
 <a href= "/images/Portfolio/Devotion/Hero3.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.">
