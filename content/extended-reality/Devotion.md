@@ -2,7 +2,7 @@
 title: <i>Devotion ($3/day)</i>, 2023
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/Hero3.jpg
-description: 
+description:
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe.
 rank: 2
 ---
@@ -27,7 +27,8 @@ rank: 2
 	<i>Devotion ($3/day)</i> promotes continued conversation on 'value of food vs. appeal of branding' - a counterpoint to Andy Warhol's <i>Campbell's Soup</i> series.
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of the artist's process, shaped into a portrait of humanity every person can relate to: the need for food.
 	Baiting the audience to critique with "How is this art??? ...I could have done that." Devotion responds, "Yes."</br>
-	Not discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment. It buys the freedom to stay in flow. With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a dark taste of artistic individuals as sustinance (labeled and mooshed into tin cans, then packed into a box for marketing and easy distribution).</br>
+	Not discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment.</br>
+	It buys the freedom to stay in flow. With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a dark taste of artistic individuals as sustinance (labeled and mooshed into tin cans, then packed into a box for marketing and easy distribution).</br>
 	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time
 	while scraping together enough renewable energy to dedicate everything I am to capturing this visionary life beyond status quo.</br>
 	Ripping off imposed labels. Clacking back the hermetically sealed tab.

@@ -11,29 +11,19 @@ summaryLength = 30
 [menu]
   [[menu.nav]]
     identifier = "nicholi-noah"
-    name = "Nicholi Noah : Bio"
+    name = "Nicholi Noah"
     url = "/"
     weight = 1
   [[menu.nav]]
     identifier = "extended-reality"
-    name = "Artworks"
+    name = "Immersive Artist"
     url = "/extended-reality/"
     weight = 2
   [[menu.nav]]
-    identifier = "extended-reality"
-    name = "CV"
-    url = "/cv/"
+    identifier = "professional-media"
+    name = "Traditional Video"
+    url = "/professional-media/"
     weight = 3
-  [[menu.nav]]
-    identifier = "professional-media"
-    name = "Pro Video"
-    url = "/professional-media/"
-    weight = 4
-  [[menu.nav]]
-    identifier = "professional-media"
-    name = "Contact"
-    url = "/professional-media/"
-    weight = 5
 
 
 [security]
