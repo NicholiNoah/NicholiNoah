@@ -48,7 +48,7 @@
           </a>
           {{ end }}
         </div>
-        <div class="nav-right collapse">
+        <div class="nav-right {{ if lt .Site.Params.breakpoints.small 700 }}collapse{{ end }}">
           <a href="mailto: career@nicholinoah.com" class="nav-image-link" aria-label="Send Email">
             <img src="/images/envelope.svg" alt="send email">
           </a>
