@@ -31,7 +31,7 @@ summaryLength = 30
     weight = 3
   [[menu.nav]]
     identifier = "contact"
-    name = "Contact: career@nicholinoah.com"
+    name = "email: career@nicholinoah.com"
     url = "mailto:career@nicholinoah.com"
     weight = 5
 
