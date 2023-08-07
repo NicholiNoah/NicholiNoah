@@ -16,7 +16,7 @@ summaryLength = 30
     weight = 1
   [[menu.nav]]
     identifier = "extended-reality"
-    name = "Artwork"
+    name = "Artworks"
     url = "/extended-reality/"
     weight = 2
   [[menu.nav]]
