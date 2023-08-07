@@ -68,7 +68,7 @@ From video camera to spatial media, Nicholi Noah is embedding accessible visions
 	&emsp;2002 : &nbsp; University of Central Oklahoma // Bachelor of Arts; Professional Media; Edmond, OK</br>
 	&emsp;2008 : &nbsp; NPPA News Video Workshop; Norman, OK</br>
 	&emsp;2010 : &nbsp; NPPA Advanced Storytelling Workshop; Austin, TX</br>
-	&emsp;2014 : &nbsp; Illumination Experience Cinematography Masterclass; Detroit, MI</br>
+	&emsp;2014 : &nbsp; Hurlbut Academy - Cinematography Masterclass; Detroit, MI</br>
 	</div>
 </div>
 
