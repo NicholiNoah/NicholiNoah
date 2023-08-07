@@ -16,19 +16,19 @@ summaryLength = 30
     weight = 1
   [[menu.nav]]
     identifier = "extended-reality"
-    name = "Immersive Artist"
+    name = "Artwork"
     url = "/extended-reality/"
     weight = 2
   [[menu.nav]]
     identifier = "professional-media"
-    name = "Traditional Video"
+    name = "Pro Video"
     url = "/professional-media/"
-    weight = 3
-  [[menu.nav]]
-    identifier = "placeholder"
-    name = "Placeholder"
-    url = "/cv/"
     weight = 4
+  [[menu.nav]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 3
 
 
 [security]
