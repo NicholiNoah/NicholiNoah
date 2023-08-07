@@ -27,7 +27,7 @@ summaryLength = 30
   [[menu.nav]]
     identifier = "cv"
     name = "CV"
-    url = "/cv/index.md"
+    url = "/cv/"
     weight = 3
   [[menu.nav]]
     identifier = "contact"
