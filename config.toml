@@ -31,9 +31,9 @@ summaryLength = 30
     weight = 3
 	target = "blank"
   [[menu.nav]]
-    identifier = "professional-media"
+    identifier = "resume"
     name = "Resumé"
-    url = "/NicholiNoah_resume23.pdf"
+    url = "/resume/NicholiNoah_resume23.pdf"
     weight = 5
 	target = "blank"
   [[menu.nav]]
