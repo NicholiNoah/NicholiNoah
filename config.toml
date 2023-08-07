@@ -27,8 +27,9 @@ summaryLength = 30
   [[menu.nav]]
     identifier = "cv"
     name = "CV"
-    url = "/cv/"
+    url = "/CV2022.pdf"
     weight = 3
+	target = "blank"
   [[menu.nav]]
     identifier = "contact"
     name = "email: career@nicholinoah.com"
