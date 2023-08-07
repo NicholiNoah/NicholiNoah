@@ -21,7 +21,7 @@ summaryLength = 30
     weight = 2
   [[menu.nav]]
     identifier = "professional-media"
-    name = "Resumé"
+    name = "Reel"
     url = "/professional-media/"
     weight = 4
   [[menu.nav]]
@@ -31,10 +31,16 @@ summaryLength = 30
     weight = 3
 	target = "blank"
   [[menu.nav]]
+    identifier = "professional-media"
+    name = "Resumé"
+    url = "/NicholiNoah_resume23.pdf"
+    weight = 5
+	target = "blank"
+  [[menu.nav]]
     identifier = "contact"
     name = "email: career@nicholinoah.com"
     url = "mailto:career@nicholinoah.com"
-    weight = 5
+    weight = 6
 
 
 [security]
