@@ -16,7 +16,7 @@ rank: 2
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">For months my imagination pounded a cloudy projection of the artwork in silhouette, stamped with a blinding white number '3' (an overly-aggressive guiding frequency increasing louder and brighter like it was annoyed I was taking so long to figure this puzzle out). At two weeks of tasting and trying again, I repeatedly rummaged the canned food isle matching assorted combos of beans and vegetables. Until one day with squeeky-wheeled cart and calculator in-hand, I felt the magical moment as everything added up to exactly $3.00. The recipe was complete.</p>
+    <p style="font-family:arial"><h1>Canned food, grains, cooker, receipt on wood</h1></p>
   </div>
 </div>
 
