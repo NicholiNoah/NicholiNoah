@@ -21,7 +21,7 @@ summaryLength = 30
     weight = 2
   [[menu.nav]]
     identifier = "professional-media"
-    name = "Pro Video"
+    name = "Resume"
     url = "/professional-media/"
     weight = 4
   [[menu.nav]]
