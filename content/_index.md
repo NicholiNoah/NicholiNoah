@@ -30,7 +30,7 @@ From video camera to spatial media, Nicholi Noah is embedding accessible visions
   <div class="col-md-12">
     <p style="font-family:arial"><b><u>&nbsp;EXHIBITIONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></br></br>
     &emsp;2022 : &nbsp; <i>2D Shadow of 4D Self AR</i>&emsp;// OK Contemporary Staff Showcase - Oklahoma City, OK</br>
-    &emsp;2021 : &nbsp; <i><a href="https://www.kosu.org/community-calendar/event/fever-dreams-the-remedy-to-your-reality">Fever Dreams VR Gallery</a></i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
+    &emsp;2021 : &nbsp; <i><a href="https://www.kosu.org/community-calendar/event/fever-dreams-the-remedy-to-your-reality" target="_blank">Fever Dreams VR Gallery</a></i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
     &emsp;2021 : &nbsp; <i>2D Shadow of 4D Self</i>&emsp;// 1984 Studios - Capitol Hill, OK</br>
 	&emsp;2020 : &nbsp; <i>Hey, Nicholi! ft. Creative Captions</i>&emsp;// deadCenter Film Festival - Oklahoma City, OK</br>
 	&emsp;2020 : &nbsp; <i>Infinity Machine</i>&emsp;// Megajam #1 - NEOS VR, Metaverse</br>
