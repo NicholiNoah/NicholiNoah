@@ -1,5 +1,5 @@
 ---
-title: Unfolding (You are the Sunset) - 2022
+title: <i>Unfolding (You are the Sunset)</i>, 2022
 metaDescription:
 thumbnail: https://lh3.googleusercontent.com/pw/AMWts8D2To7cVHtJV0Vm8sA2umUq1SE5v5nMkYcyS1Ka7kHC0KokBoQGOpiQdlD41Zh3ZUrAw4Zb3E1HQ02B6vAFrZAuWvqWrA50A0IWh5WxDRBt2okPOYU=w2400
 description: Augmented Reality holiday ornament
