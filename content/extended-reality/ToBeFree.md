@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400
 description: Augmented Reality without the device<br>(Mixed-Media Sculpture and VR history lesson)
 alt: fine art sculpture of an invisible (virtual) baby wearing a VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
-rank: 4
+rank: 3
 ---
 
 <div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
