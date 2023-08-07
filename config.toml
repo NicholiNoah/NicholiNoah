@@ -29,6 +29,11 @@ summaryLength = 30
     name = "CV"
     url = "/cv/"
     weight = 3
+  [[menu.nav]]
+    identifier = "contact"
+    name = "Contact"
+    url = "mailto:career@nicholinoah.com"
+    weight = 5
 
 
 [security]
