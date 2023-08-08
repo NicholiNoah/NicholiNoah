@@ -34,6 +34,10 @@ rank: 1
       padding: 0;
       height: 100vh; /* Ensure video takes up full viewport height on mobile */
     }
+	/* Additional adjustments for mobile layout */
+    .col-md-10 {
+      padding: 10px;
+    }
   }
 </style>
 
@@ -54,14 +58,6 @@ rank: 1
 </html>
 
 In this updated code, I've set overflow: auto; on the body and html elements to enable scrolling when the content overflows the viewport height. Additionally, the min-height: 100%; property on the .video-container ensures that the video container takes up at least the full viewport height, allowing for scrolling when necessary. This should give you the desired centered video layout while maintaining the ability to scroll down.
-
-
-<div class="video-container">
-  <video width="540" height="720" autoplay loop muted playsinline>
-    <source src="/images/Portfolio/NFT/nftMockup-Portrait.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
 <div class="row">
   <div class="col-md-12">
