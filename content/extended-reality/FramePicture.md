@@ -12,6 +12,27 @@ rank: 1
 	</video>
 </div>
 
+<style>
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  video {
+    max-width: 100%;
+    max-height: 100%;
+  }
+</style>
+
+<div class="video-container">
+  <video width="540" height="720" autoplay loop muted playsinline>
+    <source src="/images/Portfolio/NFT/nftMockup-Portrait.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 <div class="row">
   <div class="col-md-12">
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">  </p>
