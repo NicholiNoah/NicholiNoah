@@ -1,5 +1,5 @@
 ---
-title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2022
+title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2023
 metaDescription:
 thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
 description: description
