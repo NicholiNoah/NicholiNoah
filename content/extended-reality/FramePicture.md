@@ -97,18 +97,6 @@ rank: 1
   </div>
   <div class="col-md-5">
      <img src="/images/Portfolio/NFT/NewFrame.jpg"></img>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Ready for 3D Scan</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-1">
-  </div>
-  <div class="col-md-5">
-     <img src="/images/Portfolio/NFT/NewFrame.jpg"></img>
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Ready for 3D Scan</p>
-  </div>
-  <div class="col-md-3">
-    <p style="font-family:arial">Ready for 3D Scan</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Ready for 3D Scan + Preview of LCD background</p>
   </div>
 </div>
