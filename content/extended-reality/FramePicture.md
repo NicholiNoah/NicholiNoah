@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
 description: description
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
-rank: 4
+rank: 1
 ---
 
 <div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTkwMGZmMDBiYzFiNDMwNjAzZDU4NmI2N2I1N2U1ODNhNTE2MSZjdD1n/tfxy0eWhqBuiSPGONE/giphy.gif" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
