@@ -32,11 +32,10 @@ rank: 1
     /* Adjust padding on mobile devices */
     .video-container {
       padding: 0;
+      height: 100vh; /* Ensure video takes up full viewport height on mobile */
     }
   }
 </style>
-</head>
-<body>
 
 <div class="video-container">
   <video width="540" height="720" autoplay loop muted playsinline>
