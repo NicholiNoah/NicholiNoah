@@ -6,6 +6,25 @@ description: in honor of the most undervalued and overlooked component of any ar
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
 rank: 1
 ---
+<div class="col-md-10">
+	<h3>Wooden frame on lcd video of animated 3D scan</br>
+			76 cm x 106 cm (30 in x 42 in), 12 min (looped)</br>
+	</h3>
+	<p style="font-family: arial">
+	<i>NFT (the Frame Stays In the Picture)</i> is in itself a paradox of concepts.</br>
+				Non-Fungible animation existing only in virtual form.</br>
+				as a digital 3D scan of a very fungible real-life wooden frame.</br>
+				I first exhibited a prototype of this art piece in 2021.</br>
+				People stood in front of it, staring and taking pictures.</br>
+				I knew I had a hit, and am re-making a better one.</br></br>
+				This time showcasing the frame I found on the side of the road on big trash day.</br></br>
+				Previously garbage, now presented as a one-of-a-kind story of its own.</br>
+				Jettisoned into eternal cyberspace.</br>
+				Always the same direction, never the same perspective.</br>
+				</br>
+	</p>
+</div>
+
 <style>
   body, html {
     margin: 0;
