@@ -64,7 +64,7 @@ rank: 1
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <h3>Lorem Ipsum</h3>
+    <h3>wood frame over lcd video of animated 3D scan</h3>
 	<p style="font-family: arial">
 	Lorem Ipsum
 </p></br>
