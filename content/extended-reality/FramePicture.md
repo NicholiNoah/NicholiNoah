@@ -6,14 +6,10 @@ description: in honor of the most undervalued and overlooked component of any ar
 alt: Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside
 rank: 1
 ---
-<div class="media-container">
-	<video width="540" height="720" autoplay loop muted playsinline>
+<div><video width="540" height="720" autoplay loop muted playsinline>
 		<source src="/images/Portfolio/NFT/nftMockup-Portrait.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
-</div>
-
-<div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTkwMGZmMDBiYzFiNDMwNjAzZDU4NmI2N2I1N2U1ODNhNTE2MSZjdD1n/tfxy0eWhqBuiSPGONE/giphy.gif" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
 </div>
 
 <div class="row">
