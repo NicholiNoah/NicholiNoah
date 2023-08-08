@@ -1,8 +1,8 @@
 ---
 title: <i>NFT (the Frame Stays In the Picture)</i>, 2023
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/pw/AMWts8D2To7cVHtJV0Vm8sA2umUq1SE5v5nMkYcyS1Ka7kHC0KokBoQGOpiQdlD41Zh3ZUrAw4Zb3E1HQ02B6vAFrZAuWvqWrA50A0IWh5WxDRBt2okPOYU=w2400
-description: framePicture
+thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
+description: in honor of the most undervalued and overlooked component of any artpiece - the frame.
 alt: Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside
 rank: 1
 ---
