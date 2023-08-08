@@ -11,20 +11,28 @@ rank: 1
     margin: 0;
     padding: 0;
     height: 100%;
-    overflow: auto; /* Enable scrolling */
+    overflow: auto;
   }
 
   .video-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100%; /* Ensure video container takes up at least the full viewport height */
+    min-height: 100%;
+    padding: 0; /* Reset padding */
   }
 
   video {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
+  }
+
+  @media (max-width: 768px) {
+    /* Adjust padding on mobile devices */
+    .video-container {
+      padding: 0;
+    }
   }
 </style>
 </head>
