@@ -93,8 +93,11 @@ rank: 1
      <img src="/images/Portfolio/NFT/BigTrash.jpg"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Big Trash Day</p>
   </div>
-  <div class="col-md-3">
-    <p style="font-family:arial">Big Trash Day</p>
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-5">
+     <img src="/images/Portfolio/NFT/NewFrame.jpg"></img>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Ready for 3D Scan</p>
   </div>
 </div>
 
