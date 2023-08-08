@@ -2,7 +2,7 @@
 title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2022
 metaDescription:
 thumbnail: /images/Portfolio/NFT/nftMockup-Portrait.mp4
-description: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
+description: description
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
 rank: 4
 ---
