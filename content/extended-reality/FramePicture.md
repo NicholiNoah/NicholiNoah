@@ -11,14 +11,14 @@ rank: 1
     margin: 0;
     padding: 0;
     height: 100%;
-    overflow: hidden;
+    overflow: auto; /* Enable scrolling */
   }
 
   .video-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    min-height: 100%; /* Ensure video container takes up at least the full viewport height */
   }
 
   video {
@@ -27,6 +27,27 @@ rank: 1
     object-fit: contain;
   }
 </style>
+</head>
+<body>
+
+<div class="video-container">
+  <video width="540" height="720" autoplay loop muted playsinline>
+    <source src="/images/Portfolio/NFT/nftMockup-Portrait.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%"></p>
+  </div>
+</div>
+
+</body>
+</html>
+
+In this updated code, I've set overflow: auto; on the body and html elements to enable scrolling when the content overflows the viewport height. Additionally, the min-height: 100%; property on the .video-container ensures that the video container takes up at least the full viewport height, allowing for scrolling when necessary. This should give you the desired centered video layout while maintaining the ability to scroll down.
+
 
 <div class="video-container">
   <video width="540" height="720" autoplay loop muted playsinline>
