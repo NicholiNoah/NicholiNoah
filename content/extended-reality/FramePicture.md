@@ -7,16 +7,24 @@ alt: Paper holiday ornament with QR code that generates an augmented reality cry
 rank: 1
 ---
 <style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+
   .video-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
   }
 
   video {
     max-width: 100%;
     max-height: 100%;
+    object-fit: contain;
   }
 </style>
 
