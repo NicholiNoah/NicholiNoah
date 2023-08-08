@@ -71,9 +71,6 @@ rank: 1
 </div>
 
 <div class="col-md-10">
-	<h3>Wooden frame on lcd video of animated 3D scan</br>
-			76 cm x 106 cm (30 in x 42 in), 12 min (looped)</br>
-	</h3>
 	<p style="font-family: arial">
 	<i>NFT (the Frame Stays In the Picture)</i> is in itself a paradox of concepts.</br>
 				Non-Fungible animation existing only in virtual form.</br>
@@ -92,11 +89,23 @@ rank: 1
 <div class="row">
   <div class="col-md-1">
   </div>
-  <div class="col-md-3">
+  <div class="col-md-5">
      <img src="/images/Portfolio/NFT/BigTrash.jpg"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Big Trash Day</p>
   </div>
-  <div class="col-md-5">
+  <div class="col-md-3">
     <p style="font-family:arial">Big Trash Day</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-5">
+     <img src="/images/Portfolio/NFT/NewFrame.jpg"></img>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Ready for 3D Scan</p>
+  </div>
+  <div class="col-md-3">
+    <p style="font-family:arial">Ready for 3D Scan</p>
   </div>
 </div>
