@@ -31,9 +31,9 @@ summaryLength = 30
     url = "/professional-media/"
     weight = 5
   [[menu.nav]]
-    identifier = "extended-reality"
+    identifier = "immersive"
     name = "Immersive"
-    url = "/extended-reality/"
+    url = "/immersive/"
     weight = 4
 	target = "blank"
   [[menu.nav]]
