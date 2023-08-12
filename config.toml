@@ -26,27 +26,21 @@ summaryLength = 30
     weight = 3
 	target = "blank"
   [[menu.nav]]
-    identifier = "professional-media"
+    identifier = "broadcast"
     name = "Broadcast"
-    url = "/professional-media/"
-    weight = 5
-  [[menu.nav]]
-    identifier = "immersive"
-    name = "Immersive"
-    url = "/immersive/"
+    url = "/broadcast/"
     weight = 4
-	target = "blank"
   [[menu.nav]]
     identifier = "resume"
     name = "Resumé"
     url = "/resume/NicholiNoah_resume23.pdf"
-    weight = 6
+    weight = 5
 	target = "blank"
   [[menu.nav]]
     identifier = "contact"
     name = "email: career@nicholinoah.com"
     url = "mailto:career@nicholinoah.com"
-    weight = 7
+    weight = 6
 
 
 [security]
