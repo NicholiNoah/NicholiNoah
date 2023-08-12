@@ -27,7 +27,7 @@ summaryLength = 30
 	target = "blank"
   [[menu.nav]]
     identifier = "professional-media"
-    name = "Reel"
+    name = "Broadcast"
     url = "/professional-media/"
     weight = 5
   [[menu.nav]]
