@@ -28,8 +28,8 @@ rank: 2
 	Baiting the audience to critique with "How is this art??? ...I could have done that." Devotion responds, "Yes."</br></br>
 	Not discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment.</br>
 	It buys the freedom to stay in flow. With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a dark taste of artistic individuals as sustinance (labeled and mooshed into tin cans, then packed into a box for marketing and easy distribution).</br>
-	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to minimize myself and maximize my time
-	while scraping together enough nutritional energy to dedicate everything I am to capturing a visionary life beyond status quo.</br>
+	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to maximize budget and minimizing distraction,
+	while scraping together enough nutritional energy to dedicate everything I am to capturing a visionary life outside status quo.</br>
 	Ripping off imposed labels. Clacking back the hermetically sealed tab.
 	Releasing delectable aromas of identity and self awareness.</br>This is the artist's process.
 	Over and over again until the message is complete or dinner is ready. In this case, both.</p>
