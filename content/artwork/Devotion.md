@@ -2,7 +2,7 @@
 title: <i>Devotion ($3/day)</i>, 2023
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/Hero3.jpg
-description: a commitment to self-discovery
+description: You art what you eat.
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe for any aspiring artist to sustain a healthy diet on minimal budget.
 rank: 2
 ---
