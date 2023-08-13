@@ -14,7 +14,7 @@ rank: 2
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My aspirations root even deeper.</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">I make just enough income to not qualify for food stamps.</br>This diet optimizes cost-to-nutrition ratio</br>keeping me fed and fueled while I dedicate myself</br>to discovering the artist I aspire to be</br></p>
   </div>
 </div>
 
