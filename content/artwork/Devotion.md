@@ -14,7 +14,7 @@ rank: 2
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My aspirations haven't changed.</p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My aspirations grab ahold harder.</p>
   </div>
 </div>
 
