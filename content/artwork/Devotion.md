@@ -2,7 +2,7 @@
 title: <i>Devotion ($3/day)</i>, 2023
 metaDescription:
 thumbnail: /images/Portfolio/Devotion/Hero3.jpg
-description: artistic expression of my commitment to self-discovery
+description: a commitment to self-discovery
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe for any aspiring artist to sustain a healthy diet on minimal budget.
 rank: 2
 ---
@@ -14,7 +14,7 @@ rank: 2
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br></p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>This recipe is how I'm making it through.</p>
   </div>
 </div>
 
