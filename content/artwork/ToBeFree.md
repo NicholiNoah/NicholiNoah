@@ -8,7 +8,7 @@ rank: 3
 ---
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; text-align: center; margin-top: -1%">VR headset, baby seat, cage, wood/concrete</br>48 in x 24 in x 36 in</p>
+    <p style="font-family: arial; text-align: center; margin-top: -1%">VR headset, baby seat, metal cage, wood/concrete</br>48 in x 24 in x 36 in</p>
   </div>
 </div>
 
