@@ -14,7 +14,7 @@ rank: 2
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">I make just enough income to not qualify for food stamps anymore.</br>This diet optimizes my cost-to-nutrition ratio,</br>keeping me fed and fueled while I dedicate everything I am</br>to revealing the artist I aspire to be.</br></p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">This diet optimizes cost-to-nutrition ratio,</br>keeping me fed and fueled</br>while I dedicate everything I am</br>to revealing the artist I aspire to be.</br></p>
   </div>
 </div>
 
@@ -31,7 +31,7 @@ rank: 2
 	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to maximize budget and minimizing distraction,
 	while scraping together enough nutritional energy to dedicate everything I am to capturing a visionary life outside status quo.</br>
 	Ripping off imposed labels. Clacking back the hermetically sealed tab.
-	Releasing delectable aromas of identity and self awareness.</br>This is the artist's process.
+	Releasing delectable aroma of self awareness.</br>This is the artist's process.
 	Over and over again until the message is complete or dinner is ready. In this case, both.</p>
   </div>
 </div>
