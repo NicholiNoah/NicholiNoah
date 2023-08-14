@@ -6,7 +6,13 @@ description: </br>You art what you eat.
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe for any aspiring artist to sustain a healthy diet on minimal budget.
 rank: 2
 ---
-<div class="col-md-11">
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">Canned goods, grains, cooker, reciept on wood</br>12 in x 12 in x 12 in</p>
+  </div>
+</div>
+
+<div class="col-md-10 center-text">
 	<h3>Canned goods, grains, cooker, reciept on wood</br>12 in x 12 in x 12 in</h3>
 </div>
 
