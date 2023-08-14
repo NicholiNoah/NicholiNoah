@@ -6,6 +6,11 @@ description: Augmented Reality without the device<br>(Mixed-Media Sculpture and 
 alt: fine art sculpture of an invisible (virtual) baby wearing a VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
 rank: 3
 ---
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; text-align: center; margin-top: -1%">VR headset, baby seat, cage, wood/concrete</br>48 in x 24 in x 36 in</p>
+  </div>
+</div>
 
 <div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
 </div>
