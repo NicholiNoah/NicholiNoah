@@ -8,12 +8,8 @@ rank: 2
 ---
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; text-align: center; margin-top: -1%">Canned goods, grains, cooker, reciept on wood</br>12 in x 12 in x 12 in</p>
+    <p style="font-family: arial; text-align: center; margin-top: -1%">Canned foods, grains, cooker, reciept on wood</br>12 in x 12 in x 12 in</p>
   </div>
-</div>
-
-<div class="col-md-10 center-text">
-	<h3>Canned goods, grains, cooker, reciept on wood</br>12 in x 12 in x 12 in</h3>
 </div>
 
 <div>
