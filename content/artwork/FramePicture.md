@@ -6,9 +6,10 @@ description: in honor of the most undervalued and overlooked component of any ar
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
 rank: 1
 ---
-<div class="col-md-10">
-	<h3>Wood frame on lcd video of animated 3D scan</br>76 cm x 106 cm (30 in x 42 in), 12 min (looped)</br>
-	</h3>
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; text-align: center; margin-top: -1%">Wood frame on lcd video of animated 3D scan</br>30 in x 42 in, 12 min (looped)</p>
+  </div>
 </div>
 
 <style>
