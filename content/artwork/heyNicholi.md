@@ -6,6 +6,11 @@ description: Official selection of deadCenter Film Festival 2020<br>(cross your 
 alt: A tiny planet with big yellow tree stands strong in the bright blue sky. Our hero, Nicholi, stands on the planet giving an enthusiastic thumbs up to a giant Nicholi watching over the tiny explorer, also with an enthusiastic thumbs up and big smile.
 rank: 5
 ---
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; text-align: center; margin-top: -1%">stereoscopic digital video</p>
+  </div>
+</div>
 
 <iframe
   class="video"
