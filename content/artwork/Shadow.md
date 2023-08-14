@@ -6,6 +6,11 @@ description: Self-Portrait<br>(acrylic on canvas + augmented reality)
 alt: Painted portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness. Hung on light blue bedroom wall.
 rank: 6
 ---
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; text-align: center; margin-top: -1%">acrylic on canvas, augmented reality, QR code</br>16 in x 20 in x 0.5 in</p>
+  </div>
+</div>
 
 <div><img src="https://lh3.googleusercontent.com/MD7PXnG0CCFPi99NVYt2NnFpBq8ZyT3uanCqRHiGOTe4x-P9pbR4uGrLw80_Wj76knSdtUXwOzKkoPlIe0Jgqh21D9Ek5NnuWhpkddWV-hYvy7jz7Z8XsGRzaM8cRqTrkYfITI2g=w2400" alt= "Self-portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness." />
 </div>
