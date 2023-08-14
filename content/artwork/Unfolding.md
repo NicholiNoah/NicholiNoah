@@ -6,6 +6,11 @@ description: Augmented Reality holiday ornament
 alt: Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside
 rank: 4
 ---
+<div class="row">
+  <div class="col-md-12">
+    <p style="font-family: arial; text-align: center; margin-top: -1%">augmented reality QR code on paper</br>3 in x 3 in</p>
+  </div>
+</div>
 
 <div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTkwMGZmMDBiYzFiNDMwNjAzZDU4NmI2N2I1N2U1ODNhNTE2MSZjdD1n/tfxy0eWhqBuiSPGONE/giphy.gif" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
 </div>
