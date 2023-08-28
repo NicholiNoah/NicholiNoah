@@ -18,7 +18,7 @@ From video camera to spatial media, Nicholi Noah is embedding accessible visions
 
 Preferring creatively-learned knowledge over traditional education, Nicholi seeks out alternative methods to learn through curiosity.</br>
 
-Nicholi Noah (b. 1979, Oklahoma City, OK) is a mixed reality artist and immersive technologist specializing in accessibility and culturally aware content. Fascinated with analog VHS tape-to-tape and computer animation in the mid-‘90s, Nicholi set sight on a 25-year digital video career spanning broadcast, film, and virtual education. Both career and curiosity pushed Nicholi to travel the world, leading to a six-year stint hustling advertising in Detroit while documenting street art with local graffiti writers.</br>
+Nicholi Noah is a mixed reality artist and immersive technologist specializing in accessibility and culturally aware content. Fascinated with analog VHS tape-to-tape and computer animation in the mid-‘90s, Nicholi set sight on a 25-year digital video career spanning broadcast, film, and virtual education. Both career and curiosity pushed Nicholi to travel the world, leading to a six-year stint hustling advertising in Detroit while documenting street art with local graffiti writers.</br>
 
 Back to Oklahoma City in 2017, Nicholi purchased his first VR headset and set sight on the Metaverse. Soon contributing as a beta tester and moderator for NEOS, a virtual reality collaboration engine. Developing early mixed reality experiments while immersed in the culture of computer programming was the perfect environment for Nicholi to grow, ultimately collaborating on Open Source education tools with developers from Microsoft and Google.</br>
 
