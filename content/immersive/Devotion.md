@@ -14,7 +14,8 @@ rank: 2
 
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br></p>
+    <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -1%">The SNAP representative gently explained</br>my living circumstances qualify me for food assistance</br>because I count as "Homeless".</br>That realization is still sinking in.</br>My living circumstances haven't changed.</br>
+	This diet optimizes cost-to-nutrition ratio, keeping me fed and fueled while I dedicate everything I am to revealing the artist I aspire to be.</p>
   </div>
 </div>
 
@@ -54,7 +55,7 @@ rank: 2
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I am an Accessibility artist. I want my audiences to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as the artist is to draw others a map so they can find their own way, at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really did add up in real life.<br>The price has gone up since. That grocery store receipt is a photo in time.<br><br>
+    <p style="font-family:arial">But how do I capture this magical moment for others to discover too?<br>I want my audience to feel the whole experience. Not just the food part.<br><br>Since so few people are prepared to wrestle a bright white screaming number '3' until it shuts up, my role as the artist is to draw others a map so they can find their own way, at their own pace.<br>Curious ones like me deserve to know the very same joy I felt when the numbers really did add up in real life.<br>The price has gone up since. That grocery store receipt is a photo in time.<br><br>
 	nutrition label on back + QR code > portfolio<br>
 	portfolio artwork label<br>
 	plug-in + warm + chile oil = sensory smells appetizing<br>
