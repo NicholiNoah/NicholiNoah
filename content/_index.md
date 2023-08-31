@@ -22,3 +22,4 @@ Nicholi Noah is a mixed reality artist and immersive technologist specializing i
 
 Back to Oklahoma City in 2017, Nicholi purchased his first VR headset and set sight on the Metaverse. Soon contributing as a beta tester and moderator for NEOS, a virtual reality collaboration engine. Developing early mixed reality experiments while immersed in the culture of computer programming was the perfect environment for Nicholi to grow, ultimately collaborating on Open Source education tools with developers from Microsoft and Google.</br>
 
+Today, Nicholi is focusing all that virtual experience into the real world through art and education. Building accessiblity tools for creative minds.

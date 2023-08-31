@@ -2,7 +2,7 @@
 title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2023
 metaDescription:
 thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
-description: in honor of the most undervalued and overlooked component of any artpiece - the frame.
+description: wooden frame over video animation
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
 rank: 1
 ---
