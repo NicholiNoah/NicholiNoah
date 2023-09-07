@@ -6,7 +6,7 @@
       {{ range (.Data.Pages).ByParam "rank" }}
         <div class="col-md-4 post">
           <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
-          <p>{{ .Params.description | safeHTML }}</p>
+          <p>{{ .Params.description | safeHTML }}test</p>
           <a class="overlay" href="{{ .Permalink }}" aria-label="{{ .Params.title }}">
             <h2>{{ .Params.title | safeHTML }}</h2>
           </a>
