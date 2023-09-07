@@ -12,7 +12,9 @@ bannerHeight: 0vh
 </div>
 
 
+<i>My work is deceptively simple. Each piece is equal parts self-portrait, personal milestone, and science experiment. From tailor-made to Readymade, I pair found object art with custom written software. Breathing new life into everyday electronics purchased second-hand or found on the side of the road. Encoding knowledge and awareness into reflections of hope, belonging, and the desire to be seen.</i>
 
+-----------------------------------------------------
 
 From video camera to spatial media, Nicholi Noah is embedding accessible visions of abstract future into fine art and education. Wrapping the virtual Metaverse in real-world textures as immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool. Encouraging new conversations, empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.</br>
 
