@@ -1,68 +1,17 @@
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.2/dist/mindar-image.prod.js"></script>
     <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.2.2/dist/mindar-image-aframe.prod.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.2/dist/mindar-image-aframe.prod.js"></script>
   </head>
   <body>
-    <a-scene mindar-image="imageTargetSrc: ./assets/textures/unfoldingQR.mind; showStats: true;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
-      <a-assets>
-        <!-- Preload images -->
-        <img id="image0" src="./assets/textures/image0.jpg" />
-        <img id="image1" src="./assets/textures/image1.jpg" />
-        <img id="image2" src="./assets/textures/image2.jpg" />
-		<img id="image3" src="./assets/textures/image3.jpg" />
-		<img id="image4" src="./assets/textures/image4.jpg" />
-		<img id="image5" src="./assets/textures/image5.jpg" />
-		<img id="image6" src="./assets/textures/image6.jpg" />
-		<img id="image7" src="./assets/textures/image7.jpg" />
-		<img id="image8" src="./assets/textures/image8.jpg" />
-		<img id="image9" src="./assets/textures/image9.jpg" />
-		<img id="image10" src="./assets/textures/image10.jpg" />
-		<img id="image11" src="./assets/textures/image11.jpg" />
-		<img id="image12" src="./assets/textures/image12.jpg" />
-		<img id="image13" src="./assets/textures/image13.jpg" />
-		<img id="image14" src="./assets/textures/image14.jpg" />
-		<img id="image15" src="./assets/textures/image15.jpg" />
-
-      </a-assets>
-
+    <a-scene mindar-image="imageTargetSrc: ./textures/unfoldingQR.mind;" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
       <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
-
-      <!-- Create the AR circle with image target material -->
       <a-entity mindar-image-target="targetIndex: 0">
-        <a-sphere radius="0.95" transparent="true" opacity="0" material="side: double; src: #image0;"></a-sphere>
+        <a-plane color="blue" opaciy="0.5" position="0 0 0" height="0.552" width="1" rotation="0 0 0"></a-plane>
       </a-entity>
-
-      <!-- JavaScript to handle image change -->
-      <script>
-        const circle = document.querySelector('a-sphere');
-        const camera = document.querySelector('a-camera');
-
-        const imagesTotal = 16;
-        const textures = Array.from({ length: imagesTotal }, (_, index) => `#image${index}`);
-
-		// Set the initial material to "Image8.jpg"
-        circle.setAttribute('material', 'src', textures[8]);
-
-        camera.addEventListener('componentchanged', (event) => {
-          if (event.detail.name === 'rotation') {
-            const rotation = camera.getAttribute('rotation');
-            const axisY = rotation.y;
-            const stepSize = 0.05;
-
-            if (axisY <= -0.3) {
-              circle.setAttribute('material', 'src', textures[0]);
-            } else if (axisY >= 0.3) {
-              circle.setAttribute('material', 'src', textures[15]);
-            } else {
-              const index = Math.floor((axisY + 0.3) / stepSize);
-              circle.setAttribute('material', 'src', textures[index]);
-            }
-          }
-        });
-      </script>
     </a-scene>
   </body>
 </html>
