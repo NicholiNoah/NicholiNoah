@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script async src="https://unpkg.com/es-module-shims@1.7.3/dist/es-module-shims.js"></script>
+
+    <script type="importmap">
+      {
+        "imports": {
+    "three": "https://unpkg.com/three@0.153.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.153.0/examples/jsm/",
+    "mindar-image-three":"https://cdn.jsdelivr.net/npm/mind-ar@1.2.2/dist/mindar-image-three.prod.js"
+        }
+      }
+    </script>
+
+    <script type="module">
+
+		import * as THREE from 'three';
+		import { MindARThree } from 'mindar-image-three';
+
+		document.addEventListener('DOMContentLoaded', () => {
+		const start = async() => {
+			// initialize MindAR
+			const mindarThree = new MindARThree({
+			container: document.body,
+			imageTargetSrc: './assets/textures/unfoldingQR.mind',
+			});
+			const {renderer, scene, camera} = mindarThree;
+
+			// preload images
+			const imagesTotal = 16;
+			const imageNum = Array.from({length: imagesTotal}, (value, index) => index.toString());
+
+			const textureLoader = new THREE.TextureLoader();
+			const textures = [];
+
+			for (let i = 0; i < imageNum.length; i++) {
+			const texture = textureLoader.load(`./assets/textures/image${imageNum[i]}.jpg`);
+			textures.push(texture);
+			}
+
+			// create AR object
+			const geometry = new THREE.SphereGeometry(0.95, 32);
+			const material = new THREE.MeshBasicMaterial({map: textures[0], transparent: true, opacity: 0});
+			const plane = new THREE.Mesh(geometry, material);
+
+		const geoCircle = new THREE.SphereGeometry(1, 32);
+		const matCircle = new THREE.MeshBasicMaterial({
+		map: textures[0],
+		transparent: false,
+		opacity: 1,
+		side: THREE.BackSide
+		});
+		const circle = new THREE.Mesh(geoCircle, matCircle);
+		circle.rotation.y -= THREE.MathUtils.degToRad(270);
+		// circle.position.y += .5;
+
+
+
+
+
+			// create anchor
+			const anchor = mindarThree.addAnchor(0);
+			anchor.group.add(plane);
+			anchor.group.add(circle);
+
+			// start AR
+			await mindarThree.start();
+			renderer.setAnimationLoop(() => {
+			plane.lookAt(new THREE.Vector3());
+			const axisY = plane.rotation.y;
+
+		const stepSize = 0.025; // size of each step between -0.3 and 0.3
+		const numSteps = 16; // number of steps between -0.3 and 0.3
+
+		// distribute and change images according to axisY rotation
+		if (axisY <= -0.3) {
+		circle.material.map = textures[0];
+		} else if (axisY > 0.3) {
+		circle.material.map = textures[15];
+		} else {
+		const index = Math.floor((axisY + 0.3) / stepSize);
+		circle.material.map = textures[index];
+		}
+
+
+
+			renderer.render(scene, camera);
+			});
+
+
+
+		}
+		start();
+		});
+	</script>
+
+    <style>
+      html, body {position: relative; margin: 0; width: 100%; height: 100%; overflow: hidden}
+    </style>
+  </head>
+  <body>
+  </body>
+</html>
