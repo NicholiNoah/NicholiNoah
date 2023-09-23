@@ -29,12 +29,12 @@ summaryLength = 30
     identifier = "broadcast"
     name = "Broadcast"
     url = "/broadcast/"
-    weight = 4
+    weight = 5
   [[menu.nav]]
     identifier = "facilitator"
     name = "Facilitator"
     url = "/facilitator/hoodie/"
-    weight = 5
+    weight = 4
 	target = "blank"
   [[menu.nav]]
     identifier = "contact"
