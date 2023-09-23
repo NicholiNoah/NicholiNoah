@@ -12,12 +12,14 @@ bannerHeight: 0vh
 </div>
 
 
-From video camera to spatial media, Nicholi Noah is embedding accessible visions of abstract future into fine art and education. Wrapping the virtual Metaverse in real-world textures as immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool. Encouraging new conversations, empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.</br>
+From video camera to spatial media, Nicholi Noah is embedding accessible visions of abstract future into fine art and education. Wrapping the virtual Metaverse in real-world textures as immersive displays of empathy, compassion, and humanity in electronics. Influenced by international travel and a love for world culture, Nicholi embraces challenge as a creative tool. Encouraging new conversations, empowering young artists to push the limits of their own understanding and self-awareness through an open philosophy of personal growth in storytelling.</br></br>
 
-Preferring creatively-learned knowledge over traditional education, Nicholi seeks out alternative methods to learn through curiosity.</br>
+---------------------------
 
-Nicholi Noah is a mixed reality artist and immersive technologist specializing in accessibility and culturally aware content. Fascinated with analog VHS tape-to-tape and computer animation in the mid-‘90s, Nicholi set sight on a 25-year digital video career spanning broadcast, film, and virtual education. Both career and curiosity pushed Nicholi to travel the world, leading to a six-year stint hustling advertising in Detroit while documenting street art with local graffiti writers.</br>
+Hi, I'm Nicholi.</br>A mixed reality artist and immersive technologist specializing in accessibility and culturally aware content. Fascinated with analog VHS tape-to-tape and computer animation in the mid-‘90s, I've always sought out alternative methods to learning visually. Leading to a 25-year digital video career spanning broadcast, film, and virtual education. In 2011, Both career and curiosity pushed me to strap on a backpack to travel the world for a year before landing a six-year stint hustling advertising in Detroit while documenting street art with local graffiti writers.</br>
 
-Back to Oklahoma City in 2017, Nicholi purchased his first VR headset and set sight on the Metaverse. Soon contributing as a beta tester and moderator for NEOS, a virtual reality collaboration engine. Developing early mixed reality experiments while immersed in the culture of computer programming was the perfect environment for Nicholi to grow, ultimately collaborating on Open Source education tools with developers from Microsoft and Google.</br>
+Back to Oklahoma City in 2017, I bought my first VR headset and focused on the Metaverse. Digging deeper than the shallow "social VR" facade, I spent several hundreds of hours collaborating on Open Source education tools with developers from Microsoft and Google. Learning to code while immersed in the environment I was coding was the experience I needed to finally grasp how computer programming and the technology we carry in our pockets are powertools for accessible communication.</br></br>
 
-Today, Nicholi is focusing all that virtual experience into the real world through art and education. Building accessiblity tools for creative minds.
+Now I'm drawing all that knowledge out into the real world through artworks designed for others to share the same profound moments I had - without having to wear a headset.</br></br>
+
+Weaving virtual textures into tangible materials so you can hold the experience in your hand.
