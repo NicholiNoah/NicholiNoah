@@ -31,9 +31,9 @@ summaryLength = 30
     url = "/broadcast/"
     weight = 4
   [[menu.nav]]
-    identifier = "resume"
-    name = "Resumé"
-    url = "/resume/NicholiNoah_resume23.pdf"
+    identifier = "facilitator"
+    name = "Facilitator"
+    url = "/facilitator/hoodie/"
     weight = 5
 	target = "blank"
   [[menu.nav]]

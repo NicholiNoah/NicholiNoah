@@ -2,7 +2,8 @@
 
 <section class="blog topmost-section">
   <div class="container">
-    <div class="row blog-posts">
+
+	<div class="row blog-posts">
       {{ range (.Data.Pages).ByParam "rank" }}
         <div class="col-md-4 post">
           <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
@@ -13,6 +14,15 @@
         </div>
       {{ end }}
     </div>
+
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+		  <p><a href="/resume/nicholinoah_resume23.pdf">Click here to download Resumé</a>
+		  </p>
+		</div>
+	</div>
+
   </div>
 </section>
 
