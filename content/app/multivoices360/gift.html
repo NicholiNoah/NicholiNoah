@@ -57,9 +57,32 @@
 		side: THREE.BackSide
 		});
 		const circle = new THREE.Mesh(geoCircle, matCircle);
-		circle.rotation.y = THREE.MathUtils.degToRad(270);
-		// circle.position.y += .5;
 
+		let touchStartX = 0;
+		let touchEndX = 0;
+
+		// Event listeners for touch events
+		renderer.domElement.addEventListener('touchstart', (event) => {
+			const touch = event.touches[0];
+			touchStartX = touch.clientX;
+		});
+
+		renderer.domElement.addEventListener('touchmove', (event) => {
+			const touch = event.touches[0];
+			touchEndX = touch.clientX;
+
+			const deltaX = touchEndX - touchStartX;
+
+			// Rotate the 'circle' mesh based on touch movement
+			circle.rotation.y += deltaX * 0.01;
+
+			touchStartX = touchEndX;
+
+			renderer.render(scene, camera);
+
+			// Prevent default vertical scrolling behavior
+			event.preventDefault();
+		});
 
 
 			// create anchor
