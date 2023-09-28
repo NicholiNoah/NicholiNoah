@@ -61,28 +61,36 @@
 		let touchStartX = 0;
 		let touchEndX = 0;
 
-		// Event listeners for touch events
-		renderer.domElement.addEventListener('touchstart', (event) => {
+		// Variables to control rotation speed
+		const rotationSpeed = 0.01;
+
+		// Event listeners for touch events on the document body
+		document.body.addEventListener('touchstart', (event) => {
 			const touch = event.touches[0];
 			touchStartX = touch.clientX;
 		});
 
-		renderer.domElement.addEventListener('touchmove', (event) => {
+		document.body.addEventListener('touchmove', (event) => {
 			const touch = event.touches[0];
 			touchEndX = touch.clientX;
 
 			const deltaX = touchEndX - touchStartX;
 
 			// Rotate the 'circle' mesh based on touch movement
-			circle.rotation.y += deltaX * 0.01;
+			circle.rotation.y += deltaX * rotationSpeed;
 
 			touchStartX = touchEndX;
 
 			renderer.render(scene, camera);
 
-			// Prevent default vertical scrolling behavior
+			// Prevent default touchmove behavior
 			event.preventDefault();
 		});
+
+		document.body.addEventListener('touchend', () => {
+			// You can add any cleanup or additional logic here if needed
+		});
+
 
 
 			// create anchor
