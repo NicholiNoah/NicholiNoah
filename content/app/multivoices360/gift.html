@@ -31,7 +31,7 @@
 			const {renderer, scene, camera} = mindarThree;
 
 			// preload images
-			const imagesTotal = 3;
+			const imagesTotal = 16;
 			const imageNum = Array.from({length: imagesTotal}, (value, index) => index.toString());
 
 			const textureLoader = new THREE.TextureLoader();
@@ -74,7 +74,7 @@
 			const axisY = plane.rotation.y;
 
 		const stepSize = 0.025; // size of each step between -0.3 and 0.3
-		const numSteps = 3; // number of steps between -0.3 and 0.3
+		const numSteps = 16; // number of steps between -0.3 and 0.3
 
 		// distribute and change images according to axisY rotation
 		if (axisY <= -0.3) {
