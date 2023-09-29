@@ -30,63 +30,38 @@
 
         // Variables to store touch event data
         let touchStartX = 0;
-        let touchEndX = 0;
-        let isSwiping = false;
-        let previousTouchTimestamp = 0;
-        let angularVelocity = 0;
+		let touchEndX = 0;
 
-        // Constants to control the damping and acceleration
-        const dampingFactor = 0.95; // Adjust this for damping effect
-        const accelerationFactor = 0.0005; // Adjust this for acceleration
+		// Variables to control rotation speed
+		const rotationSpeed = 0.01;
 
-        // Event listeners for touch events on the document body
-        document.body.addEventListener('touchstart', (event) => {
-            const touch = event.touches[0];
-            touchStartX = touch.clientX;
-            isSwiping = true;
-            previousTouchTimestamp = performance.now();
-            angularVelocity = 0; // Reset angular velocity
-        });
+		// Event listeners for touch events on the document body
+		document.body.addEventListener('touchstart', (event) => {
+			const touch = event.touches[0];
+			touchStartX = touch.clientX;
+		});
 
-        document.body.addEventListener('touchmove', (event) => {
-            if (!isSwiping) return;
+		document.body.addEventListener('touchmove', (event) => {
+			const touch = event.touches[0];
+			touchEndX = touch.clientX;
 
-            const touch = event.touches[0];
-            touchEndX = touch.clientX;
+			const deltaX = touchEndX - touchStartX;
 
-            const deltaTime = performance.now() - previousTouchTimestamp;
-            const deltaX = touchEndX - touchStartX;
+			// Rotate the 'circle' mesh based on touch movement
+			circle.rotation.y += deltaX * rotationSpeed;
 
-            // Calculate angular velocity based on swipe speed
-            angularVelocity = (deltaX / deltaTime) * accelerationFactor;
+			touchStartX = touchEndX;
 
-            // Rotate the cube based on angular velocity
-            cube.rotation.y += angularVelocity;
+			renderer.render(scene, camera);
 
-            touchStartX = touchEndX;
-            previousTouchTimestamp = performance.now();
+			// Prevent default touchmove behavior
+			event.preventDefault();
+		});
 
-            renderer.render(scene, camera);
+		document.body.addEventListener('touchend', () => {
+			// You can add any cleanup or additional logic here if needed
+		});
 
-            // Prevent default touchmove behavior
-            event.preventDefault();
-        });
-
-        document.body.addEventListener('touchend', () => {
-            isSwiping = false;
-
-            // Apply damping effect to gradually slow down rotation
-            const updateAngularVelocity = () => {
-                if (!isSwiping && Math.abs(angularVelocity) > 0.001) {
-                    angularVelocity *= dampingFactor;
-                    cube.rotation.y += angularVelocity;
-                    renderer.render(scene, camera);
-                    requestAnimationFrame(updateAngularVelocity);
-                }
-            };
-
-            updateAngularVelocity();
-        });
 
         // Render the scene
         renderer.render(scene, camera);
