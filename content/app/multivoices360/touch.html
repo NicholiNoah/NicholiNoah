@@ -2,9 +2,21 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Three.js Cube</title>
     <style>
-        body { margin: 0; overflow: hidden; } /* Add overflow: hidden to prevent page scrolling */
+        body { margin: 0; overflow: hidden; position: relative; }
+        #link-button {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -65,6 +77,20 @@
 
         // Render the scene
         renderer.render(scene, camera);
+
+		// Function to handle button click
+        function openNewURL() {
+            // Replace 'new_url.html' with the URL you want to link to within your website
+            window.location.href = './gift.html';
+        }
+
+        // Create a button element and add it to the body
+        const linkButton = document.createElement('button');
+        linkButton.textContent = 'Go to New Page';
+        linkButton.id = 'link-button';
+        linkButton.addEventListener('click', openNewURL);
+        document.body.appendChild(linkButton);
+
     </script>
 </body>
 </html>
