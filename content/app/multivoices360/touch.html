@@ -28,75 +28,65 @@
         // Set the initial position of the camera
         camera.position.z = 5;
 
-        // Function to handle window resizing
-        function onWindowResize() {
-            camera.aspect = window.innerWidth / window.innerHeight;
-            camera.updateProjectionMatrix();
-            renderer.setSize(window.innerWidth, window.innerHeight);
-        }
-
-        window.addEventListener('resize', onWindowResize);
-
         // Variables to store touch event data
         let touchStartX = 0;
-		let touchEndX = 0;
-		let isSwiping = false;
-		let previousTouchTimestamp = 0;
-		let angularVelocity = 0;
+        let touchEndX = 0;
+        let isSwiping = false;
+        let previousTouchTimestamp = 0;
+        let angularVelocity = 0;
 
-		// Constants to control the damping and acceleration
-		const dampingFactor = 0.95; // Adjust this for damping effect
-		const accelerationFactor = 0.0005; // Adjust this for acceleration
+        // Constants to control the damping and acceleration
+        const dampingFactor = 0.95; // Adjust this for damping effect
+        const accelerationFactor = 0.0005; // Adjust this for acceleration
 
-		// Event listeners for touch events on the document body
-		document.body.addEventListener('touchstart', (event) => {
-			const touch = event.touches[0];
-			touchStartX = touch.clientX;
-			isSwiping = true;
-			previousTouchTimestamp = performance.now();
-			angularVelocity = 0; // Reset angular velocity
-		});
+        // Event listeners for touch events on the document body
+        document.body.addEventListener('touchstart', (event) => {
+            const touch = event.touches[0];
+            touchStartX = touch.clientX;
+            isSwiping = true;
+            previousTouchTimestamp = performance.now();
+            angularVelocity = 0; // Reset angular velocity
+        });
 
-		document.body.addEventListener('touchmove', (event) => {
-			if (!isSwiping) return;
+        document.body.addEventListener('touchmove', (event) => {
+            if (!isSwiping) return;
 
-			const touch = event.touches[0];
-			touchEndX = touch.clientX;
+            const touch = event.touches[0];
+            touchEndX = touch.clientX;
 
-			const deltaTime = performance.now() - previousTouchTimestamp;
-			const deltaX = touchEndX - touchStartX;
+            const deltaTime = performance.now() - previousTouchTimestamp;
+            const deltaX = touchEndX - touchStartX;
 
-			// Calculate angular velocity based on swipe speed
-			angularVelocity = (deltaX / deltaTime) * accelerationFactor;
+            // Calculate angular velocity based on swipe speed
+            angularVelocity = (deltaX / deltaTime) * accelerationFactor;
 
-			// Rotate the 'circle' mesh based on angular velocity
-			circle.rotation.y += angularVelocity;
+            // Rotate the cube based on angular velocity
+            cube.rotation.y += angularVelocity;
 
-			touchStartX = touchEndX;
-			previousTouchTimestamp = performance.now();
+            touchStartX = touchEndX;
+            previousTouchTimestamp = performance.now();
 
-			renderer.render(scene, camera);
+            renderer.render(scene, camera);
 
-			// Prevent default touchmove behavior
-			event.preventDefault();
-		});
+            // Prevent default touchmove behavior
+            event.preventDefault();
+        });
 
-		document.body.addEventListener('touchend', () => {
-			isSwiping = false;
+        document.body.addEventListener('touchend', () => {
+            isSwiping = false;
 
-			// Apply damping effect to gradually slow down rotation
-			const updateAngularVelocity = () => {
-				if (!isSwiping && Math.abs(angularVelocity) > 0.001) {
-					angularVelocity *= dampingFactor;
-					circle.rotation.y += angularVelocity;
-					renderer.render(scene, camera);
-					requestAnimationFrame(updateAngularVelocity);
-				}
-			};
+            // Apply damping effect to gradually slow down rotation
+            const updateAngularVelocity = () => {
+                if (!isSwiping && Math.abs(angularVelocity) > 0.001) {
+                    angularVelocity *= dampingFactor;
+                    cube.rotation.y += angularVelocity;
+                    renderer.render(scene, camera);
+                    requestAnimationFrame(updateAngularVelocity);
+                }
+            };
 
-			updateAngularVelocity();
-		});
-
+            updateAngularVelocity();
+        });
 
         // Render the scene
         renderer.render(scene, camera);
