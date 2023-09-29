@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Three.js Cube</title>
+    <style>
+        body { margin: 0; overflow: hidden; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js"></script>
+    <script>
+        // Initialize Three.js scene, camera, and renderer
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer();
+
+        // Set renderer size and append to the document
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        // Create a cube with a normal material
+        const geometry = new THREE.BoxGeometry();
+        const material = new THREE.MeshNormalMaterial();
+        const cube = new THREE.Mesh(geometry, material);
+        scene.add(cube);
+
+        // Set the initial position of the camera
+        camera.position.z = 5;
+
+        // Function to handle window resizing
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        window.addEventListener('resize', onWindowResize);
+
+        // Variables to store touch event data
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        // Event listeners for touch events
+        renderer.domElement.addEventListener('touchstart', (event) => {
+            const touch = event.touches[0];
+            touchStartX = touch.clientX;
+        });
+
+        renderer.domElement.addEventListener('touchmove', (event) => {
+            const touch = event.touches[0];
+            touchEndX = touch.clientX;
+
+            const deltaX = touchEndX - touchStartX;
+
+            cube.rotation.y += deltaX * 0.01;
+
+            touchStartX = touchEndX;
+
+            renderer.render(scene, camera);
+        });
+
+        // Render the scene
+        renderer.render(scene, camera);
+    </script>
+</body>
+</html>

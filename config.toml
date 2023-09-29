@@ -29,18 +29,12 @@ summaryLength = 30
     identifier = "broadcast"
     name = "Broadcast"
     url = "/broadcast/"
-    weight = 5
-  [[menu.nav]]
-    identifier = "facilitator"
-    name = "Facilitator"
-    url = "/facilitator/hoodie/"
     weight = 4
-	target = "blank"
   [[menu.nav]]
     identifier = "contact"
     name = "email: career@nicholinoah.com"
     url = "mailto:career@nicholinoah.com"
-    weight = 6
+    weight = 5
 
 
 [security]
