@@ -79,8 +79,9 @@ rank: 1
 				People stood in front of it, staring and taking pictures.</br>
 				I knew I had a hit, and am re-making a better one.</br></br>
 				This time showcasing the frame I found on the side of the road on big trash day.</br></br>
-				Previously garbage, now presented as a one-of-a-kind story of its own.</br>
-				Jettisoned into eternal cyberspace.</br>
+				Previously garbage, now presented as a one-of-a-kind story of its own.</br></br>
+				The animation is programmed into a Raspberry Pi microcomputer as a live 3D environment, custom written in Python script.</br>
+				Each iteration of the 3D frame is uniquely jettisoned into infinite cyberspace.</br>
 				Always the same direction, never the same perspective.</br>
 				</br>
 	</p>
