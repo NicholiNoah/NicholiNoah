@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Three.js Cube</title>
     <style>
-        body { margin: 0; overflow: hidden; }
+        body { margin: 0; overflow: hidden; } /* Add overflow: hidden to prevent page scrolling */
     </style>
 </head>
 <body>
@@ -28,40 +28,40 @@
         // Set the initial position of the camera
         camera.position.z = 5;
 
+        // Function to handle window resizing
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        window.addEventListener('resize', onWindowResize);
+
         // Variables to store touch event data
         let touchStartX = 0;
-		let touchEndX = 0;
+        let touchEndX = 0;
 
-		// Variables to control rotation speed
-		const rotationSpeed = 0.01;
+        // Event listeners for touch events
+        renderer.domElement.addEventListener('touchstart', (event) => {
+            const touch = event.touches[0];
+            touchStartX = touch.clientX;
+        });
 
-		// Event listeners for touch events on the document body
-		document.body.addEventListener('touchstart', (event) => {
-			const touch = event.touches[0];
-			touchStartX = touch.clientX;
-		});
+        renderer.domElement.addEventListener('touchmove', (event) => {
+            const touch = event.touches[0];
+            touchEndX = touch.clientX;
 
-		document.body.addEventListener('touchmove', (event) => {
-			const touch = event.touches[0];
-			touchEndX = touch.clientX;
+            const deltaX = touchEndX - touchStartX;
 
-			const deltaX = touchEndX - touchStartX;
+            cube.rotation.y += deltaX * 0.01;
 
-			// Rotate the 'circle' mesh based on touch movement
-			circle.rotation.y += deltaX * rotationSpeed;
+            touchStartX = touchEndX;
 
-			touchStartX = touchEndX;
+            renderer.render(scene, camera);
 
-			renderer.render(scene, camera);
-
-			// Prevent default touchmove behavior
-			event.preventDefault();
-		});
-
-		document.body.addEventListener('touchend', () => {
-			// You can add any cleanup or additional logic here if needed
-		});
-
+            // Prevent default vertical scrolling behavior
+            event.preventDefault();
+        });
 
         // Render the scene
         renderer.render(scene, camera);
