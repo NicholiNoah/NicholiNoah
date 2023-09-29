@@ -8,7 +8,7 @@ rank: 1
 ---
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; text-align: center; margin-top: -1%">Wood frame, microcomputer, Python script, 3D scan, lcd television</br>30 in x 42 in, non-repeating infinite loop</p>
+    <p style="font-family: arial; text-align: center; margin-top: -1%">Wood frame, microcomputer, Python script, 3D scan, lcd television</br>30 in x 42 in, non-repeating animation</p>
   </div>
 </div>
 
