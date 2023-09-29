@@ -23,12 +23,6 @@
 
 		document.addEventListener('DOMContentLoaded', () => {
 		const start = async() => {
-			// initialize MindAR
-			const mindarThree = new MindARThree({
-			container: document.body,
-			imageTargetSrc: './assets/textures/unfoldingQR.mind',
-			});
-			const {renderer, scene, camera} = mindarThree;
 
 			// preload images
 			const imagesTotal = 16;
@@ -43,6 +37,13 @@
 				});
 			textures.push(texture);
 			}
+
+			// initialize MindAR
+			const mindarThree = new MindARThree({
+			container: document.body,
+			imageTargetSrc: './assets/textures/unfoldingQR.mind',
+			});
+			const {renderer, scene, camera} = mindarThree;
 
 			// create AR object
 			const geometry = new THREE.SphereGeometry(0.95, 32);
