@@ -8,7 +8,7 @@ rank: 4
 ---
 <div class="row">
   <div class="col-md-12">
-    <p style="font-family: arial; text-align: center; margin-top: -1%">augmented reality QR code on paper</br>3 in x 3 in</p>
+    <p style="font-family: arial; text-align: center; margin-top: -1%">augmented reality QR code on paper, JavaScript</br>3 in x 3 in</p>
   </div>
 </div>
 
