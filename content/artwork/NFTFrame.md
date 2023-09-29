@@ -74,11 +74,11 @@ rank: 1
 	<p style="font-family: arial">
 	<i>NFT (the Frame Stays In the Picture)</i> is in itself a paradox of concepts.</br>
 				Non-Fungible animation existing only in virtual form.</br>
-				as a digital 3D scan of a very fungible real-life wooden frame.</br>
+				As a digital 3D scan of a very fungible real-life wooden frame.</br></br>
 				I first exhibited a prototype of this art piece in 2021.</br>
 				People stood in front of it, staring and taking pictures.</br>
 				I knew I had a hit, and am re-making a better one.</br></br>
-				This time showcasing the frame I found on the side of the road on big trash day.</br></br>
+				This time showcasing the frame I found on the side of the road on big trash day.</br>
 				Previously garbage, now presented as a one-of-a-kind story of its own.</br></br>
 				The animation is programmed into a Raspberry Pi microcomputer as a live 3D environment, custom written in Python script.</br>
 				Each iteration of the 3D frame is uniquely jettisoned into infinite cyberspace.</br>
