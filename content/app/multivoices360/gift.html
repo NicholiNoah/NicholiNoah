@@ -23,12 +23,6 @@
 
 		document.addEventListener('DOMContentLoaded', () => {
 		const start = async() => {
-			// initialize MindAR
-			const mindarThree = new MindARThree({
-			container: document.body,
-			imageTargetSrc: './assets/unfoldingQR.mind',
-			});
-			const {renderer, scene, camera} = mindarThree;
 
 			// preload images
 			const imagesTotal = 16;
@@ -44,89 +38,92 @@
 			textures.push(texture);
 			}
 
+			// initialize MindAR
+			const mindarThree = new MindARThree({
+			container: document.body,
+			imageTargetSrc: './assets/unfoldingQR.mind',
+			});
+			const {renderer, scene, camera} = mindarThree;
+
 			// create AR object
 			const geometry = new THREE.SphereGeometry(0.95, 32);
 			const material = new THREE.MeshBasicMaterial({map: textures[0], transparent: true, opacity: 0});
 			const plane = new THREE.Mesh(geometry, material);
 
-		const geoCircle = new THREE.SphereGeometry(1, 32);
-		const matCircle = new THREE.MeshBasicMaterial({
-		map: textures[0],
-		transparent: false,
-		opacity: 1,
-		side: THREE.BackSide
-		});
-		const circle = new THREE.Mesh(geoCircle, matCircle);
+			const geoCircle = new THREE.SphereGeometry(1, 32);
+			const matCircle = new THREE.MeshBasicMaterial({
+			map: textures[0],
+			transparent: false,
+			opacity: 1,
+			side: THREE.BackSide
+			});
+			const circle = new THREE.Mesh(geoCircle, matCircle);
 
-		let touchStartX = 0;
-		let touchEndX = 0;
+			let touchStartX = 0;
+			let touchEndX = 0;
 
-		// Variables to control rotation speed
-		const rotationSpeed = 0.01;
+			// Variables to control rotation speed
+			const rotationSpeed = 0.01;
 
-		// Event listeners for touch events on the document body
-		document.body.addEventListener('touchstart', (event) => {
-			const touch = event.touches[0];
-			touchStartX = touch.clientX;
-		});
+			// Event listeners for touch events on the document body
+			document.body.addEventListener('touchstart', (event) => {
+				const touch = event.touches[0];
+				touchStartX = touch.clientX;
+			});
 
-		document.body.addEventListener('touchmove', (event) => {
-			const touch = event.touches[0];
-			touchEndX = touch.clientX;
+			document.body.addEventListener('touchmove', (event) => {
+				const touch = event.touches[0];
+				touchEndX = touch.clientX;
 
-			const deltaX = touchEndX - touchStartX;
+				const deltaX = touchEndX - touchStartX;
 
-			// Rotate the 'circle' mesh based on touch movement
-			circle.rotation.y += deltaX * rotationSpeed;
+				// Rotate the 'circle' mesh based on touch movement
+				circle.rotation.y += deltaX * rotationSpeed;
 
-			touchStartX = touchEndX;
+				touchStartX = touchEndX;
 
-			renderer.render(scene, camera);
+				renderer.render(scene, camera);
 
-			// Prevent default touchmove behavior
-			event.preventDefault();
-		});
+				// Prevent default touchmove behavior
+				event.preventDefault();
+			});
 
-		document.body.addEventListener('touchend', () => {
-			// You can add any cleanup or additional logic here if needed
-		});
-
-
-
-			// create anchor
-			const anchor = mindarThree.addAnchor(0);
-			anchor.group.add(plane);
-			anchor.group.add(circle);
-
-			// start AR
-			await mindarThree.start();
-			renderer.setAnimationLoop(() => {
-			plane.lookAt(new THREE.Vector3());
-			const axisY = plane.rotation.y;
-
-		const stepSize = 0.025; // size of each step between -0.3 and 0.3
-		const numSteps = 16; // number of steps between -0.3 and 0.3
-
-		// distribute and change images according to axisY rotation
-		if (axisY <= -0.3) {
-		circle.material.map = textures[0];
-		} else if (axisY > 0.3) {
-		circle.material.map = textures[15];
-		} else {
-		const index = Math.floor((axisY + 0.3) / stepSize);
-		circle.material.map = textures[index];
-		}
-
-
-
-			renderer.render(scene, camera);
+			document.body.addEventListener('touchend', () => {
+				// You can add any cleanup or additional logic here if needed
 			});
 
 
 
-		}
-		start();
-		});
+				// create anchor
+				const anchor = mindarThree.addAnchor(0);
+				anchor.group.add(plane);
+				anchor.group.add(circle);
+
+				// start AR
+				await mindarThree.start();
+				renderer.setAnimationLoop(() => {
+				plane.lookAt(new THREE.Vector3());
+				const axisY = plane.rotation.y;
+
+			const stepSize = 0.025; // size of each step between -0.3 and 0.3
+			const numSteps = 16; // number of steps between -0.3 and 0.3
+
+			// distribute and change images according to axisY rotation
+			if (axisY <= -0.3) {
+			circle.material.map = textures[0];
+			} else if (axisY > 0.3) {
+			circle.material.map = textures[15];
+			} else {
+			const index = Math.floor((axisY + 0.3) / stepSize);
+			circle.material.map = textures[index];
+			}
+
+				renderer.render(scene, camera);
+				});
+
+			}
+			start();
+			});
 	</script>
 
     <style>
