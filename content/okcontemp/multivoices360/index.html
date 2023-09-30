@@ -22,6 +22,8 @@
 		document.addEventListener('DOMContentLoaded', () => {
 		const start = async() => {
 
+			let circleRotation = -THREE.MathUtils.degToRad(270);
+
 			// preload images
 			const imagesTotal = 16;
 			const imageNum = Array.from({length: imagesTotal}, (value, index) => index.toString());
@@ -76,7 +78,7 @@
 				const deltaX = touchEndX - touchStartX;
 
 				// Rotate the 'circle' mesh based on touch movement
-				circle.rotation.y += deltaX * rotationSpeed;
+				circleRotation += deltaX * rotationSpeed;
 
 				touchStartX = touchEndX;
 
