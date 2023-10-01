@@ -119,6 +119,34 @@
 				renderer.render(scene, camera);
 				});
 
+
+			// Function to handle button click
+			function openNewURL() {
+				// Replace 'example.com/url' with the actual URL you want to link to
+				window.location.href = 'https://oklahomacontemporary.org/support/donate';
+			}
+
+			// Create a button element and add it to the body
+			const linkButton = document.createElement('button');
+			linkButton.textContent = 'Call To Action';
+			linkButton.id = 'link-button';
+			linkButton.addEventListener('click', openNewURL);
+			document.body.appendChild(linkButton);
+
+			// Style the button to position it at the bottom center
+			linkButton.style.position = 'absolute';
+			linkButton.style.bottom = '10px';
+			linkButton.style.left = '50%';
+			linkButton.style.transform = 'translateX(-50%)';
+			linkButton.style.padding = '10px 20px';
+			linkButton.style.backgroundColor = '#007bff';
+			linkButton.style.color = '#fff';
+			linkButton.style.border = 'none';
+			linkButton.style.cursor = 'pointer';
+
+			// Add a z-index property to ensure the button is displayed on top
+			linkButton.style.zIndex = '999';
+
 			}
 			start();
 			});
