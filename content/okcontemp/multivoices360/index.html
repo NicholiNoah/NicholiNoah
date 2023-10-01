@@ -76,7 +76,7 @@
 				const deltaX = touchEndX - touchStartX;
 
 				// Rotate the 'circle' mesh based on touch movement
-				circle.rotation.y += deltaX * rotationSpeed;
+				circle.rotation.y -= deltaX * rotationSpeed;
 
 				touchStartX = touchEndX;
 
