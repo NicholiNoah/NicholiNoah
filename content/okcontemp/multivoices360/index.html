@@ -123,7 +123,8 @@
 			// Function to handle button click
 			function openNewURL() {
 				// Replace 'example.com/url' with the actual URL you want to link to
-				window.location.href = 'https://oklahomacontemporary.org/support/donate';
+				const newWindow = window.open('https://oklahomacontemporary.org/support/donate', '_blank');
+				newWindow.focus();
 			}
 
 			// Create a button element and add it to the body
