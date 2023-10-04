@@ -52,7 +52,7 @@
 
 			const geoCircle = new THREE.SphereGeometry(1, 32);
 			const matCircle = new THREE.MeshBasicMaterial({
-			map: textures[0],
+			map: textures[8],
 			transparent: false,
 			opacity: 1,
 			side: THREE.BackSide
@@ -106,17 +106,38 @@
 				plane.lookAt(new THREE.Vector3());
 				const axisY = plane.rotation.y;
 
-			const stepSize = 0.025; // size of each step between -0.3 and 0.3
+			const stepSize = Math.PI / 70;
 			const numSteps = 16; // number of steps between -0.3 and 0.3
 
+			// Adjusted view angle to 160 degrees
+			const totalAngle = Math.PI * (160 / 180); // 160 degrees converted to radians
+
 			// distribute and change images according to axisY rotation
-			if (axisY <= -0.3) {
-			circle.material.map = textures[0];
-			} else if (axisY > 0.3) {
-			circle.material.map = textures[15];
+			if (axisY <= -totalAngle / 2) {
+				circle.material.map = textures[0];
+				console.log("Displayed image: image0.jpg");
+			} else if (axisY >= totalAngle / 2) {
+				circle.material.map = textures[15];
+				console.log("Displayed image: image15.jpg");
 			} else {
-			const index = Math.floor((axisY + 0.3) / stepSize);
-			circle.material.map = textures[index];
+				// Define a midpoint where image8.jpg should be displayed
+				const midpoint = 0; // You can adjust this value as needed
+
+				// Calculate the index based on the distance from the midpoint
+				let distanceFromMidpoint = axisY - midpoint;
+
+				// Calculate the index relative to the total angle and the number of images
+				let index = Math.round((distanceFromMidpoint / totalAngle) * 15) + 8; // Add 8 to set image8.jpg as the midpoint
+
+				// Ensure that the index stays within the valid range (0 to 15)
+				if (index < 0) {
+					index = 0;
+				} else if (index > 15) {
+					index = 15;
+				}
+
+				circle.material.map = textures[index];
+				console.log(`Displayed image: image${index}.jpg`);
 			}
 
 				renderer.render(scene, camera);
