@@ -24,15 +24,22 @@
 		  left: 20%;
 		  transform: translateX(-50%);
 		  cursor: pointer;
-		  max-width: 25%; /* Default maximum width */
+		  max-width: 100%; /* Default maximum width for mobile */
 		  height: auto; /* Allow the button's height to adjust proportionally */
 		  z-index: 999; /* Ensure the button is displayed on top */
 		}
 
 		@media screen and (max-width: 768px) {
-		  /* Adjust the max-width for screens with a width of 768px or less */
+		  /* Adjust the max-width for screens with a width of 768px or less (mobile) */
 		  .responsive-button {
-			max-width: 20%; /* Set a different maximum width for smaller screens */
+			max-width: 20%; /* Set a different maximum width for mobile devices */
+		  }
+		}
+
+		@media screen and (min-width: 769px) {
+		  /* Adjust the max-width for screens with a width of 769px or more (desktop) */
+		  .responsive-button {
+			max-width: 5%; /* Set a different maximum width for desktop devices */
 		  }
 		}
 	  </style>
