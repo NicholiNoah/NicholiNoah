@@ -19,7 +19,7 @@
 	<style>
 		html, body {position: relative; margin: 0; width: 100%; height: 100%; overflow: hidden}
 
-		.responsive-button {
+		.left-button {
 		  position: absolute;
 		  bottom: 10px;
 		  left: 20%;
@@ -33,7 +33,7 @@
 		.right-button {
 		  position: absolute;
 		  bottom: 10px;
-		  left: 70%; /* Adjust the right position */
+		  left: 75%; /* Adjust the right position */
 		  transform: translateX(50%);
 		  cursor: pointer;
 		  max-width: 100%; /* Default maximum width for mobile */
@@ -43,7 +43,7 @@
 
 		@media screen and (max-width: 768px) {
 		  /* Adjust the max-width for screens with a width of 768px or less (mobile) */
-		  .responsive-button {
+		  .left-button {
 			max-width: 20%; /* Set a different maximum width for mobile devices */
 		  }
 		  .right-button {
@@ -53,7 +53,7 @@
 
 		@media screen and (min-width: 769px) {
 		  /* Adjust the max-width for screens with a width of 769px or more (desktop) */
-		  .responsive-button {
+		  .left-button {
 			max-width: 5%; /* Set a different maximum width for desktop devices */
 		  }
 		  .right-button {
@@ -194,7 +194,7 @@
 			const leftBtnImage = document.createElement('img');
 			leftBtnImage.src = './assets/buttons/logoOKContemp.png'; // Set the image source to your 'btn1.png' location
 			leftBtnImage.alt = 'Click Here to DONATE';
-			leftBtnImage.classList.add('responsive-button'); // Add the responsive-button class
+			leftBtnImage.classList.add('left-button'); // Add the responsive-button class
 
 			// Add a click event listener to open a URL when the image is clicked
 			leftBtnImage.addEventListener('click', () => {
@@ -210,7 +210,7 @@
 			const rightBtnImage = document.createElement('img');
 			rightBtnImage.src = './assets/buttons/initialsNN.png'; // Set the image source for the right button
 			rightBtnImage.alt = 'Click Here for Another Action';
-			rightBtnImage.classList.add('responsive-button', 'right-button'); // Add classes for positioning
+			rightBtnImage.classList.add('left-button', 'right-button'); // Add classes for positioning
 
 			// Add a click event listener for the right button (you can update the URL or action as needed)
 			rightBtnImage.addEventListener('click', () => {
