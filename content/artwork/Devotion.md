@@ -29,7 +29,7 @@ rank: 2
   </div>
   <div class="col-md-10">
     <p style="font-family: arial">"How is this art??? ...I could have done that."</br></br>
-	<i>Devotion ($3/day)</i> promotes continued conversation on 'value of content vs. appeal of branding', a counterpoint to Andy Warhol's <i>Campbell's Soup</i> series, and palpable commentary on consumer media consumption.</br>
+	<i>Devotion ($3/day)</i> promotes continued conversation on 'value of content vs. appeal of branding', a counterpoint to Andy Warhol's <i>Campbell's Soup</i> series, and palpable commentary on social media consumption.</br>
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of the artist's process, shaped into a portrait of humanity every person can relate to: the need for food.</br>
 	Baiting the audience to critique with "How is this art??? ...I could have done that." Devotion responds, "Yes."</br></br>
 	Not discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment.</br>
