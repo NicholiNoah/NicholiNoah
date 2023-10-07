@@ -22,7 +22,7 @@ summaryLength = 30
   [[menu.nav]]
     identifier = "cv"
     name = "CV"
-    url = "/cv/NicholiNoahCV231006.pdf"
+    url = "/cv/NicholiNoahCV2023.pdf"
     weight = 3
 	target = "blank"
   [[menu.nav]]
