@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sunset Orb</title>
-	<style>
+    <style>
         /* Add CSS to remove scroll bars and set margin to 0 for body and html */
         body, html {
             margin: 0;
@@ -25,7 +25,7 @@
         document.body.appendChild(renderer.domElement);
 
         // Create a sphere with an equirectangular image as material
-        const geometry = new THREE.SphereGeometry(.5, 32, 32); // Adjust the radius and segments as needed
+        const geometry = new THREE.SphereGeometry(0.5, 32, 32); // Adjust the radius and segments as needed
         const textureLoader = new THREE.TextureLoader();
 
         textureLoader.load('image.jpg', (texture) => {
@@ -39,6 +39,56 @@
 
         // Set the initial position of the camera
         camera.position.z = 1; // Change to 0 to center the sphere
+
+        // Variables to store mouse and touch event data
+        let isDragging = false;
+        let previousMouseX = 0;
+
+        // Event listener for mouse click and touch events
+        renderer.domElement.addEventListener('mousedown', () => {
+            isDragging = true;
+        });
+
+        renderer.domElement.addEventListener('touchstart', (event) => {
+            const touch = event.touches[0];
+            previousMouseX = touch.clientX;
+            isDragging = true;
+        });
+
+        // Event listeners for mouse move and touch move events
+        renderer.domElement.addEventListener('mousemove', (event) => {
+            if (isDragging) {
+                const currentMouseX = event.clientX;
+                const deltaX = currentMouseX - previousMouseX;
+                previousMouseX = currentMouseX;
+                rotateSphere(deltaX);
+            }
+        });
+
+        renderer.domElement.addEventListener('touchmove', (event) => {
+            if (isDragging) {
+                const touch = event.touches[0];
+                const currentMouseX = touch.clientX;
+                const deltaX = currentMouseX - previousMouseX;
+                previousMouseX = currentMouseX;
+                rotateSphere(deltaX);
+            }
+        });
+
+        // Event listeners for mouse release and touch end events
+        window.addEventListener('mouseup', () => {
+            isDragging = false;
+        });
+
+        window.addEventListener('touchend', () => {
+            isDragging = false;
+        });
+
+        // Function to rotate the sphere
+        function rotateSphere(deltaX) {
+            const rotationSpeed = 0.01; // Adjust the rotation speed as needed
+            scene.children[0].rotation.y += deltaX * rotationSpeed;
+        }
 
         // Function to handle window resizing
         function onWindowResize() {

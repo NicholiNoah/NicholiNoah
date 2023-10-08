@@ -1,4 +1,4 @@
-<html>
+ <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -33,8 +33,8 @@
 		.right-button {
 		  position: absolute;
 		  bottom: 10px;
-		  left: 60%; /* Adjust the right position */
-		  transform: translateX(50%);
+		  left: 80%; /* Adjust the right position */
+		  transform: translateX(-50%);
 		  cursor: pointer;
 		  max-width: 100%; /* Default maximum width for mobile */
 		  height: auto; /* Allow the button's height to adjust proportionally */
@@ -42,7 +42,7 @@
 		}
 
 		@media screen and (max-width: 1080px) {
-		  /* Adjust the max-width for screens with a width of 768px or less (mobile) */
+		  /* Adjust the max-width for screens with a width of 1080px or less (mobile) */
 		  .left-button {
 			max-width: 20%; /* Set a different maximum width for mobile devices */
 		  }
@@ -52,7 +52,7 @@
 		}
 
 		@media screen and (min-width: 1081px) {
-		  /* Adjust the max-width for screens with a width of 769px or more (desktop) */
+		  /* Adjust the max-width for screens with a width of 1081px or more (desktop) */
 		  .left-button {
 			max-width: 5%; /* Set a different maximum width for desktop devices */
 		  }
@@ -78,7 +78,7 @@
 			const textures = [];
 
 			for (let i = 0; i < imageNum.length; i++) {
-				const texture = textureLoader.load(`./assets/tex/image${imageNum[i]}.jpg`, (loadedTexture) => {
+				const texture = textureLoader.load(`./assets/textures/image${imageNum[i]}.jpg`, (loadedTexture) => {
 					console.log(`Image ${imageNum[i]} loaded successfully.`);
 				});
 			textures.push(texture);
@@ -208,7 +208,7 @@
 
 			// Create an image element for the right button
 			const rightBtnImage = document.createElement('img');
-			rightBtnImage.src = './assets/buttons/initialsNN.png'; // Set the image source for the right button
+			rightBtnImage.src = './assets/buttons/initialsNNsunset.png'; // Set the image source for the right button
 			rightBtnImage.alt = 'Click Here for Another Action';
 			rightBtnImage.classList.add('left-button', 'right-button'); // Add classes for positioning
 
