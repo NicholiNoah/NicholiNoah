@@ -231,6 +231,7 @@
 				await mindarThree.start();
 				renderer.setAnimationLoop(() => {
 				plane.lookAt(new THREE.Vector3());
+				circle.lookAt(new THREE.Vector3());
 				const axisY = plane.rotation.y;
 
 			const stepSize = Math.PI / 70;
