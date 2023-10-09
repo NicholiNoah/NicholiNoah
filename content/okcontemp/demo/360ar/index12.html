@@ -176,6 +176,10 @@
 			const circle = new THREE.Mesh(geoCircle, matCircle);
 			circle.rotation.y -= THREE.MathUtils.degToRad(180);
 
+			circle.material.map.wrapS = THREE.RepeatWrapping;
+			circle.material.map.wrapT = THREE.RepeatWrapping;
+
+
 			let touchStartX = 0;
 			let touchEndX = 0;
 			let textureSlide = 0; // Initialize the texture slide
