@@ -176,6 +176,7 @@
 			const circle = new THREE.Mesh(geoCircle, matCircle);
 			circle.rotation.y -= THREE.MathUtils.degToRad(180);
 			circle.scale.x = - 1;
+			plane.add(circle);
 
 			let touchStartX = 0;
 			let touchEndX = 0;
@@ -215,7 +216,6 @@
 				// create anchor
 				const anchor = mindarThree.addAnchor(0);
 				anchor.group.add(plane);
-				anchor.group.add(circle);
 
 				// start AR
 				await mindarThree.start();
