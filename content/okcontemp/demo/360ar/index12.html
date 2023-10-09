@@ -175,13 +175,13 @@
 			});
 			const circle = new THREE.Mesh(geoCircle, matCircle);
 			circle.rotation.y -= THREE.MathUtils.degToRad(180);
-			circle.scale.x = - 1;
 
 			let touchStartX = 0;
 			let touchEndX = 0;
+			let textureSlide = 0; // Initialize the texture slide
 
-			// Variables to control rotation speed
-			const rotationSpeed = 0.01;
+			// Variables to control slide speed
+			const slideSpeed = 0.001; // Adjust the factor as needed
 
 			// Event listeners for touch events on the document body
 			document.body.addEventListener('touchstart', (event) => {
@@ -195,10 +195,20 @@
 
 				const deltaX = touchEndX - touchStartX;
 
-				// Rotate the 'circle' mesh based on touch movement
-				circle.rotation.y += deltaX * rotationSpeed;
+			// Calculate the texture slide based on touch movement
+            textureSlide += deltaX * slideSpeed;
 
-				touchStartX = touchEndX;
+            // Update the texture coordinates based on the texture slide
+            circle.material.map.offset.x = textureSlide;
+
+            // Ensure the texture slide wraps around seamlessly
+            if (circle.material.map.offset.x > 1) {
+              circle.material.map.offset.x -= 1;
+            } else if (circle.material.map.offset.x < 0) {
+              circle.material.map.offset.x += 1;
+            }
+
+            touchStartX = touchEndX;
 
 				renderer.render(scene, camera);
 
