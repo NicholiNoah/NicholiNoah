@@ -208,6 +208,9 @@
               circle.material.map.offset.x += 1;
             }
 
+			// Set needsUpdate to true to refresh the texture
+            circle.material.map.needsUpdate = true;
+
             touchStartX = touchEndX;
 
 				renderer.render(scene, camera);
