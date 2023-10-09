@@ -106,13 +106,12 @@
 			const circle = new THREE.Mesh(geoCircle, matCircle);
 			circle.rotation.y -= THREE.MathUtils.degToRad(180);
 
+			// Mobile Touch Interaction
 			let touchStartX = 0;
 			let touchEndX = 0;
 
-			// Variables to control rotation speed
 			const rotationSpeed = 0.01;
 
-			// Event listeners for touch events on the document body
 			document.body.addEventListener('touchstart', (event) => {
 				const touch = event.touches[0];
 				touchStartX = touch.clientX;
@@ -124,7 +123,6 @@
 
 				const deltaX = touchEndX - touchStartX;
 
-				// Rotate the 'circle' mesh based on touch movement
 				circle.rotation.y += deltaX * rotationSpeed;
 
 				touchStartX = touchEndX;
@@ -136,8 +134,36 @@
 			});
 
 			document.body.addEventListener('touchend', () => {
-				// You can add any cleanup or additional logic here if needed
+				// cleanup or additional logic here if needed
 			});
+
+
+			// Desktop Mouse Interaction
+			let isDragging = false;
+			let previousMouseX = 0;
+
+			renderer.domElement.addEventListener('mousedown', (event) => {
+				isDragging = true;
+				previousMouseX = event.clientX;
+			});
+
+			renderer.domElement.addEventListener('mousemove', (event) => {
+				if (isDragging) {
+					const currentMouseX = event.clientX;
+					const deltaX = currentMouseX - previousMouseX;
+					rotateCircle(deltaX);
+					previousMouseX = currentMouseX;
+				}
+			});
+
+			window.addEventListener('mouseup', () => {
+				isDragging = false;
+			});
+
+			function rotateCircle(deltaX) {
+				circle.rotation.y += deltaX * rotationSpeed;
+				renderer.render(scene, camera);
+			}
 
 
 

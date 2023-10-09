@@ -42,11 +42,14 @@
 
         // Variables to store mouse and touch event data
         let isDragging = false;
+        // Variables to store initial and previous mouse positions
+        let initialMouseX = 0;
         let previousMouseX = 0;
 
         // Event listener for mouse click and touch events
         renderer.domElement.addEventListener('mousedown', () => {
             isDragging = true;
+			initialMouseX = event.clientX;
         });
 
         renderer.domElement.addEventListener('touchstart', (event) => {
@@ -59,9 +62,9 @@
         renderer.domElement.addEventListener('mousemove', (event) => {
             if (isDragging) {
                 const currentMouseX = event.clientX;
-                const deltaX = currentMouseX - previousMouseX;
-                previousMouseX = currentMouseX;
+                const deltaX = currentMouseX - initialMouseX;
                 rotateSphere(deltaX);
+                initialMouseX = currentMouseX; // Update initial position
             }
         });
 
