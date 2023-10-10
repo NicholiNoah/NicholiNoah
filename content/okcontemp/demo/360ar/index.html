@@ -166,7 +166,7 @@
 			const material = new THREE.MeshBasicMaterial({map: textures[0], transparent: true, opacity: 0});
 			const plane = new THREE.Mesh(geometry, material);
 
-			const geoCircle = new THREE.SphereGeometry(1, 32);
+			const geoCircle = new THREE.SphereGeometry(.75, 32);
 			const matCircle = new THREE.MeshBasicMaterial({
 			map: textures[ imagesTotal / 2 ],
 			transparent: false,
