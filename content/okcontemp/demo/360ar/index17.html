@@ -166,7 +166,7 @@
 			const material = new THREE.MeshBasicMaterial({map: textures[0], transparent: true, opacity: 0});
 			const plane = new THREE.Mesh(geometry, material);
 
-			const geoCircle = new THREE.SphereGeometry(.25, 16);
+			const geoCircle = new THREE.SphereGeometry(1, 32);
 			const matCircle = new THREE.MeshBasicMaterial({
 			map: textures[ imagesTotal / 2 ],
 			transparent: false,
@@ -175,7 +175,9 @@
 			});
 			const circle = new THREE.Mesh(geoCircle, matCircle);
 			circle.rotation.y -= THREE.MathUtils.degToRad(100);
-			circle.scale.x = - 1;
+			circle.scale.x = - 0.5;
+			circle.scale.y = 0.5;
+			circle.scale.z = 0.5;
 			plane.add(circle);
 
 			let touchStartX = 0;
