@@ -168,13 +168,13 @@
 
 			const geoCircle = new THREE.SphereGeometry(1, 32);
 			const matCircle = new THREE.MeshBasicMaterial({
-			map: textures[ imagesTotal / 2 ],
+			map: textures[8],
 			transparent: false,
 			opacity: 1,
 			side: THREE.BackSide
 			});
 			const circle = new THREE.Mesh(geoCircle, matCircle);
-			circle.rotation.y -= THREE.MathUtils.degToRad(100);
+			circle.rotation.y -= THREE.MathUtils.degToRad(180);
 			circle.scale.x = - 1;
 			plane.add(circle);
 
@@ -216,14 +216,12 @@
 				// create anchor
 				const anchor = mindarThree.addAnchor(0);
 				anchor.group.add(plane);
-				// anchor.group.add(circle);
 
 				// start AR
 				await mindarThree.start();
 				renderer.setAnimationLoop(() => {
 				plane.lookAt(new THREE.Vector3());
 				const axisY = plane.rotation.y;
-				const axisX = - plane.rotation.x;
 
 			const stepSize = Math.PI / 70;
 			const numSteps = 16; // number of steps between -0.3 and 0.3
@@ -256,7 +254,6 @@
 				}
 
 				circle.material.map = textures[index];
-				circle.rotation.x = axisX;
 				console.log(`Displayed image: image${index}.jpg`);
 			}
 
