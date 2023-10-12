@@ -307,6 +307,15 @@
 
 				// Set the audioPlaying flag to true
 				audioPlaying = true;
+
+				// Add an event listener to reset the image when audio ends
+				audio.addEventListener('ended', () => {
+					// Change the image source back to 'btnOKContemp.png'
+					leftBtnImage.src = './assets/buttons/btnOKContemp.png';
+
+					// Set the audioPlaying flag to false
+					audioPlaying = false;
+				  });
 			} else {
 				// If the audio is already playing, stop it
 				audio.pause();
