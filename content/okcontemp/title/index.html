@@ -270,11 +270,12 @@
 			leftBtnImage.alt = 'Click Here to DONATE';
 			leftBtnImage.classList.add('left-button'); // Add the responsive-button class
 
-			// Add a click event listener to open a URL when the image is clicked
+			// Reference the audio element and set the source
+			const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe-10-joy-Harjo.m4a');
+
+			// Add a click event listener to play the audio
 			leftBtnImage.addEventListener('click', () => {
-			  // Replace 'example.com/url' with the actual URL you want to link to
-			  const newWindow = window.open('https://oklahomacontemporary.org', '_blank');
-			  newWindow.focus();
+			audio.play();
 			});
 
 			// Append the image element to the body
