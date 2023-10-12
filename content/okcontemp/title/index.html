@@ -92,7 +92,7 @@
 		  position: absolute;
 		  bottom: 10px;
 		  left: 10%;
-		  transform: translateX(-50%);
+		  transform: translateX(-40%);
 		  cursor: pointer;
 		  max-width: 100%; /* Default maximum width for mobile */
 		  height: auto; /* Allow the button's height to adjust proportionally */
@@ -113,7 +113,7 @@
 		@media screen and (max-width: 1080px) {
 		  /* Adjust the max-width for screens with a width of 1080px or less (mobile) */
 		  .left-button {
-			max-width: 20%; /* Set a different maximum width for mobile devices */
+			max-width: 40%; /* Set a different maximum width for mobile devices */
 		  }
 		  .right-button {
 			max-width: 20%; /* Set a different maximum width for mobile devices */
@@ -123,7 +123,7 @@
 		@media screen and (min-width: 1081px) {
 		  /* Adjust the max-width for screens with a width of 1081px or more (desktop) */
 		  .left-button {
-			max-width: 5%; /* Set a different maximum width for desktop devices */
+			max-width: 20%; /* Set a different maximum width for desktop devices */
 		  }
 		  .right-button {
 			right: 5%; /* Set the right position for desktop devices */
@@ -266,16 +266,58 @@
 
 			// Create an image element for the left button
 			const leftBtnImage = document.createElement('img');
-			leftBtnImage.src = './assets/buttons/logoOKContemp.png'; // Set the image source to your 'btn1.png' location
-			leftBtnImage.alt = 'Click Here to DONATE';
+			leftBtnImage.src = './assets/buttons/btnOKContemp.png'; // Set the image source to your 'btn1.png' location
+			leftBtnImage.alt = 'Click Here to PLAY Audio';
 			leftBtnImage.classList.add('left-button'); // Add the responsive-button class
+
+			// Create a new image element for the toggle indicator
+			const toggleImage = document.createElement('img');
+			toggleImage.src = './assets/buttons/new.png'; // Set the source for the new image
+			toggleImage.style.display = 'none'; // Hide the new image by default
 
 			// Reference the audio element and set the source
 			const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe-10-joy-Harjo.m4a');
+			let isPlaying = false; // Keep track of audio state
 
-			// Add a click event listener to play the audio
+			// Add a click event listener to toggle play/stop
 			leftBtnImage.addEventListener('click', () => {
-			audio.play();
+				if (isPlaying) {
+				// Stop the audio
+				audio.pause();
+				} else {
+				// Play the audio
+				audio.play();
+				}
+				isPlaying = !isPlaying; // Toggle the audio state
+				toggleImage.style.display = isPlaying ? 'block' : 'none'; // Toggle the visibility of the indicator
+			});
+
+			// Define a variable to track whether the audio is playing
+			let audioPlaying = false;
+
+			// Add a click event listener to toggle the audio and change the image
+			leftBtnImage.addEventListener('click', () => {
+			// If the audio is not playing, start playing it
+			if (!audioPlaying) {
+				// Change the image source to 'new.png'
+				leftBtnImage.src = './assets/buttons/voiceEva.png';
+
+				// Play the audio
+				audio.play();
+
+				// Set the audioPlaying flag to true
+				audioPlaying = true;
+			} else {
+				// If the audio is already playing, stop it
+				audio.pause();
+				audio.currentTime = 0; // Reset the audio to the beginning
+
+				// Change the image source back to 'logoOKContemp.png'
+				leftBtnImage.src = './assets/buttons/btnOKContemp.png';
+
+				// Set the audioPlaying flag to false
+				audioPlaying = false;
+			}
 			});
 
 			// Append the image element to the body
