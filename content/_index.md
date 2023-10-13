@@ -20,6 +20,6 @@ Hi, I'm Nicholi.</br>A mixed reality artist and immersive technologist specializ
 
 Back to Oklahoma City in 2017, I bought my first VR headset and focused on the Metaverse. Diving deeper than the shallow "social VR" facade, I spent several hundreds of hours collaborating on Open Source education tools with developers from Microsoft and Google. Learning to code while immersed in the environment I was coding was the experience I needed to finally grasp how the devices we carry in our pockets are powertools for accessible communication.</br></br>
 
-Now I'm drawing all that knowledge out into the real world through artworks designed for others to share the same profound moments I had - without having to wear a headset.</br></br>
+Now I'm drawing all that knowledge out into the physical world as embedded artworks designed for others to share the same profound moments I had - without having to wear a headset.</br></br>
 
 Weaving virtual textures into tangible materials so you can hold the experience in your hand.
