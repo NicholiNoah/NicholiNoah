@@ -73,6 +73,18 @@ const start = async() => {
 		const anchor = mindarThree.addAnchor(0);
 		anchor.group.add(plane);
 
+		anchor.onTargetFound = () => {
+			console.log("target found");
+			leftBtnImage.style.display = 'block';
+    		rightBtnImage.style.display = 'block';
+		}
+
+		anchor.onTargetLost = () => {
+			console.log("target lost");
+			leftBtnImage.style.display = 'none';
+			rightBtnImage.style.display = 'none';
+		}
+
 		await mindarThree.start();
 		renderer.setAnimationLoop(() => {
 		plane.lookAt(new THREE.Vector3());
@@ -117,6 +129,7 @@ const start = async() => {
 	leftBtnImage.src = './assets/buttons/btnOKContemp.png';
 	leftBtnImage.alt = 'Click Here to PLAY Audio';
 	leftBtnImage.classList.add('left-button');
+	leftBtnImage.style.display = 'none';
 
 	const toggleImage = document.createElement('img');
 	toggleImage.src = './assets/buttons/voiceEva.png';
@@ -159,12 +172,11 @@ const start = async() => {
 	}
 	});
 
-	document.body.appendChild(leftBtnImage);
-
 	const rightBtnImage = document.createElement('img');
 	rightBtnImage.src = './assets/buttons/initialsNNsunset.png';
 	rightBtnImage.alt = 'Click Here for Another Action';
 	rightBtnImage.classList.add('left-button', 'right-button');
+	rightBtnImage.style.display = 'none';
 
 	rightBtnImage.addEventListener('click', () => {
 
@@ -172,6 +184,7 @@ const start = async() => {
 	  newWindow.focus();
 	});
 
+	document.body.appendChild(leftBtnImage);
 	document.body.appendChild(rightBtnImage);
   };
 	start();
