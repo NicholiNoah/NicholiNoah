@@ -119,7 +119,7 @@ const start = async() => {
 	leftBtnImage.classList.add('left-button');
 
 	const toggleImage = document.createElement('img');
-	toggleImage.src = './assets/buttons/new.png';
+	toggleImage.src = './assets/buttons/voiceEva.png';
 	toggleImage.style.display = 'none';
 
 	const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe08.m4a');
