@@ -122,7 +122,7 @@ const start = async() => {
 	toggleImage.src = './assets/buttons/new.png';
 	toggleImage.style.display = 'none';
 
-	const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe-10-joy-Harjo.m4a');
+	const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe08.m4a');
 	let isPlaying = false;
 
 	leftBtnImage.addEventListener('click', () => {
