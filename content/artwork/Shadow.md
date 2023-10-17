@@ -35,4 +35,15 @@ Many scanned right in and started exploring. Few actually read the instructions.
 
 My biggest takeaway: Design the virtual and realworld components to be noticeably different. If they look too similar, it reduces the effect and isn't as fun.
 
-All valuable knowledge helping me improve my communication and ability to relate to others as authentically as possible.
+All valuable knowledge helping me improve my communication and ability to relate to others as authentically as possible.<br><br>
+
+<div class="row">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© 2022 Nicholi Noah (nicholinoah.com)<br>
+	Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.<br>
+	Excerpts and links may be used, provided that full and clear credit is given to Nicholi Noah and nicholinoah.com with appropriate and specific direction to the original content.
+	</p>
+  </div>
+</div>

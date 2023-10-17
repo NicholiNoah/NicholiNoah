@@ -10,4 +10,15 @@ rank: 8
 Infinity Machine is a study on stereographic cameras and 3D visual feedback. While simple in concept, my challenge was to refine a workflow to be as efficient as possible to produce the tightest slices of time. This spatial representation of time delay provided the visuals I needed to finally understand the 3D (camera) rendering pipeline. Additionally, I finally had visual proof that efficient coding can make quite a difference.
 As luck would have it, Infinity Machine is just as fun as it was educational.
 
-Unfortunately, the platform I created Infinity Machine on is not accessible. So I am building another in WebXR so you can see it right here on the website.
+Unfortunately, the platform I created Infinity Machine on is not accessible. So I am building another in WebXR so you can see it right here on the website.<br><br>
+
+<div class="row">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© 2021 Nicholi Noah (nicholinoah.com)<br>
+	Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.<br>
+	Excerpts and links may be used, provided that full and clear credit is given to Nicholi Noah and nicholinoah.com with appropriate and specific direction to the original content.
+	</p>
+  </div>
+</div>

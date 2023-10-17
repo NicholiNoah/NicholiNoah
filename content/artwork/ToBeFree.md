@@ -105,8 +105,19 @@ At more than one high school, I watched their entire VR program get tossed into 
   <div class="col-md-4">
   </div>
   <div class="col-md-4">
-<p style="font-family: arial; font-size:.75em; text-align: center"><em>To Be Free</em> is a mixed-media sculpture combining found objects and poetry with electronics art and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power. The included QR code links directly to this synopsis webpage and portolio site.</p>
+<p style="font-family: arial; font-size:.75em; text-align: center"><em>To Be Free</em> is a mixed-media sculpture combining found objects and poetry with electronics art and 3D printing techniques. It's dimensions are 48"h x 24"w x 36"d and is designed to be viewed in 360 degrees. Fully self-contained and battery operated, requiring no external power. The included QR code links directly to this synopsis webpage and portolio site.<br><br></p>
   </div>
 </div>
 
 <!-- transparency, 360 degrees, 3D printing, virtual reality -->
+
+<div class="row">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© 2023 Nicholi Noah (nicholinoah.com)<br>
+	Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.<br>
+	Excerpts and links may be used, provided that full and clear credit is given to Nicholi Noah and nicholinoah.com with appropriate and specific direction to the original content.
+	</p>
+  </div>
+</div>

@@ -80,7 +80,7 @@ rank: 2
   <div class="col-md-3">
   </div>
   <div class="col-md-5">
-    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© Nicholi Noah 2023.<br>
+    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© 2023 Nicholi Noah (nicholinoah.com)<br>
 	Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.<br>
 	Excerpts and links may be used, provided that full and clear credit is given to Nicholi Noah and nicholinoah.com with appropriate and specific direction to the original content.
 	</p>

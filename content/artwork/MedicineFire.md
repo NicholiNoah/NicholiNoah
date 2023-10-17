@@ -28,4 +28,15 @@ Years later, I am still processing everything learned that night. As I revisit t
 
 *Wado*, my friend.
 
-Synopsis and full storytelling series coming soon in extended reality.
+Synopsis and full storytelling series coming soon in extended reality.<br><br>
+
+<div class="row">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© 2019 Nicholi Noah (nicholinoah.com)<br>
+	Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.<br>
+	Excerpts and links may be used, provided that full and clear credit is given to Nicholi Noah and nicholinoah.com with appropriate and specific direction to the original content.
+	</p>
+  </div>
+</div>
