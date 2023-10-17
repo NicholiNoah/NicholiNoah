@@ -65,7 +65,7 @@ rank: 2
 	portfolio artwork label<br>
 	plug-in + warm + chile oil = sensory smells appetizing<br>
 	audiobook record<br>
-	fill empty spot in composition, date stamp + signature = receipt (self checkout)
+	fill empty spot in composition, date stamp + signature = receipt (self checkout)<br><br>
 	</p>
   </div>
   <div class="col-md-3">
@@ -73,5 +73,16 @@ rank: 2
      <img src="/images/Portfolio/Devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece."></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the receipt</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-5">
+    <p style="font-family:arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">© Nicholi Noah 2023.<br>
+	Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.<br>
+	Excerpts and links may be used, provided that full and clear credit is given to Nicholi Noah and nicholinoah.com with appropriate and specific direction to the original content.
+	</p>
   </div>
 </div>
