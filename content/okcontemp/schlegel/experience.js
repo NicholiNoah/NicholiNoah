@@ -38,7 +38,7 @@ const start = async() => {
 	side: THREE.BackSide
 	});
 	const circle = new THREE.Mesh(geoCircle, matCircle);
-	circle.rotation.y -= THREE.MathUtils.degToRad(100);
+	circle.rotation.y -= THREE.MathUtils.degToRad(65);
 	circle.scale.x = - 1;
 	plane.add(circle);
 
