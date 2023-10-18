@@ -11,9 +11,11 @@ const start = async() => {
 	const textures = [];
 
 	for (let i = 0; i < imageNum.length; i++) {
-		const texture = textureLoader.load(`./assets/demoImages/image${imageNum[i]}.jpg`, (loadedTexture) => {
+		const texture = textureLoader.load(`./assets/selects/image${imageNum[i]}.jpg`, (loadedTexture) => {
 			console.log(`Image ${imageNum[i]} loaded successfully.`);
 		});
+
+	texture.colorSpace = THREE.SRGBColorSpace;
 	textures.push(texture);
 	}
 
@@ -94,7 +96,7 @@ const start = async() => {
 	const stepSize = Math.PI / 70;
 	const numSteps = 16;
 
-	const totalAngle = Math.PI * (160 / 180);
+	const totalAngle = Math.PI * (90 / 180);
 
 	if (axisY <= -totalAngle / 2) {
 		circle.material.map = textures[0];
