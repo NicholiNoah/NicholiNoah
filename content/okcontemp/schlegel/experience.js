@@ -96,7 +96,7 @@ const start = async() => {
 	const stepSize = Math.PI / 70;
 	const numSteps = 16;
 
-	const totalAngle = Math.PI * (90 / 180);
+	const totalAngle = Math.PI * (65 / 180);
 
 	if (axisY <= -totalAngle / 2) {
 		circle.material.map = textures[0];
