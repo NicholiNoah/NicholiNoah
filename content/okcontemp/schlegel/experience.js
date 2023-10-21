@@ -21,7 +21,7 @@ const start = async() => {
 
 	const mindarThree = new MindARThree({
 	container: document.body,
-	imageTargetSrc: './assets/demoQRlinkAR.mind',
+	imageTargetSrc: './assets/wintercard.mind',
 	uiScanning: "#scanning",
 	});
 	const {renderer, scene, camera} = mindarThree;
