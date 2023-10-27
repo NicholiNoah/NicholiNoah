@@ -77,7 +77,7 @@ html, body {
   .left-button {
 	position: absolute;
 	bottom: 10px;
-	left: 10%;
+	left: 12%;
 	transform: translateX(-15%);
 	cursor: pointer;
 	max-width: 100%;
@@ -88,7 +88,7 @@ html, body {
   .right-button {
 	position: absolute;
 	bottom: 10px;
-	left: 90%;
+	left: 88%;
 	transform: translateX(-50%);
 	cursor: pointer;
 	max-width: 100%;

@@ -128,13 +128,13 @@ const start = async() => {
 
 
 	const leftBtnImage = document.createElement('img');
-	leftBtnImage.src = './assets/buttons/btnOKContemp.png';
+	leftBtnImage.src = './assets/buttons/ocac-btn.png';
 	leftBtnImage.alt = 'Click Here to PLAY Audio';
 	leftBtnImage.classList.add('left-button');
 	leftBtnImage.style.display = 'none';
 
 	const toggleImage = document.createElement('img');
-	toggleImage.src = './assets/buttons/voiceEva.png';
+	toggleImage.src = './assets/buttons/ocac-btn-eva.png';
 	toggleImage.style.display = 'none';
 
 	const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe08.m4a');
@@ -156,19 +156,19 @@ const start = async() => {
 
 	if (!audioPlaying) {
 
-		leftBtnImage.src = './assets/buttons/voiceEva.png';
+		leftBtnImage.src = './assets/buttons/ocac-btn-eva.png';
 		audio.play();
 		audioPlaying = true;
 
 		audio.addEventListener('ended', () => {
-			leftBtnImage.src = './assets/buttons/btnOKContemp.png';
+			leftBtnImage.src = './assets/buttons/ocac-btn.png';
 			audioPlaying = false;
 		  });
 	} else {
 		audio.pause();
 		audio.currentTime = 0;
 
-		leftBtnImage.src = './assets/buttons/btnOKContemp.png';
+		leftBtnImage.src = './assets/buttons/ocac-btn.png';
 
 		audioPlaying = false;
 	}

@@ -1,0 +1,92 @@
+.circle {
+	width: 40px;
+	height: 40px;
+	background: rgba(255, 255, 255, 0.5);
+	border: 2px solid black;
+	border-radius: 20px;
+	position: relative;
+	animation: moveCircle 1.25s linear infinite;
+	top: 0%;
+	transform: translateY(-103%);
+  }
+  
+  .pill {
+	width: 46px;
+	height: 46px;
+	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+	border-radius: 20px;
+	position: relative;
+	animation: stretchPill 1.25s linear infinite;
+  }
+  
+  @keyframes moveCircle {
+	0% {
+	  left: 0px;
+	  opacity: 0;
+	}
+	10% {
+	  left: 0px;
+	  opacity: 0.2;
+	}
+	30% {
+	  left: 75px;
+	}
+	50% {
+	  left: 125px;
+	}
+	70% {
+	  left: 175px;
+	}
+	90% {
+	  left: 225px;
+	  opacity: 0.2;
+	}
+	100% {
+	  left: 225px;
+	  opacity: 0;
+	}
+  }
+  
+  @keyframes stretchPill {
+	0% {
+	  width: 46px;
+	  left: 0;
+	  top: 0;
+	  opacity: 0;
+	}
+	10% {
+	  width: 46px;
+	  left: 0;
+	  top: 0;
+	  opacity: 0.3;
+	}
+	30% {
+	  width: 121px;
+	  left: 0px;
+	  top: 0;
+	}
+	50% {
+	  width: 121px;
+	  left: 50px;
+	  top: 0;
+	}
+	70% {
+	  width: 121px;
+	  left: 100px;
+	  top: 0;
+	}
+	90% {
+	  width: 121px;
+	  left: 150px;
+	  top: 0;
+	  opacity: 0.3;
+	}
+	100% {
+	  width: 46px;
+	  left: 225px;
+	  top: 0;
+	  opacity: 0;
+	}
+  }
+  
+  
