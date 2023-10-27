@@ -42,34 +42,34 @@ const start = async() => {
 	circle.scale.x = - 1;
 	plane.add(circle);
 
-	let touchStartX = 0;
-	let touchEndX = 0;
+	// let touchStartX = 0;
+	// let touchEndX = 0;
 
 	const rotationSpeed = 0.01;
 
-	document.body.addEventListener('touchstart', (event) => {
-		const touch = event.touches[0];
-		touchStartX = touch.clientX;
-	});
+	// document.body.addEventListener('touchstart', (event) => {
+	// 	const touch = event.touches[0];
+	// 	touchStartX = touch.clientX;
+	// });
 
-	document.body.addEventListener('touchmove', (event) => {
-		const touch = event.touches[0];
-		touchEndX = touch.clientX;
+	// document.body.addEventListener('touchmove', (event) => {
+	// 	const touch = event.touches[0];
+	// 	touchEndX = touch.clientX;
 
-		const deltaX = touchEndX - touchStartX;
+	// 	const deltaX = touchEndX - touchStartX;
 
-		circle.rotation.y += deltaX * rotationSpeed;
+	// 	circle.rotation.y += deltaX * rotationSpeed;
 
-		touchStartX = touchEndX;
+	// 	touchStartX = touchEndX;
 
-		renderer.render(scene, camera);
+	// 	renderer.render(scene, camera);
 
-		event.preventDefault();
-	});
+	// 	event.preventDefault();
+	// });
 
-	document.body.addEventListener('touchend', () => {
-		// add additional logic here
-	});
+	// document.body.addEventListener('touchend', () => {
+	// 	// add additional logic here
+	// });
 
 
 		const anchor = mindarThree.addAnchor(0);
