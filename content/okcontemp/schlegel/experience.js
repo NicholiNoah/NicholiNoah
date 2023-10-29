@@ -4,6 +4,7 @@ import { MindARThree } from 'mindar-image-three';
 document.addEventListener('DOMContentLoaded', () => {
 const start = async() => {
 
+// images
 	const imagesTotal = 16;
 	const imageNum = Array.from({length: imagesTotal}, (value, index) => index.toString());
 
@@ -12,13 +13,14 @@ const start = async() => {
 
 	for (let i = 0; i < imageNum.length; i++) {
 		const texture = textureLoader.load(`./assets/selects/image${imageNum[i]}.jpg`, (loadedTexture) => {
-			console.log(`Image ${imageNum[i]} loaded successfully.`);
+			texture.colorSpace = THREE.SRGBColorSpace;
+			// console.log(`Image ${imageNum[i]} loaded successfully.`);
 		});
 
-	texture.colorSpace = THREE.SRGBColorSpace;
 	textures.push(texture);
 	}
 
+// 	target
 	const mindarThree = new MindARThree({
 	container: document.body,
 	imageTargetSrc: './assets/wintercard.mind',
@@ -42,56 +44,67 @@ const start = async() => {
 	circle.scale.x = - 1;
 	plane.add(circle);
 
-	let touchStartX = 0;
-	let touchEndX = 0;
+
+// interaction
+	let isDragging = false;
+	let previousX = 0;
 
 	const rotationSpeed = 0.01;
 
-	document.body.addEventListener('touchstart', (event) => {
-		const touch = event.touches[0];
-		touchStartX = touch.clientX;
-	});
+	const dragStart = (event) => {
+	isDragging = true;
+	previousX = event.clientX || event.touches[0].clientX;
+	console.log("Event type:", event.type);
+	};
 
-	document.body.addEventListener('touchmove', (event) => {
-		const touch = event.touches[0];
-		touchEndX = touch.clientX;
+	const dragEnd = () => {
+	isDragging = false;
+	};
 
-		const deltaX = touchEndX - touchStartX;
+	const dragMove = (event) => {
+	if (isDragging) {
+		const currentX = event.clientX || event.touches[0].clientX;
+		const deltaX = currentX - previousX;
 
 		circle.rotation.y += deltaX * rotationSpeed;
 
-		touchStartX = touchEndX;
+		previousX = currentX;
 
 		renderer.render(scene, camera);
+	}
+	console.log("Event type:", event.type);
+	console.log("Circle rotation:", circle.rotation);
+	};
 
-		event.preventDefault();
-	});
+	document.body.addEventListener('mousedown', dragStart);
+	document.body.addEventListener('mouseup', dragEnd);
+	document.body.addEventListener('mousemove', dragMove);
+	document.body.addEventListener('touchstart', dragStart);
+	document.body.addEventListener('touchend', dragEnd);
+	document.body.addEventListener('touchmove', dragMove);
 
-	document.body.addEventListener('touchend', () => {
-		// add additional logic here
-	});
 
+// target
+	const anchor = mindarThree.addAnchor(0);
+	anchor.group.add(plane);
 
-		const anchor = mindarThree.addAnchor(0);
-		anchor.group.add(plane);
+	anchor.onTargetFound = () => {
+		console.log("target found");
+		leftBtnImage.style.display = 'block';
+		rightBtnImage.style.display = 'block';
+	}
 
-		anchor.onTargetFound = () => {
-			console.log("target found");
-			leftBtnImage.style.display = 'block';
-    		rightBtnImage.style.display = 'block';
-		}
+	anchor.onTargetLost = () => {
+		console.log("target lost");
+		leftBtnImage.style.display = 'none';
+		rightBtnImage.style.display = 'none';
+	}
 
-		anchor.onTargetLost = () => {
-			console.log("target lost");
-			leftBtnImage.style.display = 'none';
-			rightBtnImage.style.display = 'none';
-		}
-
-		await mindarThree.start();
-		renderer.setAnimationLoop(() => {
-		plane.lookAt(new THREE.Vector3());
-		const axisY = plane.rotation.y;
-		const axisX = - plane.rotation.x;
+	await mindarThree.start();
+	renderer.setAnimationLoop(() => {
+	plane.lookAt(new THREE.Vector3());
+	const axisY = plane.rotation.y;
+	const axisX = - plane.rotation.x;
 
 	const stepSize = Math.PI / 70;
 	const numSteps = 16;
@@ -100,10 +113,10 @@ const start = async() => {
 
 	if (axisY <= -totalAngle / 2) {
 		circle.material.map = textures[0];
-		console.log("Displayed image: image0.jpg");
+		// console.log("Displayed image: image0.jpg");
 	} else if (axisY >= totalAngle / 2) {
 		circle.material.map = textures[15];
-		console.log("Displayed image: image15.jpg");
+		// console.log("Displayed image: image15.jpg");
 	} else {
 
 		const midpoint = 0;
@@ -127,14 +140,15 @@ const start = async() => {
 		});
 
 
+// buttons
 	const leftBtnImage = document.createElement('img');
-	leftBtnImage.src = './assets/buttons/ocac-btn.png';
+	leftBtnImage.src = './assets/buttons/btnOKContemp.png';
 	leftBtnImage.alt = 'Click Here to PLAY Audio';
 	leftBtnImage.classList.add('left-button');
 	leftBtnImage.style.display = 'none';
 
 	const toggleImage = document.createElement('img');
-	toggleImage.src = './assets/buttons/ocac-btn-eva.png';
+	toggleImage.src = './assets/buttons/voiceEva.png';
 	toggleImage.style.display = 'none';
 
 	const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe08.m4a');
@@ -156,19 +170,19 @@ const start = async() => {
 
 	if (!audioPlaying) {
 
-		leftBtnImage.src = './assets/buttons/ocac-btn-eva.png';
+		leftBtnImage.src = './assets/buttons/voiceEva.png';
 		audio.play();
 		audioPlaying = true;
 
 		audio.addEventListener('ended', () => {
-			leftBtnImage.src = './assets/buttons/ocac-btn.png';
+			leftBtnImage.src = './assets/buttons/btnOKContemp.png';
 			audioPlaying = false;
 		  });
 	} else {
 		audio.pause();
 		audio.currentTime = 0;
 
-		leftBtnImage.src = './assets/buttons/ocac-btn.png';
+		leftBtnImage.src = './assets/buttons/btnOKContemp.png';
 
 		audioPlaying = false;
 	}
