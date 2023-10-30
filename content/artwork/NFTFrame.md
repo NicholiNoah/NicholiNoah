@@ -1,10 +1,10 @@
 ---
-title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2024
+title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2022
 metaDescription:
 thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
 description: in honor of the most undervalued and overlooked component of any artpiece - the frame.
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
-rank: 1
+rank: 3
 ---
 <div class="row">
   <div class="col-md-12">
@@ -77,7 +77,7 @@ rank: 1
 				As a digital 3D scan of a very fungible real-life wooden frame.</br></br>
 				I first exhibited a prototype of this art piece in 2021.</br>
 				People stood in front of it, staring and taking pictures.</br>
-				I knew I had a hit, and am re-making a better one.</br></br>
+				I knew I had a hit, and am now updating the prototype design.</br></br>
 				This time showcasing the frame I found on the side of the road on big trash day.</br>
 				Previously garbage, now presented as a one-of-a-kind story of its own.</br></br>
 				The animation is programmed into a Raspberry Pi microcomputer as a live 3D environment, custom written in Python script.</br>

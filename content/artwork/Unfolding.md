@@ -27,7 +27,7 @@ rank: 4
   <div class="col-md-10">
     <h3>"What does a creative community look like?"</h3>
 	<p style="font-family: arial">
-	When our director asked the above question three different times during the exhibition walkthrough, I knew it was important.</br>
+	When our curator asked the above question three different times during the exhibition walkthrough, I knew it was important.</br>
 	Several days of thought later, I realized my answer simply cannot be put into words. It's just too massive of a concept.</br></br>
 	Instead of words, I will produce an experience that visualizes the creative community how I see it in my imagination.</br></br>
 	Creative community is the relationship between artist, gallery, and audience.</br>
