@@ -3,7 +3,8 @@ import { MindARThree } from 'mindar-image-three';
 
 document.addEventListener('DOMContentLoaded', () => {
   const start = async () => {
-    // images
+
+// IMAGES
     const imagesTotal = 16;
     const imageNum = Array.from({ length: imagesTotal }, (value, index) => index.toString());
 
@@ -12,13 +13,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     for (let i = 0; i < imageNum.length; i++) {
       const texture = textureLoader.load(`./assets/selects/image${imageNum[i]}.jpg`, (loadedTexture) => {
-        loadedTexture.encoding = THREE.sRGBEncoding;
+        loadedTexture.colorSpace = THREE.SRGBColorSpace;
       });
 
       textures.push(texture);
     }
 
-    // target
+
+// TARGET
     const mindarThree = new MindARThree({
       container: document.body,
       imageTargetSrc: './assets/wintercard.mind',
@@ -26,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     const { renderer, scene, camera } = mindarThree;
 
-    const geometry = new THREE.SphereGeometry(0.95, 32);
+    const geometry = new THREE.PlaneGeometry(1, 1);
     const material = new THREE.MeshBasicMaterial({ map: textures[0], transparent: true, opacity: 0 });
     const plane = new THREE.Mesh(geometry, material);
 
@@ -42,7 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
     circle.scale.x = -1;
     plane.add(circle);
 
-    // interaction
+
+// INTERACTION
     let isDragging = false;
     let previousX = 0;
 
@@ -77,7 +80,8 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.addEventListener('touchend', dragEnd);
     document.body.addEventListener('touchmove', dragMove);
 
-    // target
+
+// ANCHOR
     const anchor = mindarThree.addAnchor(0);
     anchor.group.add(plane);
 
@@ -85,13 +89,15 @@ document.addEventListener('DOMContentLoaded', () => {
       console.log("target found");
       leftBtnImage.style.display = 'block';
       rightBtnImage.style.display = 'block';
-      setTimeout(displayIconHand, 3000);
+      iconHandDelay = setTimeout(displayIconHand, 3000);
     };
 
     anchor.onTargetLost = () => {
       console.log("target lost");
       leftBtnImage.style.display = 'none';
-      rightBtnImage.style.display = 'none'; // Added missing ".style"
+      rightBtnImage.style.display = 'none';
+	  clearTimeout(iconHandDelay);
+	  iconHand.visible = false;
     };
 
     await mindarThree.start();
@@ -100,8 +106,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const axisY = plane.rotation.y;
       const axisX = -plane.rotation.x;
 
-      const stepSize = Math.PI / 70;
-      const numSteps = 16;
       const totalAngle = Math.PI * (65 / 180);
 
       if (axisY <= -totalAngle / 2) {
@@ -121,9 +125,14 @@ document.addEventListener('DOMContentLoaded', () => {
         circle.rotation.x = axisX;
       }
       renderer.render(scene, camera);
+
+	//   if circle.material.map <= image5.jpg or >= image11.jpg then helpAnimation += 1
+	//   	helpAnimation = [ iconHandDelay, mobileSwipe, btn1, btn2, off ]
+
     });
 
-    // buttons
+
+// BUTTONS
     const leftBtnImage = document.createElement('img');
     leftBtnImage.src = './assets/buttons/btnOKContemp.png';
     leftBtnImage.alt = 'Click Here to PLAY Audio';
@@ -180,72 +189,96 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.appendChild(leftBtnImage);
     document.body.appendChild(rightBtnImage);
 
-// iconHand
-class IconHand {
-	constructor(scene, camera, renderer, keyframes) {
-	  this.scene = scene;
-	  this.camera = camera;
-	  this.renderer = renderer;
-	  this.keyframes = keyframes;
-	  this.currentKeyframeIndex = 0;
 
-	  this.init();
-	}
+// HAND ICON
+	const iconHandTexture = textureLoader.load('./assets/accessible/handCard.png', (loadedTexture) => {
+		console.log(iconHandTexture);
+	});
 
-	init() {
-	  const iconHandTexture = textureLoader.load('./assets/accessible/handCard.png', (loadedTexture) => {
-		loadedTexture.encoding = THREE.sRGBEncoding;
-	  });
+	let iconHandDelay = null;
+	// Create iconHand object
+	const iconHandGEO = new THREE.PlaneGeometry(0.4, 0.25);
+	const iconHandMAT = new THREE.MeshBasicMaterial({ map: iconHandTexture, side: THREE.DoubleSide, alphaTest: 0.5 });
+	const iconHand = new THREE.Mesh(iconHandGEO, iconHandMAT);
+	iconHand.visible = false;
 
-	  // Create iconHand object
-	  const iconHandGEO = new THREE.PlaneGeometry(0.4, 0.25);
-	  const iconHandMAT = new THREE.MeshBasicMaterial({ map: iconHandTexture, side: THREE.DoubleSide, alphaTest: 0.5 });
-	  this.iconHand = new THREE.Mesh(iconHandGEO, iconHandMAT);
-	  this.scene.add(this.iconHand);
-
-	  this.iconHand.position.set(0, 0, 0);
-
-	  this.startTime = Date.now();
-	  this.animateIconHand();
-	}
-
-	animateIconHand() {
-	  const currentTime = Date.now();
-	  const elapsedTime = currentTime - this.startTime;
-
-	  if (this.currentKeyframeIndex < this.keyframes.length - 1) {
-		const currentKeyframe = this.keyframes[this.currentKeyframeIndex];
-		const nextKeyframe = this.keyframes[this.currentKeyframeIndex + 1];
-
-		if (elapsedTime >= nextKeyframe.time) {
-		  this.currentKeyframeIndex++;
-		}
-
-		const timeDelta = nextKeyframe.time - currentKeyframe.time;
-		const progress = (elapsedTime - currentKeyframe.time) / timeDelta;
-		const angleDelta = nextKeyframe.angle - currentKeyframe.angle;
-		const angle = currentKeyframe.angle + angleDelta * progress;
-
-		// Apply rotation to the iconHand
-		this.iconHand.rotation.y = angle;
+	const displayIconHand = () => {
+	  if (!plane.children.includes(iconHand)) {
+		plane.add(iconHand);
 	  }
 
-	  // Render the scene
-	  this.renderer.render(this.scene, this.camera);
+	  iconHand.visible = true;
 
-	  // Request the next animation frame
-	  requestAnimationFrame(() => this.animateIconHand());
-	}
-  }
+	  // Rotation parameters
+	  const maxSwingStart = -1 * 45 * (Math.PI / 180);
+	  const maxSwingEnd = 1 * 45 * (Math.PI / 180);
+	  const duration = 2000;
+	  const startTime = Date.now();
 
-  // Usage with keyframes:
-  const keyframes = [
-	{ angle: 0, time: 0 },
-	{ angle: Math.PI / 2, time: 1000 }, // Example keyframe at 1 second
-	// Add more keyframes as needed
+	  // Function to animate the iconHand
+// Define the midSwingCenter
+const midSwingCenter = maxSwingStart + ((maxSwingEnd - maxSwingStart) / 2);
+
+// Define keyframes for the motion pattern with midSwingCenter
+const segment = duration / 10;
+const keyframes = [
+	{ time: 0, angle: midSwingCenter },
+	{ time: segment, angle: midSwingCenter },
+	{ time: 2 * segment, angle: maxSwingStart },
+	{ time: 4 * segment, angle: maxSwingEnd },
+	{ time: 6 * segment, angle: maxSwingStart },
+	{ time: 8 * segment, angle: maxSwingEnd },
+	{ time: 9 * segment, angle: midSwingCenter },
+	{ time: duration + 1000, angle: midSwingCenter },
   ];
 
-  const iconHand = new IconHand(scene, camera, renderer, keyframes);
+
+  // Function to animate the iconHand
+  function animateIconHand() {
+	const currentTime = Date.now();
+	const elapsedTime = currentTime - startTime;
+
+	// Find the relevant keyframes
+	let keyframe1, keyframe2;
+	for (let i = 0; i < keyframes.length - 1; i++) {
+		if (elapsedTime >= keyframes[i].time && elapsedTime < keyframes[i + 1].time) {
+			keyframe1 = keyframes[i];
+			keyframe2 = keyframes[i + 1];
+			break;
+		}
+	}
+
+	// Interpolate between keyframes
+	const deltaTime = keyframe2.time - keyframe1.time;
+	const progress = (elapsedTime - keyframe1.time) / deltaTime;
+	const angle = lerp(keyframe1.angle, keyframe2.angle, progress);
+
+	// Apply rotation to the iconHand
+	iconHand.rotation.y = angle;
+
+	// Render the scene
+	renderer.render(scene, camera);
+
+	// Request the next animation frame
+	requestAnimationFrame(animateIconHand);
+
+	// Check if the animation has completed and reset it
+	if (elapsedTime >= duration + 1500) {
+		startTime = currentTime;
+	}
+}
+
+// Linear interpolation function
+function lerp(a, b, t) {
+	return a + (b - a) * t;
+}
+
+// Start the animation
+animateIconHand();
+
+
+
+	};
 
 };
 
