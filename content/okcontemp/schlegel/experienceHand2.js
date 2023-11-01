@@ -125,6 +125,10 @@ document.addEventListener('DOMContentLoaded', () => {
         circle.rotation.x = axisX;
       }
       renderer.render(scene, camera);
+
+	//   if circle.material.map <= image5.jpg or >= image11.jpg then helpAnimation += 1
+	//   	helpAnimation = [ iconHandDelay, mobileSwipe, btn1, btn2, off ]
+
     });
 
 
@@ -198,23 +202,25 @@ document.addEventListener('DOMContentLoaded', () => {
 	const iconHand = new THREE.Mesh(iconHandGEO, iconHandMAT);
 	iconHand.visible = false;
 
-	if (!plane.children.includes(iconHand)) {
-		plane.add(iconHand);
-	}
-
 	const displayIconHand = () => {
-		iconHand.visible = true;
+	  if (!plane.children.includes(iconHand)) {
+		plane.add(iconHand);
+	  }
 
-		// Rotation parameters
-		const maxSwing = 60 * (Math.PI / 180); // Maximum swing in radians
-		const duration = 3000; // 3 seconds for a full swing
-		const startTime = Date.now();
+	  iconHand.visible = true;
 
-		// Function to animate the iconHand
-		function animateIconHand() {
+	  // Rotation parameters
+	  const maxSwingStart = -1 * 45 * (Math.PI / 180);
+	  const maxSwingEnd = 1 * 45 * (Math.PI / 180);
+	  const duration = 2000;
+	  const startTime = Date.now();
+
+	  // Function to animate the iconHand
+	  function animateIconHand() {
 		const currentTime = Date.now();
 		const elapsedTime = currentTime - startTime;
-		const angle = (Math.sin((elapsedTime / duration) * Math.PI * 2) * 0.5 + 0.5) * maxSwing;
+		const swingRange = maxSwingEnd - maxSwingStart;
+		const angle = maxSwingStart + (0.5 + 0.5 * Math.sin((elapsedTime / duration) * Math.PI * 2)) * swingRange;
 
 		// Apply rotation to the iconHand
 		iconHand.rotation.y = angle;
@@ -224,11 +230,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		// Request the next animation frame
 		requestAnimationFrame(animateIconHand);
-		}
+	  }
 
-		// Start the animation
-		animateIconHand();
-  };
+	  // Start the animation
+	  animateIconHand();
+	};
 
 };
 
