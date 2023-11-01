@@ -210,27 +210,27 @@ document.addEventListener('DOMContentLoaded', () => {
 	  iconHand.visible = true;
 
 	  // Rotation parameters
-	  const maxSwingStart = -1 * 45 * (Math.PI / 180);
-	  const maxSwingEnd = 1 * 45 * (Math.PI / 180);
+	  const swingStart = -1 * 45 * (Math.PI / 180);
+	  const swingEnd = 1 * 45 * (Math.PI / 180);
 	  const duration = 2000;
 	  const startTime = Date.now();
 
 	  // Function to animate the iconHand
-// Define the midSwingCenter
-const midSwingCenter = maxSwingStart + ((maxSwingEnd - maxSwingStart) / 2);
+		// Define the midSwingCenter
+		const swingCenter = swingStart + ((swingEnd - swingStart) / 2);
 
-// Define keyframes for the motion pattern with midSwingCenter
-const segment = duration / 10;
-const keyframes = [
-	{ time: 0, angle: midSwingCenter },
-	{ time: segment, angle: midSwingCenter },
-	{ time: 2 * segment, angle: maxSwingStart },
-	{ time: 4 * segment, angle: maxSwingEnd },
-	{ time: 6 * segment, angle: maxSwingStart },
-	{ time: 8 * segment, angle: maxSwingEnd },
-	{ time: 9 * segment, angle: midSwingCenter },
-	{ time: duration + 1000, angle: midSwingCenter },
-  ];
+		// Define keyframes for the motion pattern with midSwingCenter
+		const segment = duration / 10;
+		const keyframes = [
+			{ time: 0, angle: swingCenter },
+			{ time: segment, angle: swingCenter },
+			{ time: 2 * segment, angle: swingStart },
+			{ time: 4 * segment, angle: swingEnd },
+			{ time: 6 * segment, angle: swingStart },
+			{ time: 8 * segment, angle: swingEnd },
+			{ time: 9 * segment, angle: swingCenter },
+			{ time: duration + 1000, angle: swingCenter },
+		];
 
 
   // Function to animate the iconHand
