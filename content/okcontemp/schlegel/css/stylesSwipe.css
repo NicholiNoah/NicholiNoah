@@ -1,4 +1,14 @@
+.swipe-container-styles {
+	position: absolute;
+	left: calc(50% - 122.5px);
+	transform: translateX(-50%);
+	bottom: 20%; /* 75% from the bottom */
+	/* Add any other styles you need for the container */
+	z-index: 999;
+  }
+
 .circle {
+	position: absolute;
 	width: 40px;
 	height: 40px;
 	background: rgba(255, 255, 255, 1);
@@ -8,15 +18,18 @@
 	animation: moveCircle 1.25s linear infinite;
 	top: 0%;
 	transform: translateY(-103%);
+	z-index: 2;
   }
 
   .pill {
+	position: absolute;
 	width: 46px;
 	height: 46px;
 	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
 	border-radius: 20px;
 	position: relative;
 	animation: stretchPill 1.25s linear infinite;
+	z-index: 1;
   }
 
   @keyframes moveCircle {
@@ -79,13 +92,12 @@
 	  width: 121px;
 	  left: 150px;
 	  top: 0;
-	  opacity: 0.3;
 	}
 	100% {
 	  width: 46px;
 	  left: 225px;
 	  top: 0;
-	  opacity: 0;
+	  opacity: 0.3;
 	}
   }
 
