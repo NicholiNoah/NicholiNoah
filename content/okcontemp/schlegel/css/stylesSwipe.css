@@ -3,9 +3,10 @@
 	left: calc(50% - 122.5px);
 	transform: translateX(-50%);
 	bottom: 12.5%; /* 75% from the bottom */
-	/* Add any other styles you need for the container */
 	z-index: 999;
-  }
+	opacity: 0; /* Initially set to invisible */
+	animation-play-state: paused; /* Initially paused */
+}
 
 .circle {
 	position: absolute;
