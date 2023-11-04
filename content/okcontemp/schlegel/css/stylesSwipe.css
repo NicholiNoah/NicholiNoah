@@ -2,7 +2,7 @@
 	position: absolute;
 	left: calc(50% - 122.5px);
 	transform: translateX(-50%);
-	bottom: 20%; /* 75% from the bottom */
+	bottom: 12.5%; /* 75% from the bottom */
 	/* Add any other styles you need for the container */
 	z-index: 999;
   }
@@ -39,7 +39,7 @@
 	}
 	10% {
 	  left: 0px;
-	  opacity: 0.3;
+	  opacity: 0.6;
 	}
 	30% {
 	  left: 75px;
@@ -52,7 +52,7 @@
 	}
 	90% {
 	  left: 225px;
-	  opacity: 0.3;
+	  opacity: 0.6;
 	}
 	100% {
 	  left: 225px;
@@ -71,7 +71,7 @@
 	  width: 46px;
 	  left: 0;
 	  top: 0;
-	  opacity: 0.3;
+	  opacity: 0.4;
 	}
 	30% {
 	  width: 121px;
@@ -97,7 +97,7 @@
 	  width: 46px;
 	  left: 225px;
 	  top: 0;
-	  opacity: 0.3;
+	  opacity: 0.4;
 	}
   }
 
