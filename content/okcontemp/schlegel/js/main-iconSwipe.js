@@ -103,7 +103,9 @@ document.addEventListener('DOMContentLoaded', () => {
 			iconHandDelay = null; // Clear the timeout and reset the variable
 		  }
 		}
-		activateAnimation();
+		setTimeout(() => {
+			activateAnimation(); // Activate the CSS animation
+		}, 2000);
 	  };
 
 
@@ -317,9 +319,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // SWIPE
-	let swipeDelay = null;
-
-
 function activateAnimation() {
     // Add the necessary CSS properties to start the animation
     swipeContainer.style.opacity = 1;
