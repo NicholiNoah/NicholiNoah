@@ -101,11 +101,13 @@ document.addEventListener('DOMContentLoaded', () => {
 			console.log("Clearing iconHandDelay.");
 			clearTimeout(iconHandDelay);
 			iconHandDelay = null; // Clear the timeout and reset the variable
+
+			setTimeout(() => {
+				activateAnimation(); // Activate the CSS animation
+			}, 2000);
 		  }
 		}
-		setTimeout(() => {
-			activateAnimation(); // Activate the CSS animation
-		}, 2000);
+
 	  };
 
 
