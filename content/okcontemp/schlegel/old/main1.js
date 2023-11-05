@@ -2,8 +2,7 @@ import * as THREE from 'three';
 import { MindARThree } from 'mindar-image-three';
 
 document.addEventListener('DOMContentLoaded', () => {
-
-	const start = async () => {
+  const start = async () => {
 
 // IMAGES
     const imagesTotal = 16;
@@ -54,7 +53,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const dragStart = (event) => {
       isDragging = true;
-	  swipeCheck = true;
       previousX = event.clientX || event.touches[0].clientX;
     };
 
@@ -72,11 +70,6 @@ document.addEventListener('DOMContentLoaded', () => {
         previousX = currentX;
 
         renderer.render(scene, camera);
-
-		if (activateAnimation){
-			deactivateAnimation();
-		}
-
       }
     };
 
@@ -91,7 +84,6 @@ document.addEventListener('DOMContentLoaded', () => {
 // ANCHOR
 
 	let rotationCheck = false;
-	let swipeCheck = false;
 
     const anchor = mindarThree.addAnchor(0);
     anchor.group.add(plane);
@@ -105,13 +97,12 @@ document.addEventListener('DOMContentLoaded', () => {
 		  iconHandDelay = setTimeout(displayIconHand, 3000);
 		} else {
 		  console.log("Rotation is true.");
-			if (iconHandDelay) {
-				console.log("Clearing iconHandDelay.");
-				clearTimeout(iconHandDelay);
-				iconHandDelay = null; // Clear the timeout and reset the variable
-			}
+		  if (iconHandDelay) {
+			console.log("Clearing iconHandDelay.");
+			clearTimeout(iconHandDelay);
+			iconHandDelay = null; // Clear the timeout and reset the variable
+		  }
 		}
-
 	  };
 
 
@@ -122,7 +113,6 @@ document.addEventListener('DOMContentLoaded', () => {
       rightBtnImage.style.display = 'none';
 	  clearTimeout(iconHandDelay);
 	  iconHand.visible = false;
-
     };
 
     await mindarThree.start();
@@ -280,11 +270,6 @@ document.addEventListener('DOMContentLoaded', () => {
       // If rotationCheck is true, stop the animation and remove the iconHand
       cancelAnimationFrame(animationRequestId); // Stop the animation
       iconHand.visible = false; // Hide the iconHand
-
-	  if (!swipeCheck) {
-		console.log("swipeCheck OFF");
-		iconSwipeDelay = setTimeout(activateAnimation, 5000);
-	}
       return;
     }
 
@@ -322,58 +307,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	// Start the animation
 	animateIconHand();
+
+
+
 	};
-
-
-// SWIPE
-let iconSwipeDelay = null;
-let isAnimationActive = false;
-
-// if (activateAnimation && rotationCheck && !swipeCheck){
-// 	console.log("swipeCheck");
-// 	iconSwipeDelay = setTimeout(() => {
-// 	activateAnimation(); // Activate the CSS animation
-// 	}, 2000);
-// } else if (activateAnimation && rotationCheck && swipeCheck) {
-// 	clearTimeout(iconSwipeDelay);
-// 	iconSwipeDelay = null;
-// }
-
-function activateAnimation() {
-    // Add the necessary CSS properties to start the animation
-    swipeContainer.style.opacity = 1;
-    swipeContainer.style.animationPlayState = "running";
-    cssAnimationActive = true; // Activate the CSS animation
-}
-
-function deactivateAnimation() {
-    // Reset the CSS properties to stop the animation
-    swipeContainer.style.opacity = 0;
-    swipeContainer.style.animationPlayState = "paused";
-    cssAnimationActive = false; // Deactivate the CSS animation
-}
-
-
-const swipeContainer = document.querySelector(".swipe-container-styles");
-
-function activateAnimation() {
-    // Add the necessary CSS properties to start the animation
-    swipeContainer.style.opacity = 1;
-    swipeContainer.style.animationPlayState = "running";
-}
-
-function deactivateAnimation() {
-    // Reset the CSS properties to stop the animation
-    swipeContainer.style.opacity = 0;
-    swipeContainer.style.animationPlayState = "paused";
-}
-
-// Activate the animation when isAnimationActive is true
-if (isAnimationActive) {
-    activateAnimation();
-}
-
-
 
 };
 
