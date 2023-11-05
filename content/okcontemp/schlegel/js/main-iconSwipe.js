@@ -283,7 +283,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	  if (!swipeCheck) {
 		console.log("swipeCheck OFF");
-		iconSwipeDelay = setTimeout(activateAnimation, 2000);
+		iconSwipeDelay = setTimeout(activateAnimation, 5000);
 	}
       return;
     }
