@@ -372,12 +372,11 @@ if (isAnimationActive) {
 
 // CAPTIONS
 const captionTexts = [
-	{ text: 'prepared from: "Poet Warrior, A Memoir"', duration: 3000 },
-	{ text: 'by Joy Harjo', duration: 2000 },
-	{ text: 'We are bringing in a new story.', duration: 3000 },
-	{ text: 'We will be accompanied by ancient songs,', duration: 3600 },
-	{ text: 'and will celebrate together.', duration: 3400 },
-	{ text: 'Breath this new dawn.', duration: 2200 },
+	{ text: 'prepared from: "Poet Warrior, A Memoir"', duration: 5000 },
+	{ text: 'We are bringing in a new story', duration: 3000 },
+	{ text: 'We will be accompanied by ancient songs', duration: 3600 },
+	{ text: 'And will celebrate together', duration: 3400 },
+	{ text: 'Breath this new dawn', duration: 2200 },
 	{ text: 'Assist it as it opens its mouth to breathe.', duration: 4000 },
   ];
 
