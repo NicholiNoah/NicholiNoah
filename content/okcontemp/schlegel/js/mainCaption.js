@@ -372,13 +372,13 @@ if (isAnimationActive) {
 
 // CAPTIONS
 const captionTexts = [
-	{ text: 'from Poet Warrion: A Memoir', duration: 4000 },
-	{ text: '', duration: 1000 },
-	{ text: 'We are bringing in a new story', duration: 3000 },
-	{ text: 'We will be accompanied by ancient songs', duration: 3500 },
+	{ text: 'prepared from: "Poet Warrior, A Memoir"', duration: 3500 },
+	{ text: 'by Joy Harjo', duration: 1500 },
+	{ text: 'We are bringing in a new story.', duration: 3000 },
+	{ text: 'We will be accompanied by ancient songs,', duration: 3500 },
 	{ text: 'and will celebrate together.', duration: 3000 },
 	{ text: 'Breath this new dawn.', duration: 2800 },
-	{ text: 'Assist it as it opens its mouth to breathe', duration: 4000 },
+	{ text: 'Assist it as it opens its mouth to breathe.', duration: 4000 },
   ];
 
   let currentTextIndex = 0;

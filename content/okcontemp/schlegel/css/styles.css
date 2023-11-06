@@ -100,7 +100,7 @@ html, body {
 	position: absolute;
 	font-family: 'Arial', sans-serif;
 	white-space: nowrap;
-	bottom: 130px;
+	bottom: 110px;
 	left: 50%;
 	transform: translateX(-50%);
 	background-color: rgba(0, 0, 0, 0.7);
