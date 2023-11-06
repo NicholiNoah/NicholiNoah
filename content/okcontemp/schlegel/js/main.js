@@ -377,7 +377,7 @@ const captionTexts = [
 	{ text: 'We will be accompanied by ancient songs', duration: 3600 },
 	{ text: 'And will celebrate together', duration: 3400 },
 	{ text: 'Breath this new dawn', duration: 2200 },
-	{ text: 'Assist it as it opens its mouth to breathe.', duration: 4000 },
+	{ text: 'Assist it as it opens its mouth to breathe.', duration: 5000 },
   ];
 
   let currentTextIndex = 0;
