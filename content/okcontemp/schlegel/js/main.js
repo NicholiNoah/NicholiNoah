@@ -339,30 +339,28 @@ function activateAnimation() {
     // Add the necessary CSS properties to start the animation
     swipeContainer.style.opacity = 1;
     swipeContainer.style.animationPlayState = "running";
-    cssAnimationActive = true; // Activate the CSS animation
+    isAnimationActive = true; // Activate the CSS animation
 }
 
 function deactivateAnimation() {
+
+	if (isAnimationActive) {
+
+		console.log("deactivated animation");
     // Reset the CSS properties to stop the animation
     swipeContainer.style.opacity = 0;
     swipeContainer.style.animationPlayState = "paused";
-    cssAnimationActive = false; // Deactivate the CSS animation
+    isAnimationActive = false; // Deactivate the CSS animation
+
+	setTimeout(() => {
+        leftBtnImage.src = './assets/buttons/ocac-btn-play.png';}, 3000);
+	}
+
 }
 
 
 const swipeContainer = document.querySelector(".swipe-container-styles");
 
-function activateAnimation() {
-    // Add the necessary CSS properties to start the animation
-    swipeContainer.style.opacity = 1;
-    swipeContainer.style.animationPlayState = "running";
-}
-
-function deactivateAnimation() {
-    // Reset the CSS properties to stop the animation
-    swipeContainer.style.opacity = 0;
-    swipeContainer.style.animationPlayState = "paused";
-}
 
 // Activate the animation when isAnimationActive is true
 if (isAnimationActive) {
