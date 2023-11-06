@@ -162,8 +162,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // BUTTONS
-	const audioCaption = document.getElementById('audio-caption');
-
     const leftBtnImage = document.createElement('img');
     leftBtnImage.src = './assets/buttons/ocac-btn.png';
     leftBtnImage.alt = 'Click Here to PLAY Audio';
@@ -180,15 +178,11 @@ document.addEventListener('DOMContentLoaded', () => {
     leftBtnImage.addEventListener('click', () => {
       if (isPlaying) {
         audio.pause();
-		isCaptionPlaying = false;
-		audioCaption.style.display = 'none';
       } else {
         audio.play();
-		isCaptionPlaying = true;
-		showCaptionText(currentTextIndex);
       }
       isPlaying = !isPlaying;
-    //   toggleImage.style.display = isPlaying ? 'block' : 'none';
+      toggleImage.style.display = isPlaying ? 'block' : 'none';
     });
 
     let audioPlaying = false;
@@ -368,37 +362,6 @@ function deactivateAnimation() {
 if (isAnimationActive) {
     activateAnimation();
 }
-
-
-// CAPTIONS
-const captionTexts = [
-	{ text: 'prepared from: "Poet Warrior, A Memoir"', duration: 3500 },
-	{ text: 'by Joy Harjo', duration: 1500 },
-	{ text: 'We are bringing in a new story.', duration: 3000 },
-	{ text: 'We will be accompanied by ancient songs,', duration: 3500 },
-	{ text: 'and will celebrate together.', duration: 3000 },
-	{ text: 'Breath this new dawn.', duration: 2800 },
-	{ text: 'Assist it as it opens its mouth to breathe.', duration: 4000 },
-  ];
-
-  let currentTextIndex = 0;
-  let isCaptionPlaying = false;
-
-  function showCaptionText(index) {
-	const { text, duration } = captionTexts[index];
-
-	audioCaption.innerHTML = `<p>${text}</p>`;
-	audioCaption.style.display = 'block'; // Show the caption
-
-	setTimeout(() => {
-        audioCaption.style.display = 'none'; // Hide the caption after the designated duration
-        if (isCaptionPlaying && index + 1 < captionTexts.length) {
-          showCaptionText(index + 1); // Show the next caption
-        } else {
-          isCaptionPlaying = false;
-        }
-      }, duration);
-  }
 
 
 
