@@ -163,13 +163,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // BUTTONS
     const leftBtnImage = document.createElement('img');
-    leftBtnImage.src = './assets/buttons/ocac-btn.png';
+    leftBtnImage.src = './assets/buttons/btnOKContemp.png';
     leftBtnImage.alt = 'Click Here to PLAY Audio';
     leftBtnImage.classList.add('left-button');
     leftBtnImage.style.display = 'none';
 
     const toggleImage = document.createElement('img');
-    toggleImage.src = './assets/buttons/ocac-btn-eva.png';
+    toggleImage.src = './assets/buttons/voiceEva.png';
     toggleImage.style.display = 'none';
 
     const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe08.m4a');
@@ -183,23 +183,26 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       isPlaying = !isPlaying;
       toggleImage.style.display = isPlaying ? 'block' : 'none';
+
+	  console.log('Toggling captions with isPlaying:', isPlaying);
+	  toggleCaptions(isPlaying);
     });
 
     let audioPlaying = false;
 
     leftBtnImage.addEventListener('click', () => {
       if (!audioPlaying) {
-        leftBtnImage.src = './assets/buttons/ocac-btn-eva.png';
+        leftBtnImage.src = './assets/buttons/voiceEva.png';
         audio.play();
         audioPlaying = true;
         audio.addEventListener('ended', () => {
-          leftBtnImage.src = './assets/buttons/ocac-btn.png';
+          leftBtnImage.src = './assets/buttons/btnOKContemp.png';
           audioPlaying = false;
         });
       } else {
         audio.pause();
         audio.currentTime = 0;
-        leftBtnImage.src = './assets/buttons/ocac-btn.png';
+        leftBtnImage.src = './assets/buttons/btnOKContemp.png';
         audioPlaying = false;
       }
     });
@@ -363,6 +366,37 @@ if (isAnimationActive) {
     activateAnimation();
 }
 
+
+    // Function to activate and deactivate captions
+    function toggleCaptions(isPlaying) {
+		const captions = document.querySelectorAll('.captions p');
+
+		if (isPlaying) {
+		  audio.addEventListener('timeupdate', function () {
+			const currentTime = Math.floor(audio.currentTime);
+			captions.forEach(caption => {
+			  const captionTime = parseInt(caption.dataset.time);
+			  if (currentTime === captionTime) {
+				hideCaptions();
+				caption.style.display = 'block';
+			  }
+			});
+		  });
+		} else {
+		  hideCaptions();
+		}
+	  }
+
+	  // Event listener for audio play/pause
+	  audio.addEventListener('play', function () {
+		isPlaying = true;
+		toggleCaptions(isPlaying);
+	  });
+
+	  audio.addEventListener('pause', function () {
+		isPlaying = false;
+		toggleCaptions(isPlaying);
+	  });
 
 
 };

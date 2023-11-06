@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     for (let i = 0; i < imageNum.length; i++) {
       const texture = textureLoader.load(`./assets/selects/image${imageNum[i]}.jpg`, (loadedTexture) => {
         loadedTexture.colorSpace = THREE.SRGBColorSpace;
+		console.log(`Texture ${i} loaded.`);
       });
 
       textures.push(texture);
@@ -163,13 +164,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // BUTTONS
     const leftBtnImage = document.createElement('img');
-    leftBtnImage.src = './assets/buttons/ocac-btn.png';
+    leftBtnImage.src = './assets/buttons/btnOKContemp.png';
     leftBtnImage.alt = 'Click Here to PLAY Audio';
     leftBtnImage.classList.add('left-button');
     leftBtnImage.style.display = 'none';
 
     const toggleImage = document.createElement('img');
-    toggleImage.src = './assets/buttons/ocac-btn-eva.png';
+    toggleImage.src = './assets/buttons/voiceEva.png';
     toggleImage.style.display = 'none';
 
     const audio = new Audio('https://oklahomacontemporary.org/assets/files/Scheibe08.m4a');
@@ -178,8 +179,14 @@ document.addEventListener('DOMContentLoaded', () => {
     leftBtnImage.addEventListener('click', () => {
       if (isPlaying) {
         audio.pause();
+		// Stop displaying captions when audio is paused
+		captionDisplayActive = false;
       } else {
         audio.play();
+		// Start displaying captions when audio is playing
+		captionDisplayActive = true;
+		// You may want to reset currentCaptionIndex to 0 if you want to show captions from the beginning every time you play the audio.
+		currentCaptionIndex = 0;
       }
       isPlaying = !isPlaying;
       toggleImage.style.display = isPlaying ? 'block' : 'none';
@@ -189,17 +196,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     leftBtnImage.addEventListener('click', () => {
       if (!audioPlaying) {
-        leftBtnImage.src = './assets/buttons/ocac-btn-eva.png';
+        leftBtnImage.src = './assets/buttons/voiceEva.png';
         audio.play();
         audioPlaying = true;
         audio.addEventListener('ended', () => {
-          leftBtnImage.src = './assets/buttons/ocac-btn.png';
+          leftBtnImage.src = './assets/buttons/btnOKContemp.png';
           audioPlaying = false;
         });
       } else {
         audio.pause();
         audio.currentTime = 0;
-        leftBtnImage.src = './assets/buttons/ocac-btn.png';
+        leftBtnImage.src = './assets/buttons/btnOKContemp.png';
         audioPlaying = false;
       }
     });
@@ -326,43 +333,95 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // SWIPE
-let iconSwipeDelay = null;
-let isAnimationActive = false;
+	let iconSwipeDelay = null;
+	let isAnimationActive = false;
 
-function activateAnimation() {
-    // Add the necessary CSS properties to start the animation
-    swipeContainer.style.opacity = 1;
-    swipeContainer.style.animationPlayState = "running";
-    cssAnimationActive = true; // Activate the CSS animation
-}
+	function activateAnimation() {
+		// Add the necessary CSS properties to start the animation
+		swipeContainer.style.opacity = 1;
+		swipeContainer.style.animationPlayState = "running";
+		cssAnimationActive = true; // Activate the CSS animation
+	}
 
-function deactivateAnimation() {
-    // Reset the CSS properties to stop the animation
-    swipeContainer.style.opacity = 0;
-    swipeContainer.style.animationPlayState = "paused";
-    cssAnimationActive = false; // Deactivate the CSS animation
-}
+	function deactivateAnimation() {
+		// Reset the CSS properties to stop the animation
+		swipeContainer.style.opacity = 0;
+		swipeContainer.style.animationPlayState = "paused";
+		cssAnimationActive = false; // Deactivate the CSS animation
+	}
 
 
-const swipeContainer = document.querySelector(".swipe-container-styles");
+	const swipeContainer = document.querySelector(".swipe-container-styles");
 
-function activateAnimation() {
-    // Add the necessary CSS properties to start the animation
-    swipeContainer.style.opacity = 1;
-    swipeContainer.style.animationPlayState = "running";
-}
+	function activateAnimation() {
+		// Add the necessary CSS properties to start the animation
+		swipeContainer.style.opacity = 1;
+		swipeContainer.style.animationPlayState = "running";
+	}
 
-function deactivateAnimation() {
-    // Reset the CSS properties to stop the animation
-    swipeContainer.style.opacity = 0;
-    swipeContainer.style.animationPlayState = "paused";
-}
+	function deactivateAnimation() {
+		// Reset the CSS properties to stop the animation
+		swipeContainer.style.opacity = 0;
+		swipeContainer.style.animationPlayState = "paused";
+	}
 
-// Activate the animation when isAnimationActive is true
-if (isAnimationActive) {
-    activateAnimation();
-}
+	// Activate the animation when isAnimationActive is true
+	if (isAnimationActive) {
+		activateAnimation();
+	}
 
+
+// AUDIO CAPTIONS
+	const captions = [
+		{ text: 'Caption 1', timestamp: 0 },
+		{ text: 'Caption 2', timestamp: 3 },
+		{ text: 'Caption 3', timestamp: 5.2 },
+		// Add more captions with their timestamps as needed.
+	];
+
+	let currentCaptionIndex = 0;
+	let captionDisplayActive = false;
+
+	function displayCaption(currentTime) {
+		if (!captionDisplayActive) return;
+
+		// Loop through captions and display the appropriate one
+		while (currentCaptionIndex < captions.length && currentTime >= captions[currentCaptionIndex].timestamp) {
+			// Display the caption text
+			const captionText = captions[currentCaptionIndex].text;
+			// Display the captionText where you want in your scene
+			// For example, you can create a DOM element for captions and update its content.
+			// Example:
+			const captionElement = document.getElementById('captionElement');
+			captionElement.textContent = captionText;
+
+			currentCaptionIndex++;
+		}
+	}
+
+	audio.addEventListener('play', () => {
+		// Start displaying captions when audio is playing
+		captionDisplayActive = true;
+		// You may want to reset currentCaptionIndex to 0 if you want to show captions from the beginning every time you play the audio.
+		currentCaptionIndex = 0;
+	});
+
+	audio.addEventListener('pause', () => {
+		// Stop displaying captions when audio is paused
+		captionDisplayActive = false;
+	});
+
+	renderer.setAnimationLoop(() => {
+		// ... your existing code ...
+
+		// Get the current time of the audio playback (replace 'audio.currentTime' with your actual method to get audio time)
+		const currentTime = audio.currentTime;
+
+		// Display captions based on the current time
+		displayCaption(currentTime);
+
+		// ... your existing code ...
+	});
 
 
 };
