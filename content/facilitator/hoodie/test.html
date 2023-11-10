@@ -19,7 +19,7 @@
 
       const mindarThree = new MindARThree({
         container: document.querySelector("#container"),
-        imageTargetSrc: "./assets/unfoldingQR.mind"
+        imageTargetSrc: "./assets/wintercard.mind"
       });
 
       const { renderer, scene, camera } = mindarThree;
@@ -37,7 +37,7 @@
 		(gltf) => {
 		  const model = gltf.scene;
 
-		  model.scale.set(4, 4, 4);
+		  model.scale.set(12, 12, 12);
 
 		  // Traverse through the model's children and update materials
 		  model.traverse((child) => {
