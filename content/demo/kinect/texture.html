@@ -115,8 +115,8 @@
 				const depthMapTexture = new THREE.Texture(image);
 				depthMapTexture.needsUpdate = true;
 
-				const width = 640, height = 480;
-				const nearClipping = 850, farClipping = 4000;
+				const width = 422, height = 510;
+				const nearClipping = 850, farClipping = 8500;
 
 				material = new THREE.ShaderMaterial({
 					uniforms: {
@@ -126,8 +126,8 @@
 						'height': { value: height },
 						'nearClipping': { value: nearClipping },
 						'farClipping': { value: farClipping },
-						'pointSize': { value: 2 },
-						'zOffset': { value: 1000 }
+						'pointSize': { value: 1 },
+						'zOffset': { value: 0 }
 					},
 					vertexShader: document.getElementById('vs').textContent,
 					fragmentShader: document.getElementById('fs').textContent,
