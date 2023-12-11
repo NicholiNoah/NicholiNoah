@@ -58,95 +58,37 @@
 		side: THREE.BackSide
 		});
 		const circle = new THREE.Mesh(geoCircle, matCircle);
-		circle.rotation.y -= THREE.MathUtils.degToRad(90);
-		circle.scale.x = -1;
-		plane.add(circle);
-
-
-	// INTERACTION
-		let isDragging = false;
-		let previousX = 0;
-
-		const rotationSpeed = 0.01;
-
-		const dragStart = (event) => {
-		  isDragging = true;
-		  swipeCheck = true;
-		  previousX = event.clientX || event.touches[0].clientX;
-		};
-
-		const dragEnd = () => {
-		  isDragging = false;
-		};
-
-		const dragMove = (event) => {
-		  if (isDragging) {
-			const currentX = event.clientX || event.touches[0].clientX;
-			const deltaX = currentX - previousX;
-
-			circle.rotation.y += deltaX * rotationSpeed;
-
-			previousX = currentX;
-
-			renderer.render(scene, camera);
-
-			if (activateAnimation){
-				deactivateAnimation();
-			}
-
-		  }
-		};
-
-		document.body.addEventListener('mousedown', dragStart);
-		document.body.addEventListener('mouseup', dragEnd);
-		document.body.addEventListener('mousemove', dragMove);
-		document.body.addEventListener('touchstart', dragStart);
-		document.body.addEventListener('touchend', dragEnd);
-		document.body.addEventListener('touchmove', dragMove);
-
-
-	// ANCHOR
-
-		let rotationCheck = false;
-		let swipeCheck = false;
+		circle.rotation.y -= THREE.MathUtils.degToRad(270);
+		// circle.position.y += .5;
 
 
 
 			// create anchor
 			const anchor = mindarThree.addAnchor(0);
 			anchor.group.add(plane);
+			anchor.group.add(circle);
 
 			// start AR
 			await mindarThree.start();
 			renderer.setAnimationLoop(() => {
 			plane.lookAt(new THREE.Vector3());
 			const axisY = plane.rotation.y;
-			const axisX = -plane.rotation.x;
 
-			const totalAngle = Math.PI * (65 / 180);
+		const stepSize = 0.025; // size of each step between -0.3 and 0.3
+		const numSteps = 16; // number of steps between -0.3 and 0.3
 
-			if (axisY <= -totalAngle / 2) {
-			  circle.material.map = textures[0];
-			} else if (axisY >= totalAngle / 2) {
-			  circle.material.map = textures[15];
-			} else {
-			  const midpoint = 0;
-			  let distanceFromMidpoint = axisY - midpoint;
-			  let index = Math.round((distanceFromMidpoint / totalAngle) * 15) + 8;
-			  if (index < 0) {
-				index = 0;
-			  } else if (index > 15) {
-				index = 15;
-			  }
-			  circle.material.map = textures[index];
-			  circle.rotation.x = axisX;
+		// distribute and change images according to axisY rotation
+		if (axisY <= -0.3) {
+		circle.material.map = textures[0];
+		} else if (axisY > 0.3) {
+		circle.material.map = textures[15];
+		} else {
+		const index = Math.floor((axisY + 0.3) / stepSize);
+		circle.material.map = textures[index];
+		}
 
-			  if (circle.material.map === textures[3] || circle.material.map === textures[11]) {
-				  rotationCheck = true;
-				}
-				console.log(rotationCheck);
 
-			}
+
 			renderer.render(scene, camera);
 			});
 
