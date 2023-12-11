@@ -63,54 +63,6 @@
 		plane.add(circle);
 
 
-	// INTERACTION
-		let isDragging = false;
-		let previousX = 0;
-
-		const rotationSpeed = 0.01;
-
-		const dragStart = (event) => {
-		  isDragging = true;
-		  swipeCheck = true;
-		  previousX = event.clientX || event.touches[0].clientX;
-		};
-
-		const dragEnd = () => {
-		  isDragging = false;
-		};
-
-		const dragMove = (event) => {
-		  if (isDragging) {
-			const currentX = event.clientX || event.touches[0].clientX;
-			const deltaX = currentX - previousX;
-
-			circle.rotation.y += deltaX * rotationSpeed;
-
-			previousX = currentX;
-
-			renderer.render(scene, camera);
-
-			if (activateAnimation){
-				deactivateAnimation();
-			}
-
-		  }
-		};
-
-		document.body.addEventListener('mousedown', dragStart);
-		document.body.addEventListener('mouseup', dragEnd);
-		document.body.addEventListener('mousemove', dragMove);
-		document.body.addEventListener('touchstart', dragStart);
-		document.body.addEventListener('touchend', dragEnd);
-		document.body.addEventListener('touchmove', dragMove);
-
-
-	// ANCHOR
-
-		let rotationCheck = false;
-		let swipeCheck = false;
-
-
 
 			// create anchor
 			const anchor = mindarThree.addAnchor(0);
@@ -140,11 +92,6 @@
 			  }
 			  circle.material.map = textures[index];
 			  circle.rotation.x = axisX;
-
-			  if (circle.material.map === textures[3] || circle.material.map === textures[11]) {
-				  rotationCheck = true;
-				}
-				console.log(rotationCheck);
 
 			}
 			renderer.render(scene, camera);

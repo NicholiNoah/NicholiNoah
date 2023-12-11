@@ -10,8 +10,8 @@
 		<script type="importmap">
 		{
 			"imports": {
-			"three": "https://unpkg.com/three@v0.158.0/build/three.module.js",
-			"three/addons/": "https://unpkg.com/three@v0.158.0/examples/jsm/",
+			"three": "https://unpkg.com/three@0.156.0/build/three.module.js",
+			"three/addons/": "https://unpkg.com/three@0.156.0/examples/jsm/",
 			"mindar-image-three": "https://cdn.jsdelivr.net/npm/mind-ar@1.2.2/dist/mindar-image-three.prod.js"
 			}
 		}
@@ -172,42 +172,39 @@
 			}
 
 			function onDocumentMouseMove(event) {
+				// Handle mouse movement logic
 				mouse.x = (event.clientX - window.innerWidth / 2) * 8;
 				mouse.y = (event.clientY - window.innerHeight / 2) * 8;
-			}
+
+				const raycaster = new THREE.Raycaster();
+				const mouseVector = new THREE.Vector2();
+
+				// Calculate the mouse position in normalized device coordinates
+				mouseVector.x = (event.clientX / window.innerWidth) * 2 - 1;
+				mouseVector.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+				// Set the raycaster with the mouse position and camera's matrixWorld
+				raycaster.setFromCamera(mouseVector, camera);
+
+				// Calculate the intersection point with the scene
+				const intersects = raycaster.intersectObject(mesh); // Change 'mesh' to the object you want to interact with
+
+				if (intersects.length > 0) {
+				  const clickedPoint = intersects[0].point;
+				  camera.lookAt(clickedPoint);
+				}
 
 			function animate() {
 				requestAnimationFrame(animate);
 				render();
 			}
 
-			function render() {
 
-				// Calculate the maximum distance to render points (adjust this distance as needed)
-				const maxRenderDistance = 2000; // Adjust this value based on your scene requirements
 
-				// Iterate through the vertices and scale points that exceed the maximum distance
-				const positions = geometry.attributes.position.array;
-				for (let i = 0; i < positions.length; i += 3) {
-					const distance = Math.sqrt(
-						positions[i] * positions[i] +
-						positions[i + 1] * positions[i + 1] +
-						positions[i + 2] * positions[i + 2]
-					);
+			const mouse = new THREE.Vector2();
 
-					if (distance > maxRenderDistance) {
-						// Scale points that exceed the maximum distance to hide them
-						positions[i] = 0;
-						positions[i + 1] = 0;
-						positions[i + 2] = 0;
-					}
-				}
 
-				// Update the BufferGeometry after applying the distance-based threshold
-				geometry.attributes.position.needsUpdate = true;
-				camera.position.x += (mouse.x - camera.position.x) * 0.05;
-				camera.position.y += (-mouse.y - camera.position.y) * 0.05;
-				camera.lookAt(center);
+
 				renderer.render(scene, camera);
 			}
 

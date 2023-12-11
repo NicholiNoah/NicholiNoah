@@ -1,0 +1,111 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script async src="https://unpkg.com/es-module-shims@1.7.3/dist/es-module-shims.js"></script>
+    <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.156.0/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.156.0/examples/jsm/",
+        "mindar-image-three": "https://cdn.jsdelivr.net/npm/mind-ar@1.2.2/dist/mindar-image-three.prod.js",
+        "three/gltf-loader": "https://unpkg.com/three@0.156.0/examples/jsm/loaders/GLTFLoader.js"
+      }
+    }
+    </script>
+    <script type="module">
+      import * as THREE from 'three';
+      import { MindARThree } from 'mindar-image-three';
+      import { GLTFLoader } from 'three/gltf-loader'; // Import the GLTFLoader
+
+      const mindarThree = new MindARThree({
+        container: document.querySelector("#container"),
+        imageTargetSrc: "./assets/wintercard.mind"
+      });
+
+      const { renderer, scene, camera } = mindarThree;
+      const anchor = mindarThree.addAnchor(0);
+
+      // Load the 3D model
+      const loader = new GLTFLoader();
+	  loader.load(
+		'./assets/hood.glb',
+		(gltf) => {
+		  const model = gltf.scene;
+
+		  model.scale.set(1.5, 1.5, 1.5);
+		  model.position.set(0, 0, 0);
+		  model.rotation.set(0, -.025, 0);
+
+		  // Traverse through the model's children and update materials
+		  model.traverse((child) => {
+			if (child.isMesh) {
+			  // Create a new MeshBasicMaterial with sRGB encoding
+			  const newMaterial = new THREE.MeshBasicMaterial({
+				color: new THREE.Color().copy(child.material.color).convertSRGBToLinear(),
+				map: child.material.map ? child.material.map : null, // Preserve texture if available
+			  });
+
+			  // Set the new material to sRGB encoding
+			  newMaterial.map.encoding = THREE.sRGBEncoding;
+
+			  // Apply the new material to the mesh
+			  child.material = newMaterial;
+			}
+		  });
+
+		  anchor.group.add(model);
+		},
+		undefined,
+		(error) => {
+		  console.error('Error loading GLB model', error);
+		}
+	  );
+
+
+
+      const start = async () => {
+        await mindarThree.start();
+        renderer.setAnimationLoop(() => {
+          renderer.render(scene, camera);
+        });
+      };
+
+      const startButton = document.querySelector("#startButton");
+      const stopButton = document.querySelector("#stopButton");
+
+      startButton.addEventListener("click", () => {
+        start();
+      });
+
+      stopButton.addEventListener("click", () => {
+        mindarThree.stop();
+        mindarThree.renderer.setAnimationLoop(null);
+      });
+    </script>
+    <style>
+      body {
+        margin: 0;
+      }
+      #container {
+        width: 100vw;
+        height: 100vh;
+        position: relative;
+        overflow: hidden;
+      }
+      #control {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 2;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="control">
+      <button id="startButton">Start</button>
+      <button id="stopButton">Stop</button>
+    </div>
+    <div id="container">
+    </div>
+  </body>
+</html>
