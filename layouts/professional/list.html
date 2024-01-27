@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<section class="blog topmost-section">
+  <div class="container">
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+		  <p>
+			<i>Fascinated with analog VHS tape-to-tape and computer animation in the mid-‘90s, I’ve always sought out alternative methods to learning through curiosity… which lead to a 25-year digital video career spanning broadcast, film, and virtual education. In 2011, Both career and curiosity pushed me to strap on a backpack to travel the world for a year before landing a six-year stint hustling advertising in Detroit while documenting street art with local graffiti writers.</i></br>
+			</p>
+			<p style="text-align: right;">
+				<a href="/resume/NicholiNoah_resume23.pdf" style="color: blue;">Click here to view my <strong>Professional Resume</strong></a>
+			</p>
+		</div>
+	  </div>
+
+	<div class="row blog-posts">
+      {{ range (.Data.Pages).ByParam "rank" }}
+        <div class="col-md-4 post">
+          <img class="blog-list-image" src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
+          <p>{{ .Params.description | safeHTML }}</p>
+          <a class="overlay" href="{{ .Permalink }}" aria-label="{{ .Params.title }}">
+            <h2>{{ .Params.title | safeHTML }}</h2>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+		  <p><a href="/resume/nicholinoah_resume23.pdf">Click here to download Resumé</a>
+		  </p>
+		</div>
+	</div>
+
+  </div>
+</section>
+
+{{ end }}
