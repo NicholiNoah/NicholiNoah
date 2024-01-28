@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<section class="blog-post topmost-section">
+  <div class="banner-image">
+    </div>
+  <div class="container">
+    <h1>{{ .Params.title | safeHTML }}</h1>
+    {{ .Content | safeHTML }}
+  </div>
+</section>
+
+{{ end }}
