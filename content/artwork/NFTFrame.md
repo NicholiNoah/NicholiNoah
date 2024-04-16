@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
 description: in honor of the most undervalued and overlooked component of any artpiece - the frame.
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
-rank: 3
+rank: 4
 ---
 <div class="row">
   <div class="col-md-12">
