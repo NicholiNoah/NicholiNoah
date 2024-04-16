@@ -4,7 +4,7 @@ metaDescription:
 thumbnail: /images/Portfolio/Devotion/Hero3.jpg
 description: </br>You art what you eat.
 alt: Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe for any aspiring artist to sustain a healthy diet on minimal budget.
-rank: 2
+rank: 4
 ---
 <div class="row">
   <div class="col-md-12">
