@@ -11,7 +11,7 @@ summaryLength = 30
 [menu]
   [[menu.nav]]
     identifier = "nicholi-noah"
-    name = "Nicholi Noah"
+    name = "Biography"
     url = "/"
     weight = 1
   [[menu.nav]]
