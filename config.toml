@@ -18,12 +18,12 @@ summaryLength = 30
     identifier = "artwork"
     name = "Artwork"
     url = "/artwork/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     identifier = "professional"
     name = "Professional"
     url = "/professional/"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     identifier = "contact"
     name = "email: career@nicholinoah.com"
