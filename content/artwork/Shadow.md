@@ -1,7 +1,7 @@
 ---
 title: <i>2D Shadow of 4D Self (AR)</i>, 2022
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/MD7PXnG0CCFPi99NVYt2NnFpBq8ZyT3uanCqRHiGOTe4x-P9pbR4uGrLw80_Wj76knSdtUXwOzKkoPlIe0Jgqh21D9Ek5NnuWhpkddWV-hYvy7jz7Z8XsGRzaM8cRqTrkYfITI2g=w2400
+thumbnail: /images/Portfolio/Shadow/shadow_sm.jpg
 description: Self-Portrait<br>(acrylic on canvas + augmented reality)
 alt: Painted portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness. Hung on light blue bedroom wall.
 rank: 5
