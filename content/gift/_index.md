@@ -1,4 +1,4 @@
 ---
 title: Redirect to index.html
-redirect_to: "/ckeesee/sunset.html"
+redirect_to: "/index.html"
 ---
