@@ -18,10 +18,10 @@ rank: 2
 
 <div class="row">
   <div class="col-md-3">
-    <a href="https://www.highlights.com/">
+    <!-- <a href="https://www.highlights.com/">
      <img src="https://i.pinimg.com/originals/81/e4/fd/81e4fd7af70ca0fdd4418a16a2fa0717.jpg" alt="www.HighlightsMagazine.com"></img>
     </a>
-    <p style="font-family: arial; font-size: .65em; text-align: center">  </p>
+    <p style="font-family: arial; font-size: .65em; text-align: center">  </p> -->
   </div>
   <div class="col-md-9">
     <p style="font-family:arial">Influenced by Highlights Magazine’s famous “Hidden Pictures” puzzles, we collaborated with the Construction Management department to record 360 videos of mock OSHA safety violations on a working construction site. Viewing from the safety of their classroom or home, students were immersed in a live action construction site through their cellphone, tablet, or desktop, browsing each scene in augmented reality. Searching for safety violations in 360 degrees, just like the real world. Using their device’s screenshot feature, they would then “take a photo” of the issues, and include them in an industry standard Construction Safety Violation Report form. Upon graduation, students will have experienced several hours of virtual “on-the-job” training, and be prepared to take their first steps into a new career.</p>
