@@ -16,11 +16,19 @@
 		}
 		</script>
 
-		<link type="text/css" rel="stylesheet" href="./css/main.css">
+		<script>
+			const basePath = location.hostname === 'localhost' ? '' : '/';
+			document.querySelectorAll('link[rel="stylesheet"], img').forEach(el => {
+			  if (el.href) el.href = basePath + el.href;
+			  if (el.src) el.src = basePath + el.src;
+			});
+		  </script>
+
+		<link type="text/css" rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
 
-		<img id="imageTexture" src="./textures/grey.jpg" style="display: none;">
+		<img id="imageTexture" src="textures/grey.jpg" style="display: none;">
 
 
 		<script id="vs" type="x-shader/x-vertex">
