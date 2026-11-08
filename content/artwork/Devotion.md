@@ -13,8 +13,8 @@ rank: 6
 </div>
 
 <div>
-<a href= "/images/Portfolio/Devotion/Hero3.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe for any aspiring artist to sustain a healthy diet on minimal budget.">
-<img src= "/images/Portfolio/Devotion/Hero3.jpg" alt= "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipefor any aspiring artist to sustain a healthy diet on minimal budget." />
+<a href="/images/Portfolio/Devotion/Hero3.jpg">
+  <img src="/images/Portfolio/Devotion/Hero3.jpg" alt="Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item." />
 </a>
 </div>
 
@@ -33,7 +33,7 @@ rank: 6
 	Unassuming by design, <i>Devotion</i> captures the unseen discipline of the artist's process, shaped into a portrait of humanity every person can relate to: the need for food.</br>
 	Baiting the audience to critique with "How is this art??? ...I could have done that." Devotion responds, "Yes."</br></br>
 	Not discipline or religion. Nor performance art since it's not performing. Just a lifestyle adjustment.</br>
-	It buys the freedom to stay in flow. With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Erique Chagoya's <i>Enlightened Savage</i>, a dark taste of artistic individuals as sustinance (labeled and mooshed into tin cans, then packed into a box for marketing and easy distribution).</br>
+	It buys the freedom to stay in flow. With hunger as my vehicle, Creativity takes the wheel.<br><br>Equally inspired by Enrique Chagoya's <i>Enlightened Savage</i>, a dark taste of artistic individuals as sustinance (labeled and mooshed into tin cans, then packed into a box for marketing and easy distribution).</br>
 	<i>Devotion ($3/day)</i> was created out of necessity to survive. A diet designed to maximize budget and minimize distraction</br>
 	while scraping together enough nutritional energy to dedicate everything I am to capturing a visionary life outside status quo.</br>
 	Ripping off imposed labels. Clacking back the hermetically sealed tab.
@@ -46,8 +46,8 @@ rank: 6
   <div class="col-md-1">
   </div>
   <div class="col-md-3">
-  <a href= "/images/Portfolio/Devotion/recipe_sm.jpg">
-     <img src="/images/Portfolio/Devotion/recipe_sm.jpg" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
+    <a href="/images/Portfolio/Devotion/recipe_sm.jpg">
+      <img src="/images/Portfolio/Devotion/recipe_sm.jpg" alt="Close-up of the recipe ingredients used in Devotion ($3/day)." />
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the recipe</p>
   </div>
@@ -69,8 +69,8 @@ rank: 6
 	</p>
   </div>
   <div class="col-md-3">
-    <a href= "/images/Portfolio/Devotion/receipt_sm.jpg">
-     <img src="/images/Portfolio/Devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece."></img>
+    <a href="/images/Portfolio/Devotion/receipt_sm.jpg">
+      <img src="/images/Portfolio/Devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece." />
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">the receipt</p>
   </div>

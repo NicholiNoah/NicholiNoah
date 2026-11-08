@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Nicholi Noah"
 summaryLength = 30
 
@@ -33,6 +33,7 @@ summaryLength = 30
 
 [security]
   enableInlineShortcodes = false
+  allowContent = ['text/html', 'text/org', 'text/markdown']
 
   [security.exec]
     allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
