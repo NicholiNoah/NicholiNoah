@@ -1,7 +1,7 @@
 ---
 title: <i>Found In Translation</i>, 2020
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/mTS2gTykFfc59s4aeNBklXXa_cYwkqE9cO_r4l3QvIG9OGPN9BbuYofjgiyBHXywlVELd73pomEeNzwtxbI-irg0YuV-bDQ5yVs6p9Z7r_qiOa-7F4BHenaTX7_HIGKSJb5Un1e77Q=w2400
+thumbnail: "images/portfolio/found-in-translation/found-in-translation.jpg"
 description: Metaverse community celebrating a holiday tradition<br>(Cross your eyes to view in 3D)
 alt: Metaverse community celebrating a holiday tradition in 3D
 rank: 9

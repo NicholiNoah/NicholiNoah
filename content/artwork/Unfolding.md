@@ -1,7 +1,7 @@
 ---
 title: <i>Unfolding (You are the Sunset)</i>, 2022
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/pw/AMWts8D2To7cVHtJV0Vm8sA2umUq1SE5v5nMkYcyS1Ka7kHC0KokBoQGOpiQdlD41Zh3ZUrAw4Zb3E1HQ02B6vAFrZAuWvqWrA50A0IWh5WxDRBt2okPOYU=w2400
+thumbnail: "images/portfolio/unfolding/unfolding-thumb.jpg"
 description: Augmented Reality holiday ornament
 alt: Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside
 rank: 2

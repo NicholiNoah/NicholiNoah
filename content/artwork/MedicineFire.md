@@ -1,7 +1,7 @@
 ---
 title: <i>Medicine Fire | Medicine Man</i>, 2019
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/m-hMfF-N38zVo-jRbEiEbAzhvxLbuSVlKNE9RTzoIZI-Y2lxVSyf0XamFSH2d_LHgB0Rl-yPYEqBidMqYA8jaq1BLxFvdkD-GgirN1DiA226m9-lA33iWbNVPh_Xp98NTZYjAalF=w2400
+thumbnail: "images/portfolio/medicine-fire/medicine-fire.jpg"
 description: Medicine Fire, Medicine man<br>(Cross your eyes to view in 3D)
 alt: Cherokee Medicine Man at Medicine Fire
 rank: 7

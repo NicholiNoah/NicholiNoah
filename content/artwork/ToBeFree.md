@@ -1,7 +1,7 @@
 ---
 title: <i>...To Be Free</i>, 2022
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/udr9oxaQFaBKFe2FUKUM4-sQVM0Pdocasoe8cy6ym93ne99YRopfTrZFLUNFCmttAHYPmjfsyzoXRGlP5TuR6sJDY0XRRdynQmBhrs4nnX1spvQ9QY3evfqWVvSLRQs9j6gW8S5MTQ=w2400
+thumbnail: "/images/portfolio/to-be-free/to-be-free.jpg"
 description: Augmented Reality without the device<br>(Mixed-Media Sculpture and VR history lesson)
 alt: fine art sculpture of an invisible (virtual) baby wearing a VR headset, sleeping in a baby carrier, captured in a dog cage. The cage is unlocked and open, sitting on a concrete slab.
 rank: 3
