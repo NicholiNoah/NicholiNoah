@@ -1,7 +1,7 @@
 ---
 title: Holy Idea Tees
 metaDescription:
-thumbnail: https://lh3.googleusercontent.com/DoMOPJxtoXdDghXO0186wzWM694fOYMCEFslT5efSdJdh0I324psh13ORWXCw1M88LK43Bnvu45WHEViSIdVWbzyGhE3KqmQvDGYgajb0naSCNqKuNiZk1kDJP3JTYfAgJ_u0K7g6Q=w2400
+thumbnail: "/images/professional/holy-idea-tees.jpg"
 description: director \ producer \ photographer \ editor
 alt: Holy Idea Tees owner holding vintage t-shirt while inspecting its tag
 rank: 4

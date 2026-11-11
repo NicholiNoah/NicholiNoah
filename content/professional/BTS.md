@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes
 metaDescription: 
-thumbnail: https://lh3.googleusercontent.com/MXErI_xADrJqdB0aenODK6D2dWb7JBTUu-RwvRCL8NuZ5aijsIZihuCXtQ1jckQfkOtwVB97ihKb3f_b-NUv1BqqdB6O3M3BEQSwlyIzjjgpwXaY_sDj_WqGzYMvk3koxIVZr5gvDA=w2400
+thumbnail: "/images/professional/bts3.jpg"
 description: director \ photographer \ writer
 alt: Collage of several film sets and locations
 rank: 11

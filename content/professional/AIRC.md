@@ -1,7 +1,8 @@
 ---
 title: American Indian<br>Resource Center
 metaDescription: 
-thumbnail: https://lh3.googleusercontent.com/IYDj08-DldH8fVPgS5BghNG6YO5VZ9NfqJtfq-WAu7HBahx77UTHjZomNldfngBqjlAcEZ4EtNbvzQvnhwA1Pv_F1TGVNoan9AEWbATWD3bbNrOUwRREG79tbZ-7Hz0R3drIU0AapQ=w2400
+thumbnail: "/images/professional/airc.jpg"
+
 description: editor
 alt: Young Cherokee girl having fun in virtual reality
 rank: 8

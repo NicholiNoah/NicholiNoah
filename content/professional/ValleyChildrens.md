@@ -1,7 +1,7 @@
 ---
 title: Valley Children's<br>Healthcare
 metaDescription: 
-thumbnail: https://lh3.googleusercontent.com/GLnp_bnCefUGWxfrGtaa5fYC9TOnv2okoJSwkNRRWUmTkwsEAT9GYnXumwQxN5CTzmCSssv2DvJ3E0smJNMKBsjBSC6bmoOjjzskasPrHEVi2niI9jJ-r4rEeNGwxrO7jr4itIE43w=w2400
+thumbnail: "/images/professional/vch-futures-worth-fighting-for.jpg"
 description: EDITOR \ CO-WRITER \ VFX<br>** EMMY AWARD WINNER **
 alt: Doctor performing surgery in hospital room
 rank: 3
