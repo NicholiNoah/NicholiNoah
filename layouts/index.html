@@ -6,9 +6,9 @@
       <div class="col-md-0">
         <img
           class="blog-list-image"
-          src="{{ .Params.banner }}"
-          style="height:{{ .Params.bannerHeight }}"
-        >
+          src="{{ .Params.banner | relURL }}"
+          alt="{{ .Params.alt | default .Title }}"
+        />
       </div>
       <div class="col-md-12 center-container">
         <div class="content-container">
