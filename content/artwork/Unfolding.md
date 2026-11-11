@@ -12,11 +12,7 @@ rank: 2
   </div>
 </div>
 
-<div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTkwMGZmMDBiYzFiNDMwNjAzZDU4NmI2N2I1N2U1ODNhNTE2MSZjdD1n/tfxy0eWhqBuiSPGONE/giphy.gif" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
-</div>
-
-<div><img src="https://raw.githubusercontent.com/hiukim/mind-ar-js-doc/master/static/samples/assets/card-example/card.png
-" alt= "image test" />
+<div><img src="/images/portfolio/unfolding/unfolding.gif" alt= "Paper holiday ornament with QR code that generates an augmented reality crystal ball with Oklahoma Contemporary Art Center inside" />
 </div>
 
 <div class="row">
