@@ -7,7 +7,7 @@ bannerHeight: 0vh
 
 <div class="row">
   <div class="col-md-12">
-    <img src="https://lh3.googleusercontent.com/-9X_0qe5RlyKshKh3J-xWaMaadMhxRm-1Lctj82IGVeVZ8rs8DLMznzbpfguJLmmXkb-ZQCm8V7NbgQG2FOcGlBT6F1FyyCqx0jgOeh5edZpUlreZpQTkweH2sv4BilzLNRIOHGQyA=w2400" alt="alternate text">
+    <img src="/images/banner-profile.jpg" alt="Curiosity drives Creative. Challenge inspires Opportunity. When obstacles stand in your way, make them the center of your story.">
   </div>
 </div>
 
