@@ -1,5 +1,5 @@
 ---
-title: <i>2D Shadow of 4D Self (AR)</i>, 2022
+title: <i>Silhouette</i>, 2022
 metaDescription:
 thumbnail: "/images/Portfolio/silhouette/silhouette.jpg"
 description: Self-Portrait<br>(acrylic on canvas + augmented reality)
