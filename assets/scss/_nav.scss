@@ -36,17 +36,18 @@ nav {
         }
       }
     }
-    .nav-right {
+.nav-right {
       display: flex;
       align-items: center;
       justify-content: flex-end;
       width: 100%;
       height: 4rem;
+      gap: 2rem; /* Controls the space between the envelope and LinkedIn icons */
       .nav-image-link {
         height: 100%;
         img {
           height: 100%;
-          padding: 0rem 0.5rem;
+          padding: 0; /* Remove inner padding since gap handles the spacing */
         }
       }
     }
