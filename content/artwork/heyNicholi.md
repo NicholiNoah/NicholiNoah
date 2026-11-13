@@ -25,30 +25,30 @@ rank: 1
 
 ## **Creative Process & Storyboards**
 
-This is where the magic happens...
+Click images to see their full size.
 
 <div class="row text-center">
   <div class="col-md-3">
-    <a href="https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400">
-      <img src="https://lh3.googleusercontent.com/liZZGdEzPuqY99PD0NsuBiWS_qAJS-x6KYAURn5X7sBs0u5zXvIHHSfIw8AKeV1hM4_WSgJ0mtqL0xNRoGdxSbeWSglIa2_h6UMxbFcimHrSGJy0Sk_qd2pLfwP83FspdtjvFUG5gQ=w2400" alt="Mockup design with tiny planet and two Nicholis" class="img-fluid" />
+    <a href="/images/portfolio/hey-nicholi/hey-nicholi_01-mockup.jpg">
+      <img src="/images/portfolio/hey-nicholi/hey-nicholi_01-mockup.jpg" alt="Mockup design with tiny planet and two Nicholis" class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.7em;">Early concept photo mockup</p>
   </div>
   <div class="col-md-3">
-    <a href="https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400">
-      <img src="https://lh3.googleusercontent.com/ew98g6CxTYe6onS84O-4yZPRZ5AJdq7PZ04TriS77jFcPNvEBzwE7pFa0sDakEhoSq0scYdrgl8zeo-zhaLhkW0Bgyv5gL-0T34hD-BC9P8FZEo-voxfvIPQhl6xMmEZDMU-U6WHnQ=w2400" alt="Hand-drawn storyboard concept: story arc" class="img-fluid" />
+    <a href="/images/portfolio/hey-nicholi/hey-nicholi_02-arc.jpg">
+      <img src="/images/portfolio/hey-nicholi/hey-nicholi_02-arc.jpg" alt="Hand-drawn storyboard concept: story arc" class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.7em;">Storyboard: Story Arc</p>
   </div>
   <div class="col-md-3">
-    <a href="https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400">
-      <img src="https://lh3.googleusercontent.com/7G0qHZAW-i5OxUQuorclOm5F967BCsN-r3kgjU7ciAfeFFPD2HavTUdA7F-dTmQJzLS_NU2NCLXNlvWGxkoRDrDpFjTNzmq2woub8I9ejnkuN17tX5D-OJMcUQrPHDl6I4XWdhxETQ=w2400" alt="Hand-drawn storyboard concept: dialogue" class="img-fluid" />
+    <a href="/images/portfolio/hey-nicholi/hey-nicholi_03-dialogue.jpg">
+      <img src="/images/portfolio/hey-nicholi/hey-nicholi_03-dialogue.jpg" alt="Hand-drawn storyboard concept: dialogue" class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.7em;">Storyboard: Dialogue</p>
   </div>
   <div class="col-md-3">
-    <a href="https://lh3.googleusercontent.com/JHii8NgANCSCSxcD-TYD_vrPEjMZFxEsUm_zEQMioLFXbTocETwGkoyOzst1NoaCcf2xiXdnIg4prmRj70Mo_y3YGud0mKQY84yllhqr81btSbsUybJl0-mO7tnwkA3lmFZnW-Wvrw=w2400">
-      <img src="https://lh3.googleusercontent.com/JHii8NgANCSCSxcD-TYD_vrPEjMZFxEsUm_zEQMioLFXbTocETwGkoyOzst1NoaCcf2xiXdnIg4prmRj70Mo_y3YGud0mKQY84yllhqr81btSbsUybJl0-mO7tnwkA3lmFZnW-Wvrw=w2400" alt="Hand-drawn stereoscopic workflow sketch" class="img-fluid" />
+    <a href="/images/portfolio/hey-nicholi/hey-nicholi_04-stereo.jpg">
+      <img src="/images/portfolio/hey-nicholi/hey-nicholi_04-stereo.jpg" alt="Hand-drawn stereoscopic workflow sketch" class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.7em;">Mono to stereo tiny planet workflow</p>
   </div>
@@ -66,14 +66,14 @@ With the wind at my back, I threw as hard as I could, and that little ball flew 
     <p style="font-family: arial; font-size: 0.7em;">Draft sequence to test composition and timing</p>
   </div>
   <div class="col-md-3">
-    <a href="https://lh3.googleusercontent.com/s6qZkuTJOgg46ivrM-osBK9IpcJzPP71GH9vQHRBGTR676BVXm_eCiNABY_ydwyDYsO2U8iu-Wt_eLIFNuFIskP4GtvRYbs4vyn5QdwC8nWYsSNFCPgSJdJ01khjOCdZA4MJ0d_rwQ=w2400">
-      <img src="https://lh3.googleusercontent.com/s6qZkuTJOgg46ivrM-osBK9IpcJzPP71GH9vQHRBGTR676BVXm_eCiNABY_ydwyDYsO2U8iu-Wt_eLIFNuFIskP4GtvRYbs4vyn5QdwC8nWYsSNFCPgSJdJ01khjOCdZA4MJ0d_rwQ=w2400" alt="Storyboard of video frames with hand-drawn directions for animation" class="img-fluid" />
+    <a href="/images/portfolio/hey-nicholi/hey-nicholi_05-animations.jpg">
+      <img src="/images/portfolio/hey-nicholi/hey-nicholi_05-animations.jpg" alt="Storyboard of video frames with hand-drawn directions for animation" class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.7em;">Storyboard: Animations</p>
   </div>
   <div class="col-md-3">
-    <a href="https://lh3.googleusercontent.com/4x8jiRTgb4-y-fsQC61CrUQ2_kBk8WWF70l-jcaaueeqXlQkrHy5nGGgpkcfLXYxCc2lYKEdIw7VgobcQbokp7E9PbW3tJ9uou6WQCR0kGrqaAiA_YfH8OccXFvEoT5KQ2UIHnPEkQ=w2400">
-      <img src="https://lh3.googleusercontent.com/4x8jiRTgb4-y-fsQC61CrUQ2_kBk8WWF70l-jcaaueeqXlQkrHy5nGGgpkcfLXYxCc2lYKEdIw7VgobcQbokp7E9PbW3tJ9uou6WQCR0kGrqaAiA_YfH8OccXFvEoT5KQ2UIHnPEkQ=w2400" alt="Hand-drawn direction for animation changes" class="img-fluid" />
+    <a href="/images/portfolio/hey-nicholi/hey-nicholi_06-critique.jpg">
+      <img src="/images/portfolio/hey-nicholi/hey-nicholi_06-critique.jpg" alt="Hand-drawn direction for animation changes" class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.7em;">Sample daily critique and solutions</p>
   </div>
