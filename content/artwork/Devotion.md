@@ -13,8 +13,8 @@ rank: 6
 </div>
 
 <div class="text-center">
-  <a href="/images/Portfolio/Devotion/Hero3.jpg">
-    <img src="/images/Portfolio/Devotion/Hero3.jpg" alt="Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item." class="img-fluid" />
+  <a href="/images/portfolio/devotion/hero3.jpg">
+    <img src="/images/portfolio/devotion/hero3.jpg" alt="Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item." class="img-fluid" />
   </a>
 </div>
 
@@ -46,8 +46,8 @@ rank: 6
 <div class="row">
   <div class="col-md-1"></div>
   <div class="col-md-3 text-center">
-    <a href="/images/Portfolio/Devotion/recipe_sm.jpg">
-      <img src="/images/Portfolio/Devotion/recipe_sm.jpg" alt="Close-up of the recipe ingredients used in Devotion ($3/day)." class="img-fluid" />
+    <a href="/images/portfolio/devotion/recipe_sm.jpg">
+      <img src="/images/portfolio/devotion/recipe_sm.jpg" alt="Close-up of the recipe ingredients used in Devotion ($3/day)." class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.75em; font-weight: bold;">the recipe</p>
   </div>
@@ -72,8 +72,8 @@ rank: 6
     </p>
   </div>
   <div class="col-md-3 text-center">
-    <a href="/images/Portfolio/Devotion/receipt_sm.jpg">
-      <img src="/images/Portfolio/Devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece." class="img-fluid" />
+    <a href="/images/ortfolio/devotion/receipt_sm.jpg">
+      <img src="/images/portfolio/devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece." class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.75em; font-weight: bold;">the receipt</p>
   </div>

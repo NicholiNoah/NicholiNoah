@@ -1,7 +1,7 @@
 ---
 title: <i>Silhouette</i>, 2022
 metaDescription:
-thumbnail: "/images/Portfolio/silhouette/silhouette.jpg"
+thumbnail: "/images/portfolio/silhouette/silhouette.jpg"
 description: Self-Portrait<br>(acrylic on canvas + augmented reality)
 alt: Painted portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness. Hung on light blue bedroom wall.
 rank: 5
@@ -12,7 +12,7 @@ rank: 5
   </div>
 </div>
 
-<div><img src="/images/Portfolio/silhouette/silhouette.jpg" alt= "Self-portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness." />
+<div><img src="/images/portfolio/silhouette/silhouette.jpg" alt= "Self-portrait of an inverted shadow. An eternally universe spiraling deep into the artist's conscious mind. Surrounded by darkness." />
 </div>
 
 <div class="row">
