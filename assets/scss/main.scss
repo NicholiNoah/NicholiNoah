@@ -158,3 +158,50 @@ h2, h3 {
     }
   }
 }
+
+/* --- Lightbox Modal Styles --- */
+.lightbox-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  align-items: center;
+  justify-content: center;
+
+  &.active {
+    display: flex;
+  }
+
+  img {
+    max-width: 90%;
+    max-height: 85vh;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  }
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 3rem;
+  cursor: pointer;
+  padding: 0.2em 0.5em;
+  line-height: 1;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+
+  &:hover, &:focus {
+    opacity: 1;
+    outline: 2px solid #fff;
+    outline-offset: 4px;
+  }
+}

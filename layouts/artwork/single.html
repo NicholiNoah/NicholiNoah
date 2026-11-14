@@ -1,12 +1,78 @@
-{{ define "main" }}
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
 
-<section class="blog-post topmost-section">
-  <div class="banner-image">
-    </div>
-  <div class="container">
-    <h1>{{ .Params.title | safeHTML }}</h1>
-    {{ .Content | safeHTML }}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+  <title>{{ .Params.title }} | {{ $.Site.Title }}</title>
+
+  <meta property="og:url" content="{{ .Permalink }}" />
+
+  {{ if .Params.metaDescription }}
+  <meta name="description" content="{{ .Params.metaDescription }}">
+  <meta property="og:description" content="{{ .Params.metaDescription }}">
+  {{ else }}
+  <meta name="description" content="{{ .Summary }}">
+  <meta property="og:description" content="{{ .Summary }}">
+  {{ end }}
+
+  <meta property="og:image" content="/images/CVRS3D_Banner600.jpg">
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  {{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16" />
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div class="container">
+        <div class="nav-brand">
+          <a href="/" class="brand" aria-label="Front page">
+            <img src="/images/logo.png" alt="Logo">
+          </a>
+        </div>
+        <label class="menu" for="nav-check">
+          <img src="/images/menu2.svg">
+        </label>
+        <input type="checkbox" id="nav-check">
+        <div class="nav-left collapse">
+          {{ range .Site.Menus.nav.ByWeight }}
+          <a href="{{.URL}}" class="nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">
+            {{ .Name }}
+          </a>
+          {{ end }}
+        </div>
+        <div class="nav-right {{ if lt .Site.Params.breakpoints.small 700 }}collapse{{ end }}">
+          <a href="mailto:career@nicholinoah.com" class="nav-image-link nav-at-link" aria-label="Send Email">@</a>
+          <a href="https://www.linkedin.com/in/nicholinoah/" class="nav-image-link" aria-label="Linkedin">
+            <img src="/images/linkedin-in.svg" alt="view linkedin profile">
+          </a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="blog-post topmost-section">
+      <div class="banner-image"></div>
+      <div class="container">
+        <h1>{{ .Params.title | safeHTML }}</h1>
+        {{ .Content | safeHTML }}
+      </div>
+    </section>
+  </main>
+
+  <script src="/index.js"></script>
+
+  <!-- Lightbox Modal Container -->
+  <div id="lightbox" class="lightbox-modal" role="dialog" aria-modal="true" aria-label="Enlarged image viewer" hidden>
+    <button id="lightbox-close" class="lightbox-close" aria-label="Close image viewer">&times;</button>
+    <img id="lightbox-img" src="" alt="" />
   </div>
-</section>
 
-{{ end }}
+</body>
+</html>
