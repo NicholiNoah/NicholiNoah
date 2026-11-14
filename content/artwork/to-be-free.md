@@ -12,7 +12,7 @@ rank: 3
   </div>
 </div>
 
-<div><img src="https://lh3.googleusercontent.com/QMu9stxqkBRomBt-PMYY6otIg9KcL6MAO82wvnEyzYjfjxpbLpwvKFtJap7UX3bQHrUdPwA--s-Mg-EMEjPxf9thO10gpwTI0JVD4K8_gos0S1FNbKxomkohMq4iaetwNbSpWVG4=w2400" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
+<div><img src="/images/portfolio/to-be-free/to-be-free.jpg" alt= "fine art sculpture of an invisible baby wearing an Oculus Go VR headset, sleeping quietly in a baby seat inside an unlocked dog cage" />
 </div>
 
 <div class="row">
@@ -34,7 +34,7 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/rJEDL8wFfO31jqUSMHh00J5X71cb6vjd-lCj0ylCIWm2Qnmd_2FfUcnPKRLDIdapGVQZvudNUAENlP6jwWrsCMSilJUBk27OI_mpIoYqDU-4YkZ4Q7_UqOBYvk5Qu0u81jbxVhHc_A=w2400" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
+     <img src="/images/portfolio/to-be-free/innocent-angle.jpg" alt="close-up of our virtual  baby wearing a VR headset, sleeping innocently a black baby seat"></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">what does your imagination see?</p>
   </div>
@@ -50,8 +50,8 @@ rank: 3
     <p style="font-family:arial">Directly paralleled to the lifetime of struggle I face everyday as an Autistic adult, <em>To Be Free</em> is an expression of my yearning to be independent.<br/><br/>Endless attempts to identify with a society who refuse to see me. Speaking knowledge from a different perspective.<br/>Burning desire to be accepted.<br/><br/>Pushing myself as far as possible, yet constantly falling short of others' expectations that can never be appeased.<br/><br/>Abandoned into accepting my words will never be heard, no matter how loud I scream.<br/><br/>Still clinging onto a dream that one day I'll finally be included.</p>
   </div>
   <div class="col-md-3">
-    <a href= "https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400">
-     <img src="https://lh3.googleusercontent.com/a48YWjfts7_LnKSEqeqlwglv_P0uXqk6NJzGDJwpfh5zbcPaF5Lh0jE579phz7XMNEquu_5k1HL5mXq2Gype57Vsf9wd0kyBuhp0RkjCbb2N0CjX0QpUUzmhNaNH6RpBxSIMcZMU=w2400" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
+    <a href= "/images/portfolio/to-be-free/lock-cage.jpg">
+     <img src="/images/portfolio/to-be-free/lock-cage.jpg" alt="An unlocked padlock dangles from the side of a cage. Its inscription reads, 'Born into a cage of endless expectations. Invisible to a society that refuses to see. Unlocked from the inside, an experimental future only few can comprehend."></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">unlocked from the inside</p>
   </div>
@@ -61,7 +61,7 @@ rank: 3
   <div class="col-md-1">
   </div>
   <div class="col-md-3">
-     <img src="https://media3.giphy.com/media/D5KAfOnGrx9MSDVvCz/giphy.gif?cid=790b76119bf3c2a3c6028a2b9e10a5166bdcb845eea1d223&rid=giphy.gif&ct=w2400" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
+     <img src="/images/portfolio/to-be-free/light-breathing.gif" alt="close-up of Oculus Go VR headset with custom breathing LED power light"></img>
     </a>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">custom installed "breathing" LED</p>
   </div>
@@ -83,7 +83,7 @@ At more than one high school, I watched their entire VR program get tossed into 
     <p style="font-family:arial">In 2020, Facebook announced the Go will no longer be supported, soon dissolving the Oculus brand entirely. Abandoned by the very parent company who made them, in favor of a new headset packaged with the same promises and even shorter lifespan.</br></br>One year later, after <a href="https://twitter.com/ID_AA_Carmack/status/1441497813796356097?s=20" target="_blank" rel="noopener noreferrer">several months lobbying Facebook</a>, <a href="https://en.wikipedia.org/wiki/John_Carmack" target="_blank" rel="noopener noreferrer">John Carmack</a> (creator of legendary videogames <em>Wolfenstein 3D</em>, <em>Doom</em>, and <em>Quake</em>) announced the now depricated <a href="https://twitter.com/ID_AA_Carmack/status/1441496418368294914?s=20" target="_blank" rel="noopener noreferrer">Oculus Go is being unlocked</a>, officially removing Facebook's control of the device and your data. The freely available <a href="https://developer.oculus.com/blog/unlocking-oculus-go/" target="_blank" rel="noopener noreferrer">*fastboot oem unlock* bootloader</a> strips the devices software down to its root programming, allowing any developer with a dream to open Go's future without the need for Facebook's servers and restrictions.</p>
   </div>
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/qg-nrEpZz4ib_RNifpDvWxfonxDjXK6yPcmxNMBvLvnkXjItNKFsxNqEw70nCeMUSKFDZormy8OrozVfOKRhF5bIqXFC9lmlrbxGYMOl6t6pmPh77hGKAsTOB8lZaJzG8kk7E1NI=w2400"></img>
+     <img src="/images/portfolio/to-be-free/concrete.jpg"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">concrete slab represents abandonment</p>
   </div>
 </div>
@@ -92,7 +92,7 @@ At more than one high school, I watched their entire VR program get tossed into 
   <div class="col-md-1">
   </div>
   <div class="col-md-3">
-     <img src="https://lh3.googleusercontent.com/xrUSsnPrBkcFgL7l59UKpubY6D_XPhPNyLrX0dyjTHo66WWFBTL57HqSlV5RK7ItEVnM5Tq8z_DCtH6W_SlqB2FHZPifoPbXQzspHLMwQrpaKldOVd8-311UUGttRf0vb-LdWXjP=w2400" alt="small circuit board with Nicholi Noah's signature, dated june 10, 2022"></img>
+     <img src="/images/portfolio/to-be-free/tbf-signature.jpg" alt="small circuit board with Nicholi Noah's signature on a small microchip board, dated june 10, 2022"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">©2022 Nicholi Noah</p>
   </div>
   <div class="col-md-7">
