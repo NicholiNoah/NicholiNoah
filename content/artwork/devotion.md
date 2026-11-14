@@ -1,7 +1,7 @@
 ---
 title: "<i>Devotion ($3/day)</i>, 2023"
 metaDescription: "Fine art sculpture made of canned foods, grains, cooker, and receipt on wood."
-thumbnail: "/images/Portfolio/Devotion/Hero3.jpg"
+thumbnail: "/images/portfolio/devotion/hero3.jpg"
 description: "You art what you eat."
 alt: "Fine art sculpture made of cans of chickpeas, tomatoes with green chiles, and green peas. Presented on a square wood base with 1/2 cup rice, rice cooker, 1 cup oatmeal, and grocery receipt showing prices of each item. This sculpture serves as a functional and tastey recipe for any aspiring artist to sustain a healthy diet on minimal budget."
 rank: 6
@@ -72,7 +72,7 @@ rank: 6
     </p>
   </div>
   <div class="col-md-3 text-center">
-    <a href="/images/ortfolio/devotion/receipt_sm.jpg">
+    <a href="/images/portfolio/devotion/receipt_sm.jpg">
       <img src="/images/portfolio/devotion/receipt_sm.jpg" alt="A grocery store receipt after purchase of all items in the art piece." class="img-fluid" />
     </a>
     <p style="font-family: arial; font-size: 0.75em; font-weight: bold;">the receipt</p>
