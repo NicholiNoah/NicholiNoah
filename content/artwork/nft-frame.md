@@ -1,7 +1,7 @@
 ---
 title: <i>NFT</br>(the Frame Stays In the Picture)</i>, 2022
 metaDescription:
-thumbnail: /images/Portfolio/NFT/FreezeFrame_sm.jpg
+thumbnail: /images/Portfolio/nft/freeze-frame_sm.jpg
 description: in honor of the most undervalued and overlooked component of any artpiece - the frame.
 alt: ornate wooden frame layered atop an lcd video screen. On screen, digital 3D scans of the wooden frame are sequentially jettisoned softly into the mysteries of outer space.
 rank: 4
@@ -49,7 +49,7 @@ rank: 4
 
 <div class="video-container">
   <video width="540" height="720" autoplay loop muted playsinline>
-    <source src="/images/Portfolio/NFT/nftMockup-Portrait.mp4" type="video/mp4">
+    <source src="/images/portfolio/nft/nft-mockup.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -91,13 +91,13 @@ rank: 4
   <div class="col-md-1">
   </div>
   <div class="col-md-5">
-     <img src="/images/Portfolio/NFT/BigTrash.jpg"></img>
+     <img src="/images/portfolio/nft/big-trash.jpg"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Big Trash Day</p>
   </div>
   <div class="col-md-1">
   </div>
   <div class="col-md-5">
-     <img src="/images/Portfolio/NFT/NewFrame.jpg"></img>
+     <img src="/images/portfolio/nft/new-frame.jpg"></img>
     <p style="font-family: arial; font-size: .75em; font-weight:bold; text-align: center; margin-top: -2%">Ready for 3D Scan + Preview of LCD background</p>
   </div>
 </div><br><br>
